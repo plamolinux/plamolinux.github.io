@@ -13,7 +13,7 @@ echo "************ Generating site ************"
 hugo
 
 echo "************ Adding CNAME ************"
-echo plamolinux.org >> public/CNAME
+echo www.plamolinux.org >> public/CNAME
 
 echo "************ git add && git commit ************"
 git add public/
