@@ -1,0 +1,805 @@
+<!DOCTYPE html>
+<html lang="ja" itemscope itemtype="http://schema.org/WebPage">
+  <head>
+    
+
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+  <title>Plamo 開発の歩み - Plamo Linux</title>
+  <meta name="description" content="Plamo のリリースバージョン毎に時系列で，開発の歩み及び使用している kernel のバージョンを記録しています．
+ Plagia 時代 Plamo Linux 1.x シリーズ Plamo Linux 2.x シリーズ Plamo Linux 3.x シリーズ Plamo Linux 4.x シリーズ Plamo Linux 64 シリーズ Plamo Linux 5.x シリーズ Plamo Linux 6.x シリーズ Plamo Linux 7.x シリーズ  Plagia 時代  1997 夏 : インストーラの日本語化，PCMCIA 対応の作業開始 1997-11-05 : plagia-alpha4 1st print ( kernel 2.0.31 ) 配布． 1997-11-06 : plagia-alpha4 2nd print 作成． 1997-12-13 : plagia-β1 ( kernel 2.0.32 ) を jaist で公開． 1998-02-11 : plagia-β2 ( kernel 2.">
+  <meta name="author" content="Plamo Linux Maintainer Group"/><script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "WebSite",
+    "name": "Plamo Linux",
+    
+    "url": "https:\/\/username.github.io"
+}
+</script><script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "name": "",
+  "url": "https:\/\/username.github.io"
+  
+  
+  
+  
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+        "@type": "ListItem",
+        "position": 1,
+        "item": {
+          "@id": "https:\/\/username.github.io",
+          "name": "home"
+        }
+    },{
+        "@type": "ListItem",
+        "position": 3,
+        "item": {
+          "@id": "https:\/\/username.github.io\/history\/",
+          "name": "Plamo 開発の歩み"
+        }
+    }]
+}
+</script><script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Article",
+  "author": {
+    "name" : "Plamo Linux Maintainer Group"
+  },
+  "headline": "Plamo 開発の歩み",
+  "description" : "Plamo のリリースバージョン毎に時系列で，開発の歩み及び使用している kernel のバージョンを記録しています．\n Plagia 時代 Plamo Linux 1.x シリーズ Plamo Linux 2.x シリーズ Plamo Linux 3.x シリーズ Plamo Linux 4.x シリーズ Plamo Linux 64 シリーズ Plamo Linux 5.x シリーズ Plamo Linux 6.x シリーズ Plamo Linux 7.x シリーズ  Plagia 時代  1997 夏 : インストーラの日本語化，PCMCIA 対応の作業開始 1997-11-05 : plagia-alpha4 1st print ( kernel 2.0.31 ) 配布． 1997-11-06 : plagia-alpha4 2nd print 作成． 1997-12-13 : plagia-β1 ( kernel 2.0.32 ) を jaist で公開． 1998-02-11 : plagia-β2 ( kernel 2.",
+  "inLanguage" : "ja",
+  "wordCount":  1537 ,
+  "datePublished" : "0001-01-01T00:00:00",
+  "dateModified" : "0001-01-01T00:00:00",
+  "image" : "https:\/\/username.github.io\/images\/garland_logo.jpg",
+  "keywords" : [ "" ],
+  "mainEntityOfPage" : "https:\/\/username.github.io\/history\/",
+  "publisher" : {
+    "@type": "Organization",
+    "name" : "https:\/\/username.github.io",
+    "logo" : {
+        "@type" : "ImageObject",
+        "url" : "https:\/\/username.github.io\/images\/garland_logo.jpg",
+        "height" :  60 ,
+        "width" :  60
+    }
+  }
+}
+</script>
+
+<meta property="og:title" content="Plamo 開発の歩み" />
+<meta property="og:description" content="Plamo のリリースバージョン毎に時系列で，開発の歩み及び使用している kernel のバージョンを記録しています．
+ Plagia 時代 Plamo Linux 1.x シリーズ Plamo Linux 2.x シリーズ Plamo Linux 3.x シリーズ Plamo Linux 4.x シリーズ Plamo Linux 64 シリーズ Plamo Linux 5.x シリーズ Plamo Linux 6.x シリーズ Plamo Linux 7.x シリーズ  Plagia 時代  1997 夏 : インストーラの日本語化，PCMCIA 対応の作業開始 1997-11-05 : plagia-alpha4 1st print ( kernel 2.0.31 ) 配布． 1997-11-06 : plagia-alpha4 2nd print 作成． 1997-12-13 : plagia-β1 ( kernel 2.0.32 ) を jaist で公開． 1998-02-11 : plagia-β2 ( kernel 2.">
+<meta property="og:image" content="https://username.github.io/images/garland_logo.jpg" />
+<meta property="og:url" content="https://username.github.io/history/" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Plamo Linux" />
+
+  <meta name="twitter:title" content="Plamo 開発の歩み" />
+  <meta name="twitter:description" content="Plamo のリリースバージョン毎に時系列で，開発の歩み及び使用している kernel のバージョンを記録しています．
+ Plagia 時代 Plamo Linux 1.x シリーズ Plamo Linux 2.x シリーズ Plamo Linux 3.x シリーズ Plamo Linux 4.x シリーズ Plamo Linux 64 シリーズ Plamo Linux 5.x シリー …">
+  <meta name="twitter:image" content="https://username.github.io/images/garland_logo.jpg" />
+  <meta name="twitter:card" content="summary" />
+  <link href='https://username.github.io/images/garland_logo.jpg' rel='icon' type='image/x-icon'/>
+  <meta name="generator" content="Hugo 0.83.0" />
+  <link rel="alternate" href="https://username.github.io/index.xml" type="application/rss+xml" title="Plamo Linux"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css" integrity="sha384-9eLZqc9ds8eNjO3TmqPeYcDj8n+Qfa4nuSiGYa6DjLNcv9BtN69ZIulL9+8CqC9Y" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"><link rel="stylesheet" href="https://username.github.io/css/main.css" /><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" />
+  <link rel="stylesheet" href="https://username.github.io/css/highlight.min.css" /><link rel="stylesheet" href="https://username.github.io/css/codeblock.css" /><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe.min.css" integrity="sha384-h/L2W9KefUClHWaty3SLE5F/qvc4djlyR4qY3NUV5HGQBBW7stbcfff1+I/vmsHh" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/default-skin/default-skin.min.css" integrity="sha384-iD0dNku6PYSIQLyfTOpB06F2KCZJAKLOThS5HRe8b3ibhdEQ6eKsFf/EeFxdOt5R" crossorigin="anonymous">
+
+
+
+  </head>
+  <body>
+    <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
+        <span class="sr-only">メニューを切り替え</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="https://username.github.io">Plamo Linux</a>
+    </div>
+
+    <div class="collapse navbar-collapse" id="main-navbar">
+      <ul class="nav navbar-nav navbar-right">
+        
+          
+            <li>
+              <a title="Posts" href="/posts/">Posts</a>
+            </li>
+          
+        
+          
+            <li>
+              <a title="History" href="/history/">History</a>
+            </li>
+          
+        
+          
+            <li>
+              <a title="Plamo Linux について" href="/about/">Plamo Linux について</a>
+            </li>
+          
+        
+          
+            <li>
+              <a title="Download" href="/download/">Download</a>
+            </li>
+          
+        
+          
+            <li>
+              <a title="Mailing List" href="/ml/">Mailing List</a>
+            </li>
+          
+        
+          
+            <li>
+              <a title="Wiki" href="http://plamo.linet.gr.jp/">Wiki</a>
+            </li>
+          
+        
+          
+            <li>
+              <a title="Tags" href="/tags">Tags</a>
+            </li>
+          
+        
+
+        
+
+        
+      </ul>
+    </div>
+
+    
+      <div class="avatar-container">
+        <div class="avatar-img-border">
+          <a title="Plamo Linux" href="https://username.github.io">
+            <img class="avatar-img" src="https://username.github.io/images/garland_logo.jpg" alt="Plamo Linux" />
+          </a>
+        </div>
+      </div>
+    
+
+  </div>
+</nav>
+
+
+
+
+    
+
+
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+<div class="pswp__bg"></div>
+
+<div class="pswp__scroll-wrap">
+    
+    <div class="pswp__container">
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+    </div>
+    
+    <div class="pswp__ui pswp__ui--hidden">
+    <div class="pswp__top-bar">
+      
+      <div class="pswp__counter"></div>
+      <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+      <button class="pswp__button pswp__button--share" title="Share"></button>
+      <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+      <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+      
+      
+      <div class="pswp__preloader">
+        <div class="pswp__preloader__icn">
+          <div class="pswp__preloader__cut">
+            <div class="pswp__preloader__donut"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+      <div class="pswp__share-tooltip"></div>
+    </div>
+    <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+    </button>
+    <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+    </button>
+    <div class="pswp__caption">
+      <div class="pswp__caption__center"></div>
+    </div>
+    </div>
+    </div>
+</div>
+
+
+  
+  
+  
+
+
+
+
+
+
+  
+
+  <header class="header-section ">
+    
+    <div class="intro-header no-img">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+            <div class="page-heading">
+              
+                <h1>Plamo 開発の歩み</h1>
+              
+              
+                <hr class="small">
+              
+              
+              
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+
+    
+<div class="container" role="main">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      <article role="main" class="blog-post">
+        <p>Plamo のリリースバージョン毎に時系列で，開発の歩み及び使用している kernel のバージョンを記録しています．</p>
+<ul>
+<li><a href="#plagia">Plagia 時代</a></li>
+<li><a href="#plamo1">Plamo Linux 1.x シリーズ</a></li>
+<li><a href="#plamo2">Plamo Linux 2.x シリーズ</a></li>
+<li><a href="#plamo3">Plamo Linux 3.x シリーズ</a></li>
+<li><a href="#plamo4">Plamo Linux 4.x シリーズ</a></li>
+<li><a href="#plamo64">Plamo Linux 64 シリーズ</a></li>
+<li><a href="#plamo5">Plamo Linux 5.x シリーズ</a></li>
+<li><a href="#plamo6">Plamo Linux 6.x シリーズ</a></li>
+<li><a href="#plamo7">Plamo Linux 7.x シリーズ</a></li>
+</ul>
+<h3 id="a-nameplagiaplagia-時代a"><!-- raw HTML omitted -->Plagia 時代<!-- raw HTML omitted --></h3>
+<ul>
+<li>1997 夏 : インストーラの日本語化，PCMCIA 対応の作業開始</li>
+<li>1997-11-05 : plagia-alpha4 1st print ( kernel 2.0.31 ) 配布．</li>
+<li>1997-11-06 : plagia-alpha4 2nd print 作成．</li>
+<li>1997-12-13 : plagia-β1 ( kernel 2.0.32 ) を jaist で公開．</li>
+<li>1998-02-11 : plagia-β2 ( kernel 2.0.33 ) を公開．</li>
+<li>1998-03-18 : plagia-β2.1 CD-ROM を作成．</li>
+<li>1998-03-24 : plagia-β2.2 にアップ．</li>
+<li>1998-04-14 : plagia-pre-β3 を ftp で公開．</li>
+<li>1998-04-24 : plagia-β3 の配布開始．</li>
+<li>1998-05-24 : <strong>Plagia から Plamo に改名．</strong></li>
+</ul>
+<h3 id="a-nameplamo1plamo-linux-1x-シリーズa"><!-- raw HTML omitted -->Plamo Linux 1.x シリーズ<!-- raw HTML omitted --></h3>
+<ul>
+<li>1998-06-11 : pre-release CD-ROM を作成.</li>
+<li>1998-06-20 : Plamo Linux 1.0 公開.
+<ul>
+<li>記念すべきバージョンの主な内容．
+<ul>
+<li>Linux kernel 2.0.33</li>
+<li>gcc-2.7.2.3</li>
+<li>PJE 0.2b に追従</li>
+<li>Slackware 3.4 &amp; 3.5β に追従</li>
+<li>XFree86-3.3.2</li>
+<li>libc 5.4.44</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>1998-08-04 : Plamo Linux 1.1-pre release.</li>
+<li>1998-08-15 : Plamo Linux 1.1 official release.</li>
+<li>1998-08-23 : Plamo Linux 1.1.1 release.</li>
+<li>1998-09-18 : Plamo Linux 1.1.2 第一回 Linux Seminar で配布.</li>
+<li>1998-09-27 : Plamo Linux 1.1.2 release.</li>
+<li>1998-10-05 : Plamo Linux 1.2 ( kernel 2.0.35 ) pre-release.</li>
+<li>1998-10-18 : Plamo Linux 1.3 release.</li>
+<li>1998-11-26 株式会社トッパン発行「Linux ネットワーク」 初版第1刷に 1.2 CD-ROM 収録．</li>
+<li>Software Design 誌 1998 年 12 月号付録 CD-ROM に 1.3 収録．</li>
+<li>1999-01-23 : Plamo Linux 1.4pr5 ( kernel 2.0.36 ) release.</li>
+<li>1999-02-16 : Plamo Linux 1.4.1 release.</li>
+<li>1999-03-10 株式会社トッパン発行 「Linux インストールキット 第2版」に 1.4.1 CD-ROM 収録．</li>
+<li>Software Design 誌 1999 年 7 月号付録 CD-ROM に 1.4.4 収録．</li>
+<li>Unix User 誌 1999 年 7 月号付録 CD-ROM に 1.4.4 収録．</li>
+<li>日経WinPC 誌 1999 年 8 月号付録 CD-ROM に 1.4.4 収録．</li>
+<li>1999-11 技術評論社発行「改訂版 PC UNIX ユーザのための PostgreSQL 完全攻略ガイド」に 1.4.5 CD-ROM 収録．</li>
+</ul>
+<h3 id="a-nameplamo2plamo-linux-2x-シリーズa"><!-- raw HTML omitted -->Plamo Linux 2.x シリーズ<!-- raw HTML omitted --></h3>
+<ul>
+<li>1999-09-19 : Plamo Linux 2.0 α ( kernel 2.2.12 ) release.</li>
+<li>1999-10-13 : Plamo Linux 2.0 α1 ( kernel 2.2.13 ) release.</li>
+<li>1999-11-29 : Plamo Linux 2.0 β1 に更新．</li>
+<li>2000-04-22 : Plamo Linux 2.0 release.
+<ul>
+<li>2.0 の主な内容．
+<ul>
+<li>Linux kernel 2.2.14</li>
+<li>glibc-2.1.2</li>
+<li>gcc-2.9.5</li>
+<li>XFree86-3.3.6</li>
+<li>pcmcia-cs 3.1.3</li>
+<li>emacs 20.6</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Linux Japan 誌 2000 年 7 月号付録 CD-ROM に 2.0 収録．</li>
+<li>Linux Magazine 誌 2000 年 8 月号付録 CD-ROM に 2.0 収録．</li>
+<li>2000-09-29 : Plamo Linux 2.1 ( kernel 2.2.16 ) release.</li>
+<li>Software Design 誌 2000 年 11 月号付録 CD-ROM に 2.1 収録．</li>
+<li>2001-04-13 : バージョン番号を Plamo-2.2 に更新． (kernel 2.2.19)</li>
+<li>2001-05-05 : Plamo Linux 2.2 β4 に更新．</li>
+<li>2001-05-21 : Plamo Linux 2.2 release.</li>
+<li>2001-06-06 : Plamo Linux 2.2.1 release.</li>
+<li>2001-06-28 : 技術評論社発行「PostgreSQL 完全攻略ガイド」 改訂第3版第1刷に 2.2 CD-ROM 収録．</li>
+<li>2001-07-25 : 技術評論社発行「PostgreSQL 完全攻略ガイド」 改訂第3版第2刷に 2.2.1 CD-ROM 収録．</li>
+<li>2002-03-23 : 2.2 系は Plamo 2.2.5 で Bug fix 以外開発終了．</li>
+<li>2002-05-30 : こっそりと Plamo 2.2.6 ftp release．</li>
+</ul>
+<h3 id="a-nameplamo3plamo-linux-3x-シリーズa"><!-- raw HTML omitted -->Plamo Linux 3.x シリーズ<!-- raw HTML omitted --></h3>
+<ul>
+<li>2002/03/24 : 開発は Plamo 3.0 へ branch．</li>
+<li>2002/03/26 : Plamo Linux 3.0-alpha1 ( kernel 2.4.18 ) に更新．</li>
+<li>2002/05/30 : Plamo Linux 3.0-alpha1 を ftp で公開.</li>
+<li>2002/08/05 : Plamo Linux 3.0-beta1 ( kernel 2.4.19 ) を ftp で公開.</li>
+<li>2002/09/02 : Plamo Linux 3.0-beta2 に更新.</li>
+<li>2002/09/18 : バージョン番号を Plamo-3.0 に更新．</li>
+<li>2002/09/23 : Plamo Linux 3.0 release.
+<ul>
+<li>3.0 の主な内容．
+<ul>
+<li>Linux kernel 2.4.19</li>
+<li>glibc-2.2.5</li>
+<li>gcc-2.95.3</li>
+<li>XFree86-4.2.0</li>
+<li>Perl-5.6.1</li>
+<li>KDE-3.0.3</li>
+<li>emacs-21.2</li>
+<li>uClibc + BusyBox ベースのインストーラに移行</li>
+<li>2002/09/24 : Plamo Linux 3.1 の開発開始． ftp のツリーに Plamo 3.1 追加．</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Software Design 誌 2002 年 11 月号付録 CDーROM に 3.0 収録．</li>
+<li>日経Linux 誌 &lsquo;03 年 3 月号付録 CDーROM に 3.0 収録．</li>
+<li>Linux magazine 誌 2003 年 3 月号付録 CDーROM に 3.0 収録．</li>
+<li>Linux World 誌 2003 年 6 月号付録 DVD に 3.0 収録．</li>
+<li>2003/04/18 : バージョン番号を Plamo-3.1 RC1 に更新．</li>
+<li>2003/04/21 : ftp 版を Plamo Linux 3.1 RC1 としてまとめる．( kernel 2.4.20 )</li>
+<li>2003/05/18 : Plamo Linux 3.1 release.</li>
+<li>2003/05/20 : 3.2 の開発に移行．</li>
+<li>2003/06/15 : バージョン番号を Plamo-3.2 に更新．</li>
+<li>2003/06/17 : Plamo Linux 3.2 release．</li>
+<li>2003/07/03 : Plamo-current は 3.3 ? の開発に移行．</li>
+<li>2003/07/08 : 日経Linux 誌 2003 年 8 月号付録 CDーROM に 3.2 収録．</li>
+<li>2003/08/20 : current version を 3.2.1 に更新．</li>
+<li>2003/09/04 : kernel 2.4.22 採用に伴い version を 3.3に更新．</li>
+<li>2003/09/15 : Plamo Linux 3.3 ftp release.</li>
+<li>2003/09/29 : DOS/V POWER REPORT 誌 2003 年 11 月号付録 DVD に 3.3 収録．</li>
+<li>2003/10/07 : Linux magazine 誌 2003 年 11 月号付録 CD-ROM に 3.3 収録．</li>
+<li>Plamo Linux 4.0 に向けた開発に入る．</li>
+</ul>
+<h3 id="a-nameplamo4plamo-linux-4x-シリーズa"><!-- raw HTML omitted -->Plamo Linux 4.x シリーズ<!-- raw HTML omitted --></h3>
+<ul>
+<li>2004-01-16 : 開発バージョンタグを plamo-4.0-a1 に変更．( kernel 2.4.24 )</li>
+<li>2004-04-07 : plamo 4.0-beta1 を ftp で公開．( kernel-2.4.25-i386-P1 )</li>
+<li>2004-04-18 : バージョンを beta2 に更新 ．( kernel-2.4.25-noarch-P2 )</li>
+<li>2004-05-10 : バージョンを beta3 に更新．( kernel-2.4.26-i586-P2 )</li>
+<li>2004-06-09 : バージョンを RC1 に更新．（kernel-2.4.26-i586-P3）</li>
+<li>2004-06-25 : Plamo Linux 4.0 release.
+<ul>
+<li>4.0 の主な内容．
+<ul>
+<li>Linux kernel 2.4.26 + ALSA</li>
+<li>glibc-2.3.2</li>
+<li>gcc-3.3.2</li>
+<li>XFree86-4.4.0</li>
+<li>KDE-3.2.2</li>
+<li>ネットワーク設定ツール Planet を採用</li>
+<li>8 + 3 のパッケージ名の制限を無くす</li>
+<li>複数の CD-ROM からのインストールに対応</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>2004-06-29 : Plamo 4.1 へ branch． （kernel-2.6.7-i586-P1）4.0x も同時進行で更新が続く</li>
+<li>2004-08-04 : 4.0 に xfplamoconfig を追加</li>
+<li>2004-08-10 : 4.0 を kernel-2.4.27 + alsa-driver-1.0.5a に更新</li>
+<li>2004-09-10 : plamo-4.01 release．（kernel-2.4.27）</li>
+<li>2005-01-25 : 4.01 を kernel-2.4.29 + alsa-driver-1.0.8 に更新</li>
+<li>2005-03-31 : 4.0 系のバージョンタグを plamo-4.02 に更新</li>
+<li>2005-04-01 : plamo-4.02 release．（kernel-2.4.29 unicon対応)</li>
+<li>2005-05-08 : plamo-4.1 のツリーは廃版にして，plamo-4.2 のツリーを構築</li>
+<li>2005-05-15 : 4.2 系のバージョンタグを plamo-4.2-a1 に変更．（kernel 2.6.11.9 + vd_unicon）</li>
+<li>2005-06-06 : 4.02 を kernel-2.4.31 + alsa-1.0.9a に更新</li>
+<li>2005-07-03 : plamo-4.2-a1 を kernel-2.6.12.2 + unicon に更新</li>
+<li>2005-07-06 : plamo-4.2-a1 を XFree86 から Xorg-6.8.2 に変更</li>
+<li>2005-08-16 : 4.0 系の plamo-4.03 を release.（kernel-2.4.31）</li>
+<li>2005-08-18 : 4.2-a1 を kernel-2.6.12.5 + unicon に更新</li>
+<li>2005-09-07 : 4.2-a1 を kernel-2.6.13_SMP に更新</li>
+<li>2005-11-12 : 4.2-a1 を kernel-2.6.14.2 に更新</li>
+<li>2005-12-16 : 4.2-a1 を kernel-2.6.14.4 + unicon に更新</li>
+<li>2006-01-07 : 4.2-a1 を kernel-2.6.15 に更新</li>
+<li>2006-01-21 : 4.2-a1 を kernel-2.6.15.1 に更新</li>
+<li>2006-02-03 : 4.2-a1 を kernel-2.6.15.2 に更新</li>
+<li>2006-02-15 : 4.2-a1 を kernel-2.6.15.4 に更新</li>
+<li>2006-03-09 : 4.2-a1 を kernel-2.6.15.6 に更新</li>
+<li>2006-03-16 : 4.2 系を β2 として公開</li>
+<li>2006-03-27 : 4.2 系のバージョンタグを β3 に更新</li>
+<li>2006-03-29 : 4.2 β3 の kernel を 2.6.15.7 に更新</li>
+<li>2006-04-01 : plamo-4.2 をリリース</li>
+<li>2006-07-29 : 4.2 の kernel を 2.6.17.7 に更新</li>
+<li>2006-08-18 : 4.xx 系のバージョンタグを 4.21 β1 に更新</li>
+<li>2006-08-27 : 4.21 β1 の kernel を 2.6.17.11 に更新</li>
+<li>2006-09-12 : バージョンタグをβ2に更新，kernel を 2.6.17.13 に更新</li>
+<li>2006-10-05 : plamo-4.21 をリリース．</li>
+<li>2007-06-20 : バージョンタグを plamo-4.22β1 に更新．( kernel-2.6.21.5_plamoUP-i586 )</li>
+<li>2007-07-16 : 4.22β1 の kernel を 2.6.21.6 に更新．</li>
+<li>2007-08-18 : 4.22β1 の kernel を 2.6.21.7 に更新．</li>
+<li>2007-08-25 : バージョンタグを plamo-4.22β2 に更新．( kernel-2.6.21.7_plamoUP-i586 )</li>
+<li>2007-09-06 : 4.22β2 の kernel を 2.6.22.6 に更新．</li>
+<li>2007-09-11 : バージョンタグを plamo-4.22β3 に更新．( kernel-2.6.22.6_plamoUP-i586 )</li>
+<li>2007-09-24 : バージョンタグを plamo-4.22RC1 に更新． kernel を 2.6.22.7-SMP に更新．( kernel-2.6.22.7_plamoSMP-i586 )</li>
+<li>2007-09-27 : 4.22 RC1 の kernel を 2.6.22.9-SMP 版に更新．( kernel-2.6.22.9_plamoSMP-i586 )</li>
+<li>2007-10-02 : バージョンタグを plamo-4.22 に更新．</li>
+<li>2007-10-03 : plamo-4.22 をリリース．</li>
+<li>2008-01-21 : Plamo-4.5 へのブランチ作業開始．kernel-2.6.23.14 に更新．</li>
+<li>2008-01-23 : バージョンタグを Plamo-4.5a1 に更新．</li>
+<li>2008-02-14 : kernel-2.6.23.16 に更新．</li>
+<li>2008-05-05 : kernel-2.6.24.6 に更新．</li>
+<li>2008-08-01 : kernel-2.6.26 に更新．</li>
+<li>2008-08-02 : kernel-2.6.26.1 に更新．</li>
+<li>2008-08-24 : バージョンタグを Plamo-4.5β1 に更新．</li>
+<li>2008-09-07 : バージョンタグを Plamo-4.5β2 に更新．</li>
+<li>2008-09-19 : kernel-2.6.25.17 に変更．</li>
+<li>2008-09-23 : バージョンタグを Plamo-4.5β3 に更新．</li>
+<li>2008-10-04 : Plamo-4.5rc1 リリース．</li>
+<li>2008-10-12 : バージョンタグを Plamo-4.5 に更新．</li>
+<li>2008-10-16 : Plamo-4.5 リリース． (plamo-4.51 に向けた開発続行．)</li>
+<li>2009-01-15 : kernel-2.6.27.10 に更新．</li>
+<li>2009-01-22 : バージョンタグを Plamo-4.51β3 に更新．</li>
+<li>2009-02-03 : バージョンタグを Plamo-4.51 に更新．</li>
+<li>2009-02-04 : Plamo-4.51rc1 リリース．</li>
+<li>2009-02-11 : kernel-2.6.27.15 に更新．</li>
+<li>2009-02-17 : バージョンを急遽 4.6β1 に更新．バージョンタグをPlamo-4.6β1 に変更</li>
+<li>2009-02-25 : Plamo-4.6 リリース．</li>
+<li>2009-06-23 : kernel-2.6.30 に更新．</li>
+<li>2009-08-12 : kernel-2.6.30.4 に更新．</li>
+<li>2009-08-17 : kernel-2.6.30.5 に更新．</li>
+<li>2009-09-09 : Plamo-4.7β3 リリース．</li>
+<li>2009-09-16 : kernel-2.6.30.7 に更新．</li>
+<li>2009-09-23 : Plamo-4.7β4 リリース．</li>
+<li>2009-09-30 : Plamo-4.7 リリース．</li>
+<li>2009-11-04 : kernel-2.6.31.5 に更新．</li>
+<li>2009-11-12 : kernel-2.6.31.6 に更新．</li>
+<li>2009-11-16 : Plamo-4.71rc1 リリース．</li>
+<li>2009-11-23 : Plamo-4.71 リリース．</li>
+<li>2010-01-21 : kernel-2.6.31.12 に更新．</li>
+<li>2010-02-20 : バージョンタグを Plamo-4.72rc1 に更新．kernel-2.6.32.9</li>
+<li>2010-02-22 : Plamo-4.72rc1 リリース．</li>
+<li>2010-03-01 : バージョンタグを Plamo-4.72 に更新．</li>
+<li>2010-03-04 : Plamo-4.72 リリース．</li>
+<li>2010-08-04 : kernel-2.6.32.16 に更新．</li>
+<li>2010-08-10 : Plamo-4.73β1 リリース．</li>
+<li>2010-08-20 : バージョンタグを Plamo-4.73 に更新．</li>
+<li>2010-08-21 : Plamo-4.73β2 リリース．</li>
+<li>2010-09-02 : Plamo-4.73 リリース． 以後 64 bits 版も含めた Plamo-5.0 の開発に入る．</li>
+<li>2011-01-06 : kernel-2.6.36.2 に更新．</li>
+<li>2011-05-04 : kernel-2.6.37.4 そして kernel-2.6.38.4 に更新．</li>
+</ul>
+<h3 id="a-nameplamo64plamo-linux-64-シリーズa"><!-- raw HTML omitted -->Plamo Linux 64 シリーズ<!-- raw HTML omitted --></h3>
+<p>まずは 64bit 環境で Plamo64-1.0 としてリリースし，その後 32bit 環境を更新し Plamo-5.x へ．</p>
+<ul>
+<li>2010-10 : CLFS ( Cross Linux From Scratch ) をベースに64ビット版開発環境構築</li>
+<li>2010-11 : Plamo64用パッケージの作成に入る</li>
+<li>2010-11-11 : kernel を追加 ( kernel-2.6.35.7_plamo64-x86_64-P1 )</li>
+<li>2010-12-15 : Plamo64-0.1 なツリー作成</li>
+<li>2011-01-07 : Plamo64-0.1 内輪向けにリリース</li>
+<li>2011-01-08 : kernel-2.6.36.2 に更新</li>
+<li>2011-01-22 : Plamo-4.7x と Plamo-64-0.1 のツリーをマージして Plamo-5.0 のツリーに</li>
+<li>2011-06-20 : kernel-2.6.38.4 に更新</li>
+<li>2011-08-14 : kernel-2.6.39.4_plamoSMP に更新</li>
+<li>2011-11-15 : kernel-3.0.9_plamoSMP に更新</li>
+<li>2011-11-16 : kernel-3.1.1_plamoSMP に更新</li>
+<li>2011-11-18 : 64 bits版を kernel-3.0.9_plamo64 に更新</li>
+<li>2011-11-29 : kernel-3.1.4_plamoSMP に更新</li>
+<li>2011-11-30 : 64 bits版を kernel-3.1.4_plamo64 に更新</li>
+<li>2011-12-17 : Plamo64-RC1 リリース</li>
+<li>2011-12-26 : Plamo64-RC2 リリース</li>
+<li>2011-12-31 : Plamo64-1.0 リリース ( 64 bits版のみ )</li>
+</ul>
+<h3 id="a-nameplamo5plamo-linux-5x-シリーズa"><!-- raw HTML omitted -->Plamo Linux 5.x シリーズ<!-- raw HTML omitted --></h3>
+<p>Plamo64-1.0 のパッケージを更新するとともに，32bit 環境をそれに合わせる形で構築し Plamo-5.x シリーズとしてリリース．</p>
+<ul>
+<li>2012-12-15 : Plamo-5.0 beta 1 リリース</li>
+<li>2012-12-24 : Plamo-5.0 beta 2 リリース</li>
+<li>2012-12-29 : Plamo-5.0 リリース
+<ul>
+<li>Plamo-5.0 の主な内容
+<ul>
+<li>kernel 3.7.1</li>
+<li>インストール時に btrfs が選択可能に</li>
+<li>X11R77</li>
+<li>glibc 2.16</li>
+<li>grub 2.00/lilo 23.2</li>
+<li>Xfce 4.10</li>
+<li>KDE 4.9.2</li>
+<li>GNU Emacs 24.2</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>2013-04-26 : Plamo-5.1 beta 1 リリース</li>
+<li>2013-05-11 : Plamo-5.1 beta 2 リリース</li>
+<li>2013-05-12 : Plamo-5.1 beta 3 リリース</li>
+<li>2013-05-22 : Plamo-5.1 リリース
+<ul>
+<li>Plamo-5.1 の主な内容
+<ul>
+<li>kernel 3.9.3</li>
+<li>MySQL -&gt; MariaDB へ</li>
+<li>KDE 4.9.5</li>
+<li>LibreOffice 4.0.2</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>2013-12-13 : Plamo-5.2 beta 1 リリース</li>
+<li>2013-12-20 : Plamo-5.2 beta 2 リリース</li>
+<li>2013-12-29 : Plamo 5.2 リリース
+<ul>
+<li>Plamo-5.2 の主な内容</li>
+</ul>
+</li>
+<li>2014-01-14 : P-Plamo 5.2 リリース</li>
+<li>2014-12-23 : Plamo 5.3 beta 1 リリース</li>
+<li>2014-12-31 : Plamo 5.3 リリース
+<ul>
+<li>Plamo-5.3 の主な内容
+<ul>
+<li>kernel 3.17.6</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>2015-01-23 : Plamo 5.3.1 beta 1 リリース</li>
+<li>2015-02-01 : Plamo 5.3.1 リリース
+<ul>
+<li>Plamo-5.3.1 の主な内容
+<ul>
+<li>kernel 3.17.6</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>2015-05-31 : P-Plamo 5.3.1 リリース</li>
+</ul>
+<h3 id="a-nameplamo6plamo-linux-6x-シリーズa"><!-- raw HTML omitted -->Plamo Linux 6.x シリーズ<!-- raw HTML omitted --></h3>
+<ul>
+<li>2015-10-18 : Plamo 6.0 リリース
+<ul>
+<li>Plamo 6.0 の主な内容
+<ul>
+<li>kernel 4.2.3</li>
+<li>Mate 1.10</li>
+<li>Firefox 41.0/Thunderbird 38.3.0</li>
+<li>MesaLib 10.6.7 + xorg-server 1.17.2</li>
+<li>LibreOffice 5.0.2.2</li>
+<li>get_pkginfo</li>
+<li>UEFI/GPT 対応</li>
+<li>UEFI インストール</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>2016-02-25 : Plamo 6.1 リリース
+<ul>
+<li>Plamo 6.1 の主な内容
+<ul>
+<li>UTF-8 対応</li>
+<li>EFI システムパーティションの自動フォーマット</li>
+<li>kernel 4.3.5</li>
+<li>TeX Live 2015</li>
+<li>ruby 2.2.3</li>
+<li>llvm 3.7.0</li>
+<li>6.0 から 211 のパッケージ更新</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>2017-02-17 : Plamo 6.2 リリース
+<ul>
+<li>Plamo 6.1 以降に更新されたパッケージに追随するためのリリース</li>
+</ul>
+</li>
+</ul>
+<h3 id="a-nameplamo7plamo-linux-7x-シリーズa"><!-- raw HTML omitted -->Plamo Linux 7.x シリーズ<!-- raw HTML omitted --></h3>
+<ul>
+<li>2018-05-19 : Plamo 7.0 beta1 リリース</li>
+<li>2018-05-31 : Plamo 7.0 beta2 リリース</li>
+<li>2018-06-13 : Plamo 7.0 リリース</li>
+<li>2019-05-15 : Plamo 7.1 リリース</li>
+</ul>
+
+
+        
+
+        
+            <hr/>
+            <section id="social-share">
+              <div class="list-inline footer-links">
+                
+
+<div class="share-box" aria-hidden="true">
+    <ul class="share">
+      
+      <li>
+        <a href="//twitter.com/share?url=https%3a%2f%2fusername.github.io%2fhistory%2f&amp;text=Plamo%20%e9%96%8b%e7%99%ba%e3%81%ae%e6%ad%a9%e3%81%bf&amp;via=" target="_blank" title="Share on Twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+  
+      
+      <li>
+        <a href="//www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fusername.github.io%2fhistory%2f" target="_blank" title="Share on Facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+  
+      
+      <li>
+        <a href="//reddit.com/submit?url=https%3a%2f%2fusername.github.io%2fhistory%2f&amp;title=Plamo%20%e9%96%8b%e7%99%ba%e3%81%ae%e6%ad%a9%e3%81%bf" target="_blank" title="Share on Reddit">
+          <i class="fab fa-reddit"></i>
+        </a>
+      </li>
+  
+      
+      <li>
+        <a href="//www.linkedin.com/shareArticle?url=https%3a%2f%2fusername.github.io%2fhistory%2f&amp;title=Plamo%20%e9%96%8b%e7%99%ba%e3%81%ae%e6%ad%a9%e3%81%bf" target="_blank" title="Share on LinkedIn">
+          <i class="fab fa-linkedin"></i>
+        </a>
+      </li>
+  
+      
+      <li>
+        <a href="//www.stumbleupon.com/submit?url=https%3a%2f%2fusername.github.io%2fhistory%2f&amp;title=Plamo%20%e9%96%8b%e7%99%ba%e3%81%ae%e6%ad%a9%e3%81%bf" target="_blank" title="Share on StumbleUpon">
+          <i class="fab fa-stumbleupon"></i>
+        </a>
+      </li>
+  
+      
+      <li>
+        <a href="//www.pinterest.com/pin/create/button/?url=https%3a%2f%2fusername.github.io%2fhistory%2f&amp;description=Plamo%20%e9%96%8b%e7%99%ba%e3%81%ae%e6%ad%a9%e3%81%bf" target="_blank" title="Share on Pinterest">
+          <i class="fab fa-pinterest"></i>
+        </a>
+      </li>
+    </ul>
+  </div>
+  
+
+              </div>
+            </section>
+        
+
+        
+      </article>
+
+      
+
+
+      
+
+    </div>
+  </div>
+</div>
+
+      
+    <div class="page-meta">
+  
+  
+  
+</div>
+
+
+  
+<footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <ul class="list-inline text-center footer-links">
+          
+              <li>
+                <a href="https://github.com/plamolinux" title="GitHub">
+                  <span class="fa-stack fa-lg">
+                    <i class="fas fa-circle fa-stack-2x"></i>
+                    <i class="fab fa-github fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+          
+          <li>
+            <a href="" title="RSS">
+              <span class="fa-stack fa-lg">
+                <i class="fas fa-circle fa-stack-2x"></i>
+                <i class="fas fa-rss fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          
+        </ul>
+        <p class="credits copyright text-muted">
+          
+            
+              Plamo Linux Maintainer Group
+            
+          
+
+          &nbsp;&bull;&nbsp;&copy;
+          
+            2021
+          
+
+          
+            &nbsp;&bull;&nbsp;
+            <a href="https://username.github.io">Plamo Linux</a>
+          
+        </p>
+        
+        <p class="credits theme-by text-muted">
+          起動力に<a href="https://gohugo.io">Hugo v0.83.0</a> &nbsp;&bull;&nbsp; テーマに<a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a>に基づいている<a href="https://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a>
+          
+        </p>
+      </div>
+    </div>
+  </div>
+</footer><script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.js" integrity="sha384-K3vbOmF2BtaVai+Qk37uypf7VrgBubhQreNQe9aGsz9lB63dIFiQVlJbr92dw2Lx" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/contrib/auto-render.min.js" integrity="sha384-kmZOZB5ObwgQnS/DuDg6TScgOiWWBiVt0plIRkZCmE6rDZGrEOQeHM5PcHi+nyqe" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+<script src="https://username.github.io/js/main.js"></script>
+<script src="https://username.github.io/js/highlight.min.js"></script>
+<script> hljs.initHighlightingOnLoad(); </script>
+<script> $(document).ready(function() {$("pre.chroma").css("padding","0");}); </script><script> renderMathInElement(document.body); </script><script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe.min.js" integrity="sha384-QELNnmcmU8IR9ZAykt67vGr9/rZJdHbiWi64V88fCPaOohUlHCqUD/unNN0BXSqy" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe-ui-default.min.js" integrity="sha384-m67o7SkQ1ALzKZIFh4CiTA8tmadaujiTa9Vu+nqPSwDOqHrDmxLezTdFln8077+q" crossorigin="anonymous"></script><script src="https://username.github.io/js/load-photoswipe.js"></script>
+
+
+
+
+
+
+
+
+
+    
+  </body>
+</html>
+

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>パッケージ更新情報 on Plamo Linux</title>
+    <link>https://username.github.io/tags/%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E6%9B%B4%E6%96%B0%E6%83%85%E5%A0%B1/</link>
+    <description>Recent content in パッケージ更新情報 on Plamo Linux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 14 Jan 2014 19:52:24 +0900</lastBuildDate><atom:link href="https://username.github.io/tags/%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E6%9B%B4%E6%96%B0%E6%83%85%E5%A0%B1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Plamo 5.1 から 5.2 への更新</title>
+      <link>https://username.github.io/posts/2014-01-14-update-from5-dot-1to5-dot-2/</link>
+      <pubDate>Tue, 14 Jan 2014 19:52:24 +0900</pubDate>
+      
+      <guid>https://username.github.io/posts/2014-01-14-update-from5-dot-1to5-dot-2/</guid>
+      <description>Plamo 5.1 から 5.2 への更新が可能になりました．
+以下は メーリングリスト投稿 からの抜粋です．
+  </description>
+    </item>
+    
+  </channel>
+</rss>
