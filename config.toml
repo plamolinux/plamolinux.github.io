@@ -12,6 +12,7 @@ pygmentsCodefencesGuessSyntax = true
 #pygmentOptions = "linenos=inline"
 #disqusShortname = "XXX"
 #googleAnalytics = "XXX"
+publishDir = "docs"
 
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
