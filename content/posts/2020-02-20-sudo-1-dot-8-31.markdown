@@ -1,0 +1,15 @@
+---
+layout: post
+title: "sudo 1.8.31"
+date: 2020-02-20 18:00:00 +0900
+comments: false
+tags: ["Plamo 7.x 情報", "セキュリティ情報"]
+---
+
+セキュリティホールの修正を含む sudo 1.8.31 がリリースされています。詳しくは以下をご覧ください。
+
+* [Buffer overflow when pwfeedback is set in sudoers](https://www.sudo.ws/alerts/pwfeedback.html)
+
+パッケージをリリースしました。
+
+* [sudo-1.8.31-x86_64-B1.txz](http://repository.plamolinux.org/pub/linux/Plamo/Plamo-7.x/x86_64/plamo/00_base/sudo-1.8.31-x86_64-B1.txz)

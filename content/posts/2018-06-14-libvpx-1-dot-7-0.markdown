@@ -1,0 +1,19 @@
+---
+layout: post
+title: "libvpx 1.7.0"
+date: 2018-06-14 14:45:23 +0900
+comments: false
+tags: ["Plamo 7.x 情報"]
+---
+libvpx パッケージを 1.7.0 に更新しました。それに伴い他のパッケージも更新しています。
+
+* [libvpx-1.7.0-x86\_64-B1.txz](https://repository.plamolinux.org/pub/linux/Plamo/Plamo-7.x/x86_64/plamo/03_libs/libvpx-1.7.0-x86_64-B1.txz)
+* [babl-0.1.46-x86\_64-B1.txz](https://repository.plamolinux.org/pub/linux/Plamo/Plamo-7.x/x86_64/plamo/03_libs/babl-0.1.46-x86_64-B1.txz)
+* [ffmpeg-3.4.2-x86\_64-B4.txz](https://repository.plamolinux.org/pub/linux/Plamo/Plamo-7.x/x86_64/plamo/07_multimedia/ffmpeg-3.4.2-x86_64-B4.txz)
+* [gst\_plugins_good-1.12.5-x86\_64-B2.txz](https://repository.plamolinux.org/pub/linux/Plamo/Plamo-7.x/x86_64/plamo/07_multimedia/gst_plugins_good-1.12.5-x86_64-B2.txz)
+* [gegl-0.3.34-x86\_64-B1.txz](https://repository.plamolinux.org/pub/linux/Plamo/Plamo-7.x/x86_64/plamo/04_x11/gegl-0.3.34-x86_64-B1.txz)
+* [libquicktime-1.2.4-x86\_64-B2.txz](https://repository.plamolinux.org/pub/linux/Plamo/Plamo-7.x/x86_64/plamo/07_multimedia/libquicktime-1.2.4-x86_64-B2.txz)
+* [mplayer-20180514-x86\_64-B1.txz](https://repository.plamolinux.org/pub/linux/Plamo/Plamo-7.x/x86_64/plamo/07_multimedia/mplayer-20180514-x86_64-B1.txz)
+* [vlc-3.0.2-x86\_64-B1.txz](https://repository.plamolinux.org/pub/linux/Plamo/Plamo-7.x/x86_64/plamo/07_multimedia/vlc-3.0.2-x86_64-B1.txz)
+
+更新の場合は同時に更新してください。

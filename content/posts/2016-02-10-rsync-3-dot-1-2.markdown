@@ -1,0 +1,16 @@
+---
+layout: post
+title: "rsync 3.1.2"
+date: 2016-02-10 18:59:34 +0900
+comments: false
+tags: ["Plamo 6.x 情報", "Plamo 5.x 情報", "セキュリティ情報"]
+---
+rsync にセキュリティホールが発見されています．詳しくは以下をご覧ください．
+
+* https://download.samba.org/pub/rsync/src/rsync-3.1.2-NEWS
+
+パッケージをリリースしました．
+
+* [rsync-3.1.2-i686-P1.txz (32bit)](ftp://plamo.linet.gr.jp/pub/Plamo-5.x/x86/plamo/01_minimum/network.txz/rsync-3.1.2-i686-P1.txz)
+* [rsync-3.1.2-x86_64-P1.txz (64bit)](ftp://plamo.linet.gr.jp/pub/Plamo-5.x/x86_64/plamo/01_minimum/network.txz/rsync-3.1.2-x86_64-P1.txz)
+

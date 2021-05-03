@@ -1,0 +1,15 @@
+---
+layout: post
+title: "binutils 2.25"
+date: 2015-01-20 17:05:46 +0900
+comments: false
+tags: ["Plamo 5.x 情報", "セキュリティ情報"]
+---
+binutils 2.25 より前のバージョンにセキュリティホールが発見されています。詳しくは以下をご覧ください。
+
+* [CVE-2014-8484](http://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2014-8484) (NVD)
+
+対策パッケージをリリースしました。
+
+* [binutils-2.25-i686-P1.txz (32bit)](ftp://plamo.linet.gr.jp/pub/Plamo-5.x/x86/plamo/01_minimum/devel.txz/binutils-2.25-i686-P1.txz)
+* [binutils-2.25-x86_64-P1.txz (64bit)](ftp://plamo.linet.gr.jp/pub/Plamo-5.x/x86_64/plamo/01_minimum/devel.txz/binutils-2.25-x86_64-P1.txz)

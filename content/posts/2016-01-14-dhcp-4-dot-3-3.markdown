@@ -1,0 +1,16 @@
+---
+layout: post
+title: "dhcp 4.3.3-P1"
+date: 2016-01-14 19:11:47 +0900
+comments: false
+tags: ["Plamo 6.x 情報", "Plamo 5.x 情報", "セキュリティ情報"]
+---
+
+セキュリティホールの修正を含む ISC DHCP 4.3.3-P1 がリリースされています。詳しくは以下をご覧ください。
+
+* [CVE-2015-8605: UDP payload length not properly checked](https://kb.isc.org/article/AA-01334)
+
+パッケージをリリースしました．
+
+* [dhcp-4.3.3_P1-i686-P1.txz (32bit)](ftp://plamo.linet.gr.jp/pub/Plamo-5.x/x86/plamo/00_base/dhcp-4.3.3_P1-i686-P1.txz)
+* [dhcp-4.3.3_P1-x86_64-P1.txz (64bit)](ftp://plamo.linet.gr.jp/pub/Plamo-5.x/x86_64/plamo/00_base/dhcp-4.3.3_P1-x86_64-P1.txz)

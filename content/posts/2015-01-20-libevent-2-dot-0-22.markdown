@@ -1,0 +1,15 @@
+---
+layout: post
+title: "libevent 2.0.22"
+date: 2015-01-20 17:08:46 +0900
+comments: false
+tags: ["Plamo 5.x 情報", "セキュリティ情報"]
+---
+libevent 2.0.22 より前のバージョンにセキュリティホールが発見されています。詳しくは以下をご覧ください。
+
+* [FS#43366 - [libevent] heap-overflow vulnerability CVE-2014-6272](https://bugs.archlinux.org/task/43366) (archlinux)
+
+対策パッケージをリリースしました。
+
+* [libevent-2.0.22-i686-P1.txz (32bit)](ftp://plamo.linet.gr.jp/pub/Plamo-5.x/x86/plamo/01_minimum/nfs.txz/libevent-2.0.22-i686-P1.txz)
+* [libevent-2.0.22-x86_64-P1.txz (64bit)](ftp://plamo.linet.gr.jp/pub/Plamo-5.x/x86_64/plamo/01_minimum/nfs.txz/libevent-2.0.22-x86_64-P1.txz)

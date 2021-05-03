@@ -1,0 +1,18 @@
+---
+layout: post
+title: "glibc 2.20"
+date: 2016-02-18 15:20:00 +0900
+comments: false
+tags: ["Plamo 6.x 情報", "Plamo 5.x 情報", "セキュリティ情報"]
+---
+
+glibc にセキュリティホールが発見されています。詳しくは以下をご覧ください。
+
+* [glibc ライブラリの脆弱性 (CVE-2015-7547) に関する注意喚起](http://www.jpcert.or.jp/at/2016/at160009.html) (JPCERT)
+
+パッチを適用したパッケージをリリースしました。
+
+* [glibc-2.20-i686-P2.txz (32bit)](ftp://plamo.linet.gr.jp/pub/Plamo-5.x/x86/plamo/00_base/glibc-2.20-i686-P2.txz)
+* [libc-2.20-i686-P2.txz (32bit)](ftp://plamo.linet.gr.jp/pub/Plamo-5.x/x86/plamo/01_minimum/devel.txz/libc-2.20-i686-P2.txz)
+* [glibc-2.20-x86_64-P2.txz (64bit)](ftp://plamo.linet.gr.jp/pub/Plamo-5.x/x86_64/plamo/00_base/glibc-2.20-x86_64-P2.txz)
+* [libc-2.20-x86_64-P2.txz (64bit)](ftp://plamo.linet.gr.jp/pub/Plamo-5.x/x86_64/plamo/01_minimum/devel.txz/libc-2.20-x86_64-P2.txz)

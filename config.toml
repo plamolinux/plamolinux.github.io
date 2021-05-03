@@ -1,0 +1,110 @@
+baseurl = "https://username.github.io"
+#DefaultContentLanguage = "en"
+DefaultContentLanguage = "ja"
+title = "Plamo Linux"
+theme = "beautifulhugo"
+metaDataFormat = "yaml"
+pygmentsStyle = "trac"
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+#pygmentsUseClassic = true
+#pygmentOptions = "linenos=inline"
+#disqusShortname = "XXX"
+#googleAnalytics = "XXX"
+
+[Params]
+#  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
+  subtitle = ""
+  mainSections = ["posts"]
+  logo = "images/garland_logo.jpg"
+  favicon = "images/garland_logo.jpg"
+  dateFormat = "2006-01-02"
+  commit = false
+  rss = true
+  comments = false
+  readingTime = false
+  wordCount = false
+  useHLJS = true
+  socialShare = true
+  delayDisqus = false
+  showRelatedPosts = false
+#  hideAuthor = true
+#  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+
+#[[Params.bigimg]]
+#  src = "img/triangle.jpg"
+#  desc = "Triangle"
+#[[Params.bigimg]]
+#  src = "img/sphere.jpg"
+#  desc = "Sphere"
+#  # position: see values of CSS background-position.
+#  position = "center top"
+#[[Params.bigimg]]
+#  src = "img/hexagon.jpg"
+#  desc = "Hexagon"
+
+[Author]
+  name = "Plamo Linux Maintainer Group"
+  #website = "yourwebsite.com"
+  #email = "youremail@domain.com"
+  #facebook = "username"
+  github = "plamolinux"
+  #gitlab = "username"
+  #bitbucket = "username"
+  #twitter = "username"
+  #reddit = "username"
+  #linkedin = "username"
+  #xing = "username"
+  #stackoverflow = "users/XXXXXXX/username"
+  #snapchat = "username"
+  #instagram = "username"
+  #youtube = "user/username" # or channel/channelname
+  #soundcloud = "username"
+  #spotify = "username"
+  #bandcamp = "username"
+  #itchio = "username"
+  #vk = "username"
+  #paypal = "username"
+  #telegram = "username"
+  #500px = "username"
+  #codepen = "username"
+  #mastodon = "url"
+  #kaggle = "username"
+  #weibo = "username"
+  #slack = "username"
+
+[[menu.main]]
+    name = "Posts"
+    url = "posts/"
+    weight = 1
+
+[[menu.main]]
+    name = "History"
+    url = "history/"
+    weight = 2
+
+[[menu.main]]
+    name = "Plamo Linux について"
+    url = "about/"
+    weight = 3
+
+[[menu.main]]
+    name = "Download"
+    url = "download/"
+    weight = 4
+
+[[menu.main]]
+    name = "Mailing List"
+    url = "ml/"
+    weight = 5
+
+[[menu.main]]
+    name = "Wiki"
+    url = "http://plamo.linet.gr.jp/"
+    weight = 6
+
+[[menu.main]]
+    name = "Tags"
+    url = "tags"
+    weight = 7

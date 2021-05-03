@@ -1,0 +1,18 @@
+---
+layout: post
+title: "ntp 4.2.8p10"
+date: 2017-04-04 18:00:00 +0900
+comments: false
+tags: ["Plamo 6.x 情報", "セキュリティ情報"]
+---
+
+ntp にセキュリティホールが発見されています。詳しくは以下をご覧ください。
+
+* [March 2017 ntp-4.2.8p10 NTP Security Vulnerability Announcement](http://support.ntp.org/bin/view/Main/SecurityNotice#March_2017_ntp_4_2_8p10_NTP_Secu)
+
+対策パッケージをリリースしました。
+
+* [ntp-4.2.8p10-i686-P1.txz (32bit)](ftp://plamo.linet.gr.jp/pub/Plamo-6.x/x86/plamo/01_minimum/network.txz/ntp-4.2.8p10-i686-P1.txz)
+* [ntp-4.2.8p10-x86_64-P1.txz (64bit)](ftp://plamo.linet.gr.jp/pub/Plamo-6.x/x86_64/plamo/01_minimum/network.txz/ntp-4.2.8p10-x86_64-P1.txz)
+
+ntp-4.2.8p9-*-P2 パッケージより、動作に ntp ユーザ・グループが必要になりました。詳しくは Change.Log をご覧ください。

@@ -1,0 +1,16 @@
+---
+layout: post
+title: "pixman 0.32.8"
+date: 2016-02-10 19:00:07 +0900
+comments: false
+tags: ["Plamo 6.x 情報", "Plamo 5.x 情報", "セキュリティ情報"]
+---
+
+セキュリティホールの修正を含む pixman 0.32.8 がリリースされています。詳しくは以下をご覧ください。
+
+* [[ANNOUNCE] pixman release 0.32.8 now available](https://lists.freedesktop.org/archives/xorg-announce/2015-September/002637.html)
+
+パッケージをリリースしました。
+
+* [pixman-0.32.8-i686-P1.txz (32bit)](ftp://plamo.linet.gr.jp/pub/Plamo-5.x/x86/plamo/02_x11/pixman-0.32.8-i686-P1.txz)
+* [pixman-0.32.8-x86_64-P1.txz (64bit)](ftp://plamo.linet.gr.jp/pub/Plamo-5.x/x86_64/plamo/02_x11/pixman-0.32.8-x86_64-P1.txz)

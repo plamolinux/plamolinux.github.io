@@ -1,0 +1,15 @@
+---
+layout: post
+title: "jansson 2.7"
+date: 2016-06-15 17:50:04 +0900
+comments: false
+tags: ["Plamo 6.x 情報", "セキュリティ情報"]
+---
+jansson にセキュリティホールが発見されています。詳しくは以下をご覧ください。
+
+* [JVNDB-2016-002782 Jansson におけるサービス運用妨害 (DoS) の脆弱性](http://jvndb.jvn.jp/ja/contents/2016/JVNDB-2016-002782.html)
+
+パッチを適用したパッケージをリリースしました。
+
+* [jansson-2.7-i686-P2.txz (32bit)](ftp://plamo.linet.gr.jp/pub/Plamo-6.x/x86/plamo/05_ext/jansson-2.7-i686-P2.txz)
+* [jansson-2.7-x86_64-P2.txz (64bit)](ftp://plamo.linet.gr.jp/pub/Plamo-6.x/x86_64/plamo/05_ext/jansson-2.7-x86_64-P2.txz)

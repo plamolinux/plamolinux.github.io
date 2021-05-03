@@ -1,0 +1,28 @@
+---
+layout: post
+title: "Plamo 6.1 リリース"
+date: 2016-02-27 00:29:00 +0900
+comments: true
+tags: ["リリース情報", "Plamo 6.x 情報"]
+---
+
+Plamo 6.1 をリリースしました。
+
+以下はメーリングリストに投稿されたリリースアナウンス（抜粋）です。
+
+----
+
+OSC 2016 Tokyo/Spring    
+これに合わせてPlamo-6.1をリリースしました．
+
+    $ ls -l plamo-6.1*
+    -rw-rw-r-- 1 kojima plamo 3468689408  2月 22 09:56 plamo-6.1_x86_64_dvd.iso
+    -rw-rw-r-- 1 kojima plamo         59  2月 24 22:23 plamo-6.1_x86_64_dvd.iso.md5sum
+    -rw-rw-r-- 1 kojima plamo 3454009344  2月 22 09:55 plamo-6.1_x86_dvd.iso
+    -rw-rw-r-- 1 kojima plamo         56  2月 24 22:23 plamo-6.1_x86_dvd.iso.md5sum
+
+----
+
+* [リリースアナウンス](http://www.linet.gr.jp/~kojima/Plamo/ML/htdocs/201602/msg00030.html)
+
+ISO イメージのダウンロードは [こちら](/download/) からどうぞ。

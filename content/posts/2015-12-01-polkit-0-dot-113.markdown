@@ -1,0 +1,15 @@
+---
+layout: post
+title: "polkit 0.113"
+date: 2015-12-01 16:05:47 +0900
+comments: false
+tags: ["Plamo 5.x 情報", "Plamo 6.x 情報", "セキュリティ情報"]
+---
+polkit にセキュリティホールが発見されています。詳しくは以下をご覧ください。
+
+* http://cgit.freedesktop.org/polkit/tree/NEWS?id=23519924f24fb80a5f33bb3a82058a6c025ddfa9
+
+パッケージをリリースしました。
+
+* [polkit-0.113-i686-P1.txz (32bit)](ftp://plamo.linet.gr.jp/pub/Plamo-5.x/x86/plamo/04_xapps/polkit-0.113-i686-P1.txz)
+* [polkit-0.113-x86_64-P1.txz (64bit)](ftp://plamo.linet.gr.jp/pub/Plamo-5.x/x86_64/plamo/04_xapps/polkit-0.113-x86_64-P1.txz)

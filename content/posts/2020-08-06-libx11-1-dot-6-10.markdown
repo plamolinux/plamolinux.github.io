@@ -1,0 +1,14 @@
+---
+layout: post
+title: "libX11-1.6.10"
+date: 2020-08-06 19:00:00 +0900
+comments: false
+tags: ["Plamo 7.x 情報", "セキュリティ情報"]
+---
+セキュリティホールの修正を含む libX11 1.6.10 がリリースされています。詳しくは以下をご覧ください。
+
+* [CVE-2020-14344](https://nvd.nist.gov/vuln/detail/CVE-2020-14344) (NVD)
+
+パッケージをリリースしました。
+
+* [libX11-1.6.10-x86_64-B1.txz](https://repository.plamolinux.org/pub/linux/Plamo/Plamo-7.x/x86_64/plamo/04_x11/libX11-1.6.10-x86_64-B1.txz)

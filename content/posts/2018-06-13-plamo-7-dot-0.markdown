@@ -1,0 +1,29 @@
+---
+layout: post
+title: "Plamo 7.0 リリース"
+date: 2018-06-13 14:30:36 +0900
+comments: false
+tags: ["リリース情報", "Plamo 7.x 情報"]
+---
+
+Plamo 7.0 をリリースしました。
+
+Plamo 7.0 は DVD イメージ 2 枚組です。2 枚目は texlive と contrib のみ収録ですので、使用しない方は不要です。
+
+```
+-rw-rw-r--   1 kojima   plamo    2277244928 Jun 12 23:29 plamo-7.0_x86_64_01.iso
+-rw-rw-r--   1 kojima   plamo          58 Jun 12 23:35 plamo-7.0_x86_64_01.iso.md5sum
+-rw-rw-r--   1 kojima   plamo    2532751360 Jun 12 23:29 plamo-7.0_x86_64_02.iso
+-rw-rw-r--   1 kojima   plamo          58 Jun 12 23:35 plamo-7.0_x86_64_02.iso.md5sum
+```
+
+ダウンロードは [ダウンロード](/download/) ページ記載のサイトからどうぞ。
+
+Plamo 7.0 に関しての詳細はこじまさんが gihyo.jp で連載中の「玩式草子─ソフトウェアとたわむれる日々」の記事をご覧ください。
+
+* [第97回　そろそろ出しますPlamo-7.0](http://gihyo.jp/lifestyle/serial/01/ganshiki-soushi/0097)
+* [第98回　Plamo-7.0とUTF-8](http://gihyo.jp/lifestyle/serial/01/ganshiki-soushi/0098)
+
+またメンテナによるメモもご参考にどうぞ。
+
+* [Plamo Linux 7.0 パッケージ作成メモ](https://qiita.com/tenforward/items/921b108266a7c9d984eb)

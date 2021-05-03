@@ -1,0 +1,18 @@
+---
+layout: post
+title: "tcpdump 4.7.3"
+date: 2015-03-24 17:39:54 +0900
+comments: false
+tags: ["Plamo 5.x 情報", "セキュリティ情報"]
+---
+セキュリティホールの修正を含む tcpdump 4.7.3 がリリースされています。詳しくは以下をご覧ください。
+
+* [tcpdump 4.7.2 remote crashes](http://seclists.org/bugtraq/2015/Mar/33)
+
+パッケージをリリースしました。(libpcap も同時に更新しました)
+
+* [libpcap-1.7.2-i686-P1.txz (32bit)](ftp://plamo.linet.gr.jp/pub/Plamo-5.x/x86/plamo/01_minimum/network.txz/libpcap-1.7.2-i686-P1.txz)
+* [tcpdump-4.7.3-i686-P1.txz (32bit)](ftp://plamo.linet.gr.jp/pub/Plamo-5.x/x86/contrib/Network/tcpdump-4.7.3-i686-P1.txz)
+* [libpcap-1.7.2-x86_64-P1.txz (64bit)](ftp://plamo.linet.gr.jp/pub/Plamo-5.x/x86_64/plamo/01_minimum/network.txz/libpcap-1.7.2-x86_64-P1.txz)
+* [tcpdump-4.7.3-x86_64-P1.txz (64bit)](ftp://plamo.linet.gr.jp/pub/Plamo-5.x/x86_64/contrib/Network/tcpdump-4.7.3-x86_64-P1.txz)
+

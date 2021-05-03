@@ -1,0 +1,21 @@
+---
+layout: post
+title: "php 8.0.2"
+date: 2021-02-18 15:00:00 +0900
+comments: false
+tags: ["Plamo 7.x 情報", "セキュリティ情報"]
+---
+PHP 8.0.2 がリリースされました。
+
+* [PHP 8.0.2 Released](http://php.net/ChangeLog-8.php#8.0.2)
+
+パッケージをリリースしました。libzip パッケージを同時に更新しないと phpinfo などでエラーが出ます。
+
+* [php-8.0.2-x86_64-B1.txz](ftp://plamo.linet.gr.jp/pub/Plamo-7.x/x86_64/plamo/08_daemons/php-8.0.2-x86_64-B1.txz)
+
+また、7.4.2 から次のようにビルドが変更されています。
+
+* CGI 版を復活させました
+* apache module 版は以前は ZTS でビルドされていましたが、今は NTS になりました。
+  - スレッドセーフでないので Apache の MPM は prefork に設定してください
+  - event MPM を使う場合は fpm を使ってください

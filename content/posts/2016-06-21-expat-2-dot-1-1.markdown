@@ -1,0 +1,17 @@
+---
+layout: post
+title: "expat 2.1.1"
+date: 2016-06-23 15:55:53 +0900
+comments: false
+tags: ["Plamo 6.x 情報", "セキュリティ情報"]
+---
+
+expat にセキュリティホールが見つかっています。詳しくは以下をご覧ください。
+
+* [JVNDB-2015-003917 Google Chrome などの製品で使用される Expat の XML_GetBuffer 関数における整数オーバーフローの脆弱性](http://jvndb.jvn.jp/ja/contents/2015/JVNDB-2015-003917.html)
+* [JVNDB-2016-003284 Expat の XML パーサにおけるサービス運用妨害 (DoS) の脆弱性](http://jvndb.jvn.jp/ja/contents/2016/JVNDB-2016-003284.html)
+
+パッチを適用したパッケージをリリースしました。
+
+* [expat-2.1.1-i686-P2.txz (32bit)](ftp://plamo.linet.gr.jp/pub/Plamo-6.x/x86/plamo/02_x11/expat-2.1.1-i686-P2.txz)
+* [expat-2.1.1-x86_64-P2.txz (64bit)](ftp://plamo.linet.gr.jp/pub/Plamo-6.x/x86_64/plamo/02_x11/expat-2.1.1-x86_64-P2.txz)

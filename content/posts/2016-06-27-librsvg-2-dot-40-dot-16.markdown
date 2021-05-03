@@ -1,0 +1,11 @@
+---
+layout: post
+title: "librsvg 2.40.16"
+date: 2016-06-27 18:33:45 +0900
+comments: false
+tags: ["Plamo 6.x 情報", "セキュリティ情報"]
+---
+セキュリティホールの修正を含む librsvg 2.40.16 のパッケージをリリースしました。
+
+* [librsvg-2.40.16-i686-P1.txz (32bit)](ftp://plamo.linet.gr.jp/pub/Plamo-6.x/x86/plamo/04_xapps/librsvg-2.40.16-i686-P1.txz)
+* [librsvg-2.40.16-x86_64-P1.txz (64bit)](ftp://plamo.linet.gr.jp/pub/Plamo-6.x/x86_64/plamo/04_xapps/librsvg-2.40.16-x86_64-P1.txz)

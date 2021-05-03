@@ -1,0 +1,14 @@
+---
+layout: post
+title: "ruby 2.5.7"
+date: 2017-12-12 20:00:00 +0900
+comments: false
+tags: ["Plamo 7.x 情報", "セキュリティ情報"]
+---
+セキュリティホールの修正を含む ruby 2.5.7 がリリースされています。詳しくは以下をご覧ください。
+
+* [Ruby 2.5.7 リリース](https://www.ruby-lang.org/ja/news/2019/10/01/ruby-2-5-7-released/)
+
+パッケージをリリースしました。
+
+* [ruby-2.5.7-x86_64-B1.txz](https://repository.plamolinux.org/pub/linux/Plamo/Plamo-7.x/x86_64/plamo/02_devel/ruby-2.5.7-x86_64-B1.txz)

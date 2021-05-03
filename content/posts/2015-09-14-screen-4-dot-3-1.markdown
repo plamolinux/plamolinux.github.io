@@ -1,0 +1,15 @@
+---
+layout: post
+title: "screen 4.3.1"
+date: 2015-09-14 15:38:19 +0900
+comments: false
+tags: ["Plamo 5.x 情報", "セキュリティ情報"]
+---
+screen にセキュリティホールが発見されています．詳しくは以下をご覧ください．
+
+* [oss-sec: Re: CVE request: screen stack overflow (deep recursion)](http://seclists.org/oss-sec/2015/q3/485)
+
+対策パッチを適用したパッケージをリリースしました．
+
+* [screen-4.3.1-i686-P1.txz (32bit)](ftp://plamo.linet.gr.jp/pub/Plamo-5.x/x86/plamo/01_minimum/screen-4.3.1-i686-P1.txz)
+* [screen-4.3.1-x86_64-P1.txz (64bit)](ftp://plamo.linet.gr.jp/pub/Plamo-5.x/x86_64/plamo/01_minimum/screen-4.3.1-x86_64-P1.txz)

@@ -1,0 +1,22 @@
+---
+layout: post
+title: "spice 0.12.6"
+date: 2015-10-28 10:24:24 +0900
+comments: false
+tags: ["Plamo 6.x 情報", "Plamo 5.x 情報", "セキュリティ情報"]
+---
+spice にセキュリティホールが発見されています。詳しくは以下をご覧ください。
+
+* [CVE-2015-5260 spice: insufficient validation of surface_id parameter can cause crash](https://bugzilla.redhat.com/show_bug.cgi?id=CVE-2015-5260)
+* [CVE-2015-5261 spice: host memory access from guest using crafted images](https://bugzilla.redhat.com/show_bug.cgi?id=CVE-2015-5261)
+
+パッケージをリリースしました。同時に six, spice_protocol も更新する必要があります。
+
+* [spice-0.12.6-i686-P1.txz (32bit)](ftp://plamo.linet.gr.jp/pub/Plamo-5.x/x86/contrib/Virtualization/spice-0.12.6-i686-P1.txz)
+* [spice_protocol-0.12.10-i686-P1.txz (32bit)](ftp://plamo.linet.gr.jp/pub/Plamo-5.x/x86/contrib/Virtualization/spice_protocol-0.12.10-i686-P1.txz)
+* [six_python2-1.10.0-i686-P1.txz (32bit)](ftp://plamo.linet.gr.jp/pub/Plamo-5.x/x86/contrib/Python/six_python2-1.10.0-i686-P1.txz)
+* [six_python3-1.10.0-i686-P1.txz (32bit)](ftp://plamo.linet.gr.jp/pub/Plamo-5.x/x86/contrib/Python/six_python3-1.10.0-i686-P1.txz)
+* [spice-0.12.6-x86_64-P1.txz (64bit)](ftp://plamo.linet.gr.jp/pub/Plamo-5.x/x86_64/contrib/Virtualization/spice-0.12.6-x86_64-P1.txz)
+* [spice_protocol-0.12.10-x86_64-P1.txz (64bit)](ftp://plamo.linet.gr.jp/pub/Plamo-5.x/x86/contrib/Virtualization/spice_protocol-0.12.10-x86_64-P1.txz)
+* [six_python2-1.10.0-x86_64-P1.txz (64bit)](ftp://plamo.linet.gr.jp/pub/Plamo-5.x/x86_64/contrib/Python/six_python2-1.10.0-x86_64-P1.txz)
+* [six_python3-1.10.0-x86_64-P1.txz (64bit)](ftp://plamo.linet.gr.jp/pub/Plamo-5.x/x86_64/contrib/Python/six_python3-1.10.0-x86_64-P1.txz)

@@ -1,0 +1,18 @@
+---
+layout: post
+title: "P-Plamo 5.2 リリース"
+date: 2014-01-18 01:23:39 +0900
+comments: false
+tags: ["リリース情報", "P-Plamo"]
+---
+
+P-Plamo 5.2 をリリースしました．以下から入手可能です．
+
+* [ftp://ftp.ne.jp/pub/Linux/distributions/plamolinux](ftp://ftp.ne.jp/pub/Linux/distributions/plamolinux/)
+    * P-Plamo-5.2_x86_dvd.iso
+    * P-Plamo-5.2_x86_dvd.iso.md5sum
+    * P-Plamo-5.2_x86_64_dvd.iso
+    * P-Plamo-5.2_x86_64_dvd.iso.md5sum
+    * P-Plamo-5.2_mini_cd.iso
+    * P-Plamo-5.2_mini_cd.iso.md5sum
+* [メーリングリストでの告知](http://www.linet.gr.jp/~kojima/PlamoWeb/ML/htdocs/201401/msg00034.html)

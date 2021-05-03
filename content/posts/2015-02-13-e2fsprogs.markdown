@@ -1,0 +1,16 @@
+---
+layout: post
+title: "e2fsprogs"
+date: 2015-02-13 21:02:49 +0900
+comments: false
+tags: ["Plamo 5.x 情報", "セキュリティ情報"]
+---
+
+e2fsprogs 1.42.12 より前のバージョンにセキュリティホールが発見されています。詳しくは以下をご覧ください。
+
+* [#2015-002 e2fsprogs input sanitization errors](http://www.ocert.org/advisories/ocert-2015-002.html) (oCERT)
+
+対策パッケージをリリースしました。
+
+* [e2fsprogs-1.42.12-i686-P1.txz (32bit)](ftp://plamo.linet.gr.jp/pub/Plamo-5.x/x86/plamo/00_base/e2fsprogs-1.42.12-i686-P1.txz)
+* [e2fsprogs-1.42.12-x86_64-P1.txz (64bit)](ftp://plamo.linet.gr.jp/pub/Plamo-5.x/x86_64/plamo/00_base/e2fsprogs-1.42.12-x86_64-P1.txz)
