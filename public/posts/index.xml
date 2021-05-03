@@ -5,16 +5,7 @@
     <link>https://username.github.io/posts/</link>
     <description>Recent content in Posts on Plamo Linux</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 04 May 2021 02:12:30 +0900</lastBuildDate><atom:link href="https://username.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Test</title>
-      <link>https://username.github.io/posts/test/</link>
-      <pubDate>Tue, 04 May 2021 02:12:30 +0900</pubDate>
-      
-      <guid>https://username.github.io/posts/test/</guid>
-      <description>テスト中</description>
-    </item>
-    
+    <lastBuildDate>Sat, 27 Mar 2021 15:00:00 +0900</lastBuildDate><atom:link href="https://username.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OpenSSL 1.1.1k</title>
       <link>https://username.github.io/posts/2021-03-27-openssl-1-dot-1-1k/</link>

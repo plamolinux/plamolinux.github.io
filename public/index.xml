@@ -5,16 +5,7 @@
     <link>https://username.github.io/</link>
     <description>Recent content on Plamo Linux</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 04 May 2021 02:12:30 +0900</lastBuildDate><atom:link href="https://username.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Test</title>
-      <link>https://username.github.io/posts/test/</link>
-      <pubDate>Tue, 04 May 2021 02:12:30 +0900</pubDate>
-      
-      <guid>https://username.github.io/posts/test/</guid>
-      <description>テスト中</description>
-    </item>
-    
+    <lastBuildDate>Tue, 04 May 2021 00:06:36 +0900</lastBuildDate><atom:link href="https://username.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Plamo 7.3</title>
       <link>https://username.github.io/releases/plamo-7.3/</link>
