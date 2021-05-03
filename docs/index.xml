@@ -23,8 +23,8 @@
       
       <guid>https://www.plamolinux.org/posts/2021-04-22-firefox-88-dot-0/</guid>
       <description>firefox 88.0 パッケージをリリースしました。
- Firefox 88.0 リリースノート Firefox セキュリティアドバイザリ  パッケージをリリースしました。
- firefox-88.0-x86_64-B1.txz  </description>
+ Firefox 88.0 リリースノート Firefox セキュリティアドバイザリ  パッケージをリリースしました。nspr, nss の更新が必要です。
+ firefox-88.0-x86_64-B1.txz nss-3.63-x86_64-B1.txz nspr-4.30-x86_64-B1.txz  </description>
     </item>
     
     <item>
