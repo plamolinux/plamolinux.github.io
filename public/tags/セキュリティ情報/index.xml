@@ -5,7 +5,18 @@
     <link>https://www.plamolinux.org/tags/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E6%83%85%E5%A0%B1/</link>
     <description>Recent content in セキュリティ情報 on Plamo Linux</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 27 Mar 2021 15:00:00 +0900</lastBuildDate><atom:link href="https://www.plamolinux.org/tags/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E6%83%85%E5%A0%B1/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Apr 2021 19:00:00 +0900</lastBuildDate><atom:link href="https://www.plamolinux.org/tags/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E6%83%85%E5%A0%B1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>firefox 88.0</title>
+      <link>https://www.plamolinux.org/posts/2021-04-22-firefox-88-dot-0/</link>
+      <pubDate>Sat, 24 Apr 2021 19:00:00 +0900</pubDate>
+      
+      <guid>https://www.plamolinux.org/posts/2021-04-22-firefox-88-dot-0/</guid>
+      <description>firefox 88.0 パッケージをリリースしました。
+ Firefox 88.0 リリースノート Firefox セキュリティアドバイザリ  パッケージをリリースしました。
+ firefox-88.0-x86_64-B1.txz  </description>
+    </item>
+    
     <item>
       <title>OpenSSL 1.1.1k</title>
       <link>https://www.plamolinux.org/posts/2021-03-27-openssl-1-dot-1-1k/</link>
@@ -15,17 +26,6 @@
       <description>OpenSSL 1.1.1k がリリースされています。セキュリティホールのの修正を含みます。
  https://www.openssl.org/news/secadv/20210325.txt  パッケージをリリースしました。
  openssl-1.1.1k-x86_64-B1.txz  </description>
-    </item>
-    
-    <item>
-      <title>firefox 87.0</title>
-      <link>https://www.plamolinux.org/posts/2021-03-24-firefox-87-dot-0/</link>
-      <pubDate>Wed, 24 Mar 2021 19:00:00 +0900</pubDate>
-      
-      <guid>https://www.plamolinux.org/posts/2021-03-24-firefox-87-dot-0/</guid>
-      <description>firefox 87.0 パッケージをリリースしました。
- Firefox 87.0 リリースノート Firefox セキュリティアドバイザリ  パッケージをリリースしました。nss,nspr,icu も同時に更新する必要があります。
- firefox-87.0-x86_64-B1.txz  </description>
     </item>
     
     <item>
