@@ -1,4 +1,4 @@
-baseurl = "https://www.plamolinux.org"
+baseurl = "https://plamolinux.org"
 #DefaultContentLanguage = "en"
 DefaultContentLanguage = "ja"
 title = "Plamo Linux"
