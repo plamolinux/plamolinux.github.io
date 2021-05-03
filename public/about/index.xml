@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Plamo Linuxについて on Plamo Linux</title>
+    <title>What is Plamo Linux? (Plamo Linux とは) on Plamo Linux</title>
     <link>https://www.plamolinux.org/about/</link>
-    <description>Recent content in Plamo Linuxについて on Plamo Linux</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 24 Apr 2021 02:14:56 +0900</lastBuildDate><atom:link href="https://www.plamolinux.org/about/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content in What is Plamo Linux? (Plamo Linux とは) on Plamo Linux</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://www.plamolinux.org/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
