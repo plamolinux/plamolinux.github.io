@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>セキュリティ情報 on Plamo Linux</title>
-    <link>https://www.plamolinux.org/tags/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E6%83%85%E5%A0%B1/</link>
+    <link>https://plamolinux.org/tags/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E6%83%85%E5%A0%B1/</link>
     <description>Recent content in セキュリティ情報 on Plamo Linux</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 27 Mar 2021 15:00:00 +0900</lastBuildDate><atom:link href="https://www.plamolinux.org/tags/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E6%83%85%E5%A0%B1/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 27 Mar 2021 15:00:00 +0900</lastBuildDate><atom:link href="https://plamolinux.org/tags/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E6%83%85%E5%A0%B1/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OpenSSL 1.1.1k</title>
-      <link>https://www.plamolinux.org/posts/2021-03-27-openssl-1-dot-1-1k/</link>
+      <link>https://plamolinux.org/posts/2021-03-27-openssl-1-dot-1-1k/</link>
       <pubDate>Sat, 27 Mar 2021 15:00:00 +0900</pubDate>
       
-      <guid>https://www.plamolinux.org/posts/2021-03-27-openssl-1-dot-1-1k/</guid>
+      <guid>https://plamolinux.org/posts/2021-03-27-openssl-1-dot-1-1k/</guid>
       <description>OpenSSL 1.1.1k がリリースされています。セキュリティホールのの修正を含みます。
  https://www.openssl.org/news/secadv/20210325.txt  パッケージをリリースしました。
  openssl-1.1.1k-x86_64-B1.txz  </description>
@@ -19,10 +19,10 @@
     
     <item>
       <title>firefox 87.0</title>
-      <link>https://www.plamolinux.org/posts/2021-03-24-firefox-87-dot-0/</link>
+      <link>https://plamolinux.org/posts/2021-03-24-firefox-87-dot-0/</link>
       <pubDate>Wed, 24 Mar 2021 19:00:00 +0900</pubDate>
       
-      <guid>https://www.plamolinux.org/posts/2021-03-24-firefox-87-dot-0/</guid>
+      <guid>https://plamolinux.org/posts/2021-03-24-firefox-87-dot-0/</guid>
       <description>firefox 87.0 パッケージをリリースしました。
  Firefox 87.0 リリースノート Firefox セキュリティアドバイザリ  パッケージをリリースしました。nss,nspr,icu も同時に更新する必要があります。
  firefox-87.0-x86_64-B1.txz  </description>
@@ -30,10 +30,10 @@
     
     <item>
       <title>php 8.0.2</title>
-      <link>https://www.plamolinux.org/posts/2021-02-18-php-8-dot-0-2/</link>
+      <link>https://plamolinux.org/posts/2021-02-18-php-8-dot-0-2/</link>
       <pubDate>Thu, 18 Feb 2021 15:00:00 +0900</pubDate>
       
-      <guid>https://www.plamolinux.org/posts/2021-02-18-php-8-dot-0-2/</guid>
+      <guid>https://plamolinux.org/posts/2021-02-18-php-8-dot-0-2/</guid>
       <description>PHP 8.0.2 がリリースされました。
  PHP 8.0.2 Released  パッケージをリリースしました。libzip パッケージを同時に更新しないと phpinfo などでエラーが出ます。
  php-8.0.2-x86_64-B1.txz  また、7.4.2 から次のようにビルドが変更されています。
@@ -42,10 +42,10 @@
     
     <item>
       <title>freetype 2.10.4</title>
-      <link>https://www.plamolinux.org/posts/2020-10-23-freetype-2-dot-10-4/</link>
+      <link>https://plamolinux.org/posts/2020-10-23-freetype-2-dot-10-4/</link>
       <pubDate>Fri, 23 Oct 2020 15:51:12 +0900</pubDate>
       
-      <guid>https://www.plamolinux.org/posts/2020-10-23-freetype-2-dot-10-4/</guid>
+      <guid>https://plamolinux.org/posts/2020-10-23-freetype-2-dot-10-4/</guid>
       <description>セキュリティホールの修正を含む freetype 2.10.4 がリリースされています．詳しくは以下をご覧ください．
  https://www.openwall.com/lists/oss-security/2020/10/20/7  パッケージをリリースしました．
  freetype-2.10.4-x86_64-B4.txz  </description>
@@ -53,10 +53,10 @@
     
     <item>
       <title>thunderbird 68.11.0</title>
-      <link>https://www.plamolinux.org/posts/2020-08-07-thunderbird-68-dot-11-0/</link>
+      <link>https://plamolinux.org/posts/2020-08-07-thunderbird-68-dot-11-0/</link>
       <pubDate>Fri, 07 Aug 2020 19:00:00 +0900</pubDate>
       
-      <guid>https://www.plamolinux.org/posts/2020-08-07-thunderbird-68-dot-11-0/</guid>
+      <guid>https://plamolinux.org/posts/2020-08-07-thunderbird-68-dot-11-0/</guid>
       <description>セキュリティホールの修正を含む Thunderbird 68.11.0 がリリースされています。詳しくは以下をご覧ください。
  Thunderbird 68.11.0 リリースノート Thunderbird セキュリティアドバイザリ  パッケージをリリースしました。
  thunderbird-68.11.0-x86_64-B1.txz  </description>
@@ -64,10 +64,10 @@
     
     <item>
       <title>libX11-1.6.10</title>
-      <link>https://www.plamolinux.org/posts/2020-08-06-libx11-1-dot-6-10/</link>
+      <link>https://plamolinux.org/posts/2020-08-06-libx11-1-dot-6-10/</link>
       <pubDate>Thu, 06 Aug 2020 19:00:00 +0900</pubDate>
       
-      <guid>https://www.plamolinux.org/posts/2020-08-06-libx11-1-dot-6-10/</guid>
+      <guid>https://plamolinux.org/posts/2020-08-06-libx11-1-dot-6-10/</guid>
       <description>セキュリティホールの修正を含む libX11 1.6.10 がリリースされています。詳しくは以下をご覧ください。
  CVE-2020-14344 (NVD)  パッケージをリリースしました。
  libX11-1.6.10-x86_64-B1.txz  </description>
@@ -75,10 +75,10 @@
     
     <item>
       <title>ghostscript 9.52</title>
-      <link>https://www.plamolinux.org/posts/2020-08-04-ghostscript-9-dot-52/</link>
+      <link>https://plamolinux.org/posts/2020-08-04-ghostscript-9-dot-52/</link>
       <pubDate>Tue, 04 Aug 2020 19:00:00 +0900</pubDate>
       
-      <guid>https://www.plamolinux.org/posts/2020-08-04-ghostscript-9-dot-52/</guid>
+      <guid>https://plamolinux.org/posts/2020-08-04-ghostscript-9-dot-52/</guid>
       <description>ghostscript にセキュリティホールが見つかっています。詳しくは以下をご覧ください。
  CVE-2020-15900 (NVD)  9.52 に対応するパッチを適用した対策パッケージをリリースしました。
  ghostscript-9.52-x86_64-B1.txz  </description>
@@ -86,10 +86,10 @@
     
     <item>
       <title>unbound 1.10.1</title>
-      <link>https://www.plamolinux.org/posts/2020-05-20-unbound-1-dot-10-dot-1/</link>
+      <link>https://plamolinux.org/posts/2020-05-20-unbound-1-dot-10-dot-1/</link>
       <pubDate>Wed, 20 May 2020 14:08:46 +0900</pubDate>
       
-      <guid>https://www.plamolinux.org/posts/2020-05-20-unbound-1-dot-10-dot-1/</guid>
+      <guid>https://plamolinux.org/posts/2020-05-20-unbound-1-dot-10-dot-1/</guid>
       <description>unbound に脆弱性が見つかっています。詳しくは次のURIをご覧ください。
  CVE-2020-12662,12663  対策パッケージをリリースしました。
  unbound-1.10.1-x86_64-B1.txz  </description>
@@ -97,10 +97,10 @@
     
     <item>
       <title>sudo 1.8.31</title>
-      <link>https://www.plamolinux.org/posts/2020-02-20-sudo-1-dot-8-31/</link>
+      <link>https://plamolinux.org/posts/2020-02-20-sudo-1-dot-8-31/</link>
       <pubDate>Thu, 20 Feb 2020 18:00:00 +0900</pubDate>
       
-      <guid>https://www.plamolinux.org/posts/2020-02-20-sudo-1-dot-8-31/</guid>
+      <guid>https://plamolinux.org/posts/2020-02-20-sudo-1-dot-8-31/</guid>
       <description>セキュリティホールの修正を含む sudo 1.8.31 がリリースされています。詳しくは以下をご覧ください。
  Buffer overflow when pwfeedback is set in sudoers  パッケージをリリースしました。
  sudo-1.8.31-x86_64-B1.txz  </description>
@@ -108,10 +108,10 @@
     
     <item>
       <title>proftpd 1.3.6b</title>
-      <link>https://www.plamolinux.org/posts/2019-10-23-proftpd-1-dot-3-6b/</link>
+      <link>https://plamolinux.org/posts/2019-10-23-proftpd-1-dot-3-6b/</link>
       <pubDate>Wed, 23 Oct 2019 18:15:39 +0900</pubDate>
       
-      <guid>https://www.plamolinux.org/posts/2019-10-23-proftpd-1-dot-3-6b/</guid>
+      <guid>https://plamolinux.org/posts/2019-10-23-proftpd-1-dot-3-6b/</guid>
       <description>proftpd にセキュリティホールが発見されています。詳しくは以下をご覧ください。
  1.3.6b Release Notes  パッケージをリリースしました．
  proftpd-1.3.6b-x86_64-B1.txz  </description>
@@ -119,10 +119,10 @@
     
     <item>
       <title>dovecot 2.3.7.2</title>
-      <link>https://www.plamolinux.org/posts/2019-08-29-dovecot-2-dot-3-7-2/</link>
+      <link>https://plamolinux.org/posts/2019-08-29-dovecot-2-dot-3-7-2/</link>
       <pubDate>Thu, 29 Aug 2019 00:00:00 +0900</pubDate>
       
-      <guid>https://www.plamolinux.org/posts/2019-08-29-dovecot-2-dot-3-7-2/</guid>
+      <guid>https://plamolinux.org/posts/2019-08-29-dovecot-2-dot-3-7-2/</guid>
       <description>dovecot 2.3.7.2 がリリースされています。詳しくは次をご覧ください。前のパッケージ以降のセキュリティホールの修正を含みます。
  v2.3.7.2 released  パッケージをリリースしました。
  dovecot-2.3.7.2-x86_64-B1.txz  </description>
@@ -130,10 +130,10 @@
     
     <item>
       <title>nghttp2 1.39.2</title>
-      <link>https://www.plamolinux.org/posts/2019-08-15-nghttp2-1-dot-39-dot-2/</link>
+      <link>https://plamolinux.org/posts/2019-08-15-nghttp2-1-dot-39-dot-2/</link>
       <pubDate>Thu, 15 Aug 2019 21:00:00 +0900</pubDate>
       
-      <guid>https://www.plamolinux.org/posts/2019-08-15-nghttp2-1-dot-39-dot-2/</guid>
+      <guid>https://plamolinux.org/posts/2019-08-15-nghttp2-1-dot-39-dot-2/</guid>
       <description>セキュリティホールの修正を含む nghttp2 1.39.2 がリリースされています。詳しくは次をご覧ください。
  nghttp2 v1.39.2  パッケージをリリースしました。
  nghttp2-1.39.2-x86_64-B1.txz  </description>
@@ -141,10 +141,10 @@
     
     <item>
       <title>wget 1.20.3</title>
-      <link>https://www.plamolinux.org/posts/2019-04-12-wget-1-dot-20-3/</link>
+      <link>https://plamolinux.org/posts/2019-04-12-wget-1-dot-20-3/</link>
       <pubDate>Mon, 15 Apr 2019 12:00:00 +0900</pubDate>
       
-      <guid>https://www.plamolinux.org/posts/2019-04-12-wget-1-dot-20-3/</guid>
+      <guid>https://plamolinux.org/posts/2019-04-12-wget-1-dot-20-3/</guid>
       <description>wget にセキュリティホールが発見されています。詳しくは以下をご覧ください。
  CVE-2019-5953 （SIOS Security Blog）  パッケージをリリースしました。
  wget-1.20.3-x86_64-B1.txz （Plamo-7.x） wget-1.20.3-x86_64-P1.txz （Plamo-6.x 64bit） wget-1.20.3-i686-P1.txz （Plamo-6.x 32bit）  </description>
@@ -152,10 +152,10 @@
     
     <item>
       <title>bind 9.12.3-P4</title>
-      <link>https://www.plamolinux.org/posts/2019-02-22-bind-9-dot-12-3-p4/</link>
+      <link>https://plamolinux.org/posts/2019-02-22-bind-9-dot-12-3-p4/</link>
       <pubDate>Fri, 22 Feb 2019 16:00:00 +0900</pubDate>
       
-      <guid>https://www.plamolinux.org/posts/2019-02-22-bind-9-dot-12-3-p4/</guid>
+      <guid>https://plamolinux.org/posts/2019-02-22-bind-9-dot-12-3-p4/</guid>
       <description>bind にセキュリティホールが発見されています．詳しくは以下をご覧ください．
  BIND 9.xの脆弱性（DNSサービスの停止）について（CVE-2018-5745） BIND 9.xの脆弱性（アクセス制限の不具合によるゾーンデータの流出）について（CVE-2019-6465）  パッケージをリリースしました。なお、Plamo 6.x でリリースしていた 9.9.x は EOL ですので、現在の stable である 9.12.3-P4 でパッケージを作成しています。
  bind-9.12.3_P4-i686-P1.txz (32bit) bind-9.12.3_P4-x86_64-P1.txz (64bit)  Plamo 7.0 には bind パッケージはありませんので影響ありません（一部ユーティリティコマンドのみを含む bind_tools パッケージのみ存在）</description>
@@ -163,10 +163,10 @@
     
     <item>
       <title>openssh 7.9p1</title>
-      <link>https://www.plamolinux.org/posts/2019-02-21-openssh-7-dot-9p1/</link>
+      <link>https://plamolinux.org/posts/2019-02-21-openssh-7-dot-9p1/</link>
       <pubDate>Thu, 21 Feb 2019 15:00:00 +0900</pubDate>
       
-      <guid>https://www.plamolinux.org/posts/2019-02-21-openssh-7-dot-9p1/</guid>
+      <guid>https://plamolinux.org/posts/2019-02-21-openssh-7-dot-9p1/</guid>
       <description>OpenSSH 7.9p1 がリリースされていたのでアップデートを行い、さらに CVE-2018-20685 対策のパッチを適用しました。
  release-7.9 OpenSSH(scp)の脆弱性情報(Important: CVE-2018-20685) (SIOS SECURITY BLOG)  パッケージをリリースしました。
  openssh-7.9p1-x86_64-B2.txz  </description>
@@ -174,20 +174,20 @@
     
     <item>
       <title>icu 63.1</title>
-      <link>https://www.plamolinux.org/posts/2018-11-09-icu-63-dot-1/</link>
+      <link>https://plamolinux.org/posts/2018-11-09-icu-63-dot-1/</link>
       <pubDate>Mon, 05 Nov 2018 17:38:25 +0900</pubDate>
       
-      <guid>https://www.plamolinux.org/posts/2018-11-09-icu-63-dot-1/</guid>
+      <guid>https://plamolinux.org/posts/2018-11-09-icu-63-dot-1/</guid>
       <description>icu パッケージを更新しました。
  icu-63.1-x86_64-B1.txz  他に boost, libical, harfbuzz, js52, node, qt, thunderbird, dovecot, postfix, texlive, php パッケージを同時に更新する必要があります。</description>
     </item>
     
     <item>
       <title>xorg-server 1.19.6</title>
-      <link>https://www.plamolinux.org/posts/2018-11-09-xorg-server-1-dot-19-dot-6/</link>
+      <link>https://plamolinux.org/posts/2018-11-09-xorg-server-1-dot-19-dot-6/</link>
       <pubDate>Tue, 30 Oct 2018 17:31:51 +0900</pubDate>
       
-      <guid>https://www.plamolinux.org/posts/2018-11-09-xorg-server-1-dot-19-dot-6/</guid>
+      <guid>https://plamolinux.org/posts/2018-11-09-xorg-server-1-dot-19-dot-6/</guid>
       <description>xorg-server にセキュリティホールが発見されています。
  X.Orgの脆弱性情報(Important: CVE-2018-14665) (SIOS SECURITY BLOG)  対策パッケージをリリースしました。
  xorg_server-1.19.6-x86_64-B2.txz  </description>
@@ -195,10 +195,10 @@
     
     <item>
       <title>wpa_supplicant 2.6</title>
-      <link>https://www.plamolinux.org/posts/2018-09-06-wpa-supplicant-2-dot-6/</link>
+      <link>https://plamolinux.org/posts/2018-09-06-wpa-supplicant-2-dot-6/</link>
       <pubDate>Wed, 05 Sep 2018 19:00:00 +0900</pubDate>
       
-      <guid>https://www.plamolinux.org/posts/2018-09-06-wpa-supplicant-2-dot-6/</guid>
+      <guid>https://plamolinux.org/posts/2018-09-06-wpa-supplicant-2-dot-6/</guid>
       <description>wpa_supplicant にセキュリティホールが見つかっています。詳しくは次をご覧ください。
  Unauthenticated EAPOL-Key decryption in wpa_supplicant (w1.fi)  パッケージをリリースしました。
  wpa_supplicant-2.6-x86_64-B2.txz  </description>
@@ -206,10 +206,10 @@
     
     <item>
       <title>gnutls 3.6.3</title>
-      <link>https://www.plamolinux.org/posts/2018-09-03-gnutls-3-dot-6-3/</link>
+      <link>https://plamolinux.org/posts/2018-09-03-gnutls-3-dot-6-3/</link>
       <pubDate>Mon, 03 Sep 2018 21:00:00 +0900</pubDate>
       
-      <guid>https://www.plamolinux.org/posts/2018-09-03-gnutls-3-dot-6-3/</guid>
+      <guid>https://plamolinux.org/posts/2018-09-03-gnutls-3-dot-6-3/</guid>
       <description>GnuTLS パッケージを 3.6.3 に更新しました。
  gnutls 3.6.3  同時に nettle の更新が必要です。
  nettle-3.4-x86_64-B1.txz gnutls-3.6.3-x86_64-B1.txz  </description>
@@ -217,10 +217,10 @@
     
     <item>
       <title>GnuPG 2.2.8</title>
-      <link>https://www.plamolinux.org/posts/2018-06-14-gnupg-2-dot-2-8/</link>
+      <link>https://plamolinux.org/posts/2018-06-14-gnupg-2-dot-2-8/</link>
       <pubDate>Thu, 14 Jun 2018 20:47:03 +0900</pubDate>
       
-      <guid>https://www.plamolinux.org/posts/2018-06-14-gnupg-2-dot-2-8/</guid>
+      <guid>https://plamolinux.org/posts/2018-06-14-gnupg-2-dot-2-8/</guid>
       <description>GnuPG にセキュリティホールが発見されています。詳しくは以下をご覧ください。
  [Announce] [security fix] GnuPG 2.2.8 released (CVE-2018-12020)  パッケージをリリースしました。libgpg_error パッケージも同時に更新してください。
  libgpg_error-1.31-x86_64-B1.txz gnupg-2.2.8-x86_64-B1.txz  </description>
@@ -228,10 +228,10 @@
     
     <item>
       <title>curl 7.60.0</title>
-      <link>https://www.plamolinux.org/posts/2018-06-14-curl-7-dot-60-dot-0/</link>
+      <link>https://plamolinux.org/posts/2018-06-14-curl-7-dot-60-dot-0/</link>
       <pubDate>Thu, 14 Jun 2018 19:55:00 +0900</pubDate>
       
-      <guid>https://www.plamolinux.org/posts/2018-06-14-curl-7-dot-60-dot-0/</guid>
+      <guid>https://plamolinux.org/posts/2018-06-14-curl-7-dot-60-dot-0/</guid>
       <description>（2018-06-14 20:00 Plamo 6.2 用のパッケージ情報を追加しました）
 セキュリティホールの修正を含む curl 7.60.0 がリリースされています．詳しくは以下をご覧ください．
  Changelog curl Security  対策パッケージをリリースしました．
@@ -240,10 +240,10 @@
     
     <item>
       <title>git 2.17.1</title>
-      <link>https://www.plamolinux.org/posts/2018-06-14-git-2-dot-17-1/</link>
+      <link>https://plamolinux.org/posts/2018-06-14-git-2-dot-17-1/</link>
       <pubDate>Thu, 14 Jun 2018 15:15:00 +0900</pubDate>
       
-      <guid>https://www.plamolinux.org/posts/2018-06-14-git-2-dot-17-1/</guid>
+      <guid>https://plamolinux.org/posts/2018-06-14-git-2-dot-17-1/</guid>
       <description>git のセキュリティホールが発見されています。詳しくは以下をご覧ください。
  [ANNOUNCE] Git v2.17.1, v2.13.7, v2.14.4, v2.15.2 and v2.16.4  パッケージをリリースしました．
  git-2.17.1-x86_64-B1.txz  </description>
@@ -251,10 +251,10 @@
     
     <item>
       <title>ruby 2.5.7</title>
-      <link>https://www.plamolinux.org/posts/2019-12-12-ruby-2-dot-5-7/</link>
+      <link>https://plamolinux.org/posts/2019-12-12-ruby-2-dot-5-7/</link>
       <pubDate>Tue, 12 Dec 2017 20:00:00 +0900</pubDate>
       
-      <guid>https://www.plamolinux.org/posts/2019-12-12-ruby-2-dot-5-7/</guid>
+      <guid>https://plamolinux.org/posts/2019-12-12-ruby-2-dot-5-7/</guid>
       <description>セキュリティホールの修正を含む ruby 2.5.7 がリリースされています。詳しくは以下をご覧ください。
  Ruby 2.5.7 リリース  パッケージをリリースしました。
  ruby-2.5.7-x86_64-B1.txz  </description>
@@ -262,10 +262,10 @@
     
     <item>
       <title>ntp 4.2.8p10</title>
-      <link>https://www.plamolinux.org/posts/2017-04-13-ntp-4-dot-2-8p10/</link>
+      <link>https://plamolinux.org/posts/2017-04-13-ntp-4-dot-2-8p10/</link>
       <pubDate>Tue, 04 Apr 2017 18:00:00 +0900</pubDate>
       
-      <guid>https://www.plamolinux.org/posts/2017-04-13-ntp-4-dot-2-8p10/</guid>
+      <guid>https://plamolinux.org/posts/2017-04-13-ntp-4-dot-2-8p10/</guid>
       <description>ntp にセキュリティホールが発見されています。詳しくは以下をご覧ください。
  March 2017 ntp-4.2.8p10 NTP Security Vulnerability Announcement  対策パッケージをリリースしました。
  ntp-4.2.8p10-i686-P1.txz (32bit) ntp-4.2.8p10-x86_64-P1.txz (64bit)  ntp-4.2.8p9-*-P2 パッケージより、動作に ntp ユーザ・グループが必要になりました。詳しくは Change.Log をご覧ください。</description>
@@ -273,10 +273,10 @@
     
     <item>
       <title>libpng 1.6.28</title>
-      <link>https://www.plamolinux.org/posts/2017-01-12-libpng-1-dot-6-21/</link>
+      <link>https://plamolinux.org/posts/2017-01-12-libpng-1-dot-6-21/</link>
       <pubDate>Thu, 12 Jan 2017 16:00:00 +0900</pubDate>
       
-      <guid>https://www.plamolinux.org/posts/2017-01-12-libpng-1-dot-6-21/</guid>
+      <guid>https://plamolinux.org/posts/2017-01-12-libpng-1-dot-6-21/</guid>
       <description>セキュリティホール修正を含む libpng 1.6.28, libpng 1.4.20 がリリースされています．詳しくは以下をご覧ください．
  libpng Home Page  パッケージをリリースしました．
  libpng-1.6.28-i686-P1.txz (32bit) libpng14-1.4.20-i686-P1.txz (32bit) libpng-1.6.28-x86_64-P1.txz (64bit) libpng14-1.4.20-x86_64-P1.txz (64bit)  </description>
@@ -284,10 +284,10 @@
     
     <item>
       <title>jasper 1.900.1</title>
-      <link>https://www.plamolinux.org/posts/2016-11-16-jasper-1-dot-900-dot-1/</link>
+      <link>https://plamolinux.org/posts/2016-11-16-jasper-1-dot-900-dot-1/</link>
       <pubDate>Wed, 16 Nov 2016 17:00:00 +0900</pubDate>
       
-      <guid>https://www.plamolinux.org/posts/2016-11-16-jasper-1-dot-900-dot-1/</guid>
+      <guid>https://plamolinux.org/posts/2016-11-16-jasper-1-dot-900-dot-1/</guid>
       <description>jasper にセキュリティホールが発見されています。
  CVE-2016-1577 (NVD) CVE-2016-2089 (NVD) CVE-2016-2116 (NVD)  対策パッケージをリリースしました。
  jasper-1.900.1-i686-P4.txz (32bit) jasper-1.900.1-x86_64-P4.txz (64bit)  </description>
@@ -295,10 +295,10 @@
     
     <item>
       <title>GraphicsMagick 1.3.25</title>
-      <link>https://www.plamolinux.org/posts/2016-09-12-graphicsmagick-1-dot-3-25/</link>
+      <link>https://plamolinux.org/posts/2016-09-12-graphicsmagick-1-dot-3-25/</link>
       <pubDate>Mon, 12 Sep 2016 18:00:00 +0900</pubDate>
       
-      <guid>https://www.plamolinux.org/posts/2016-09-12-graphicsmagick-1-dot-3-25/</guid>
+      <guid>https://plamolinux.org/posts/2016-09-12-graphicsmagick-1-dot-3-25/</guid>
       <description>GraphicsMagick パッケージを 1.3.25 に更新しました。
  [GM-announce] GraphicsMagick 1.3.25 is available  パッケージは以下です。
  GraphicsMagick-1.3.25-i686-P1.txz (32bit) GraphicsMagick-1.3.25-x86_64-P1.txz (64bit)  </description>
@@ -306,10 +306,10 @@
     
     <item>
       <title>libgd 2.2.3</title>
-      <link>https://www.plamolinux.org/posts/2016-08-01-libgd-2-dot-2-3/</link>
+      <link>https://plamolinux.org/posts/2016-08-01-libgd-2-dot-2-3/</link>
       <pubDate>Mon, 01 Aug 2016 12:00:00 +0900</pubDate>
       
-      <guid>https://www.plamolinux.org/posts/2016-08-01-libgd-2-dot-2-3/</guid>
+      <guid>https://plamolinux.org/posts/2016-08-01-libgd-2-dot-2-3/</guid>
       <description>セキュリティホールの修正を含む libgd がリリースされています。詳しくは以下をご覧ください。
  gd-2.2.3  対策パッケージをリリースしました。
  libgd2-2.2.3-i686-P1.txz (32bit) libgd2-2.2.3-x86_64-P1.txz (64bit)  </description>
@@ -317,30 +317,30 @@
     
     <item>
       <title>librsvg 2.40.16</title>
-      <link>https://www.plamolinux.org/posts/2016-06-27-librsvg-2-dot-40-dot-16/</link>
+      <link>https://plamolinux.org/posts/2016-06-27-librsvg-2-dot-40-dot-16/</link>
       <pubDate>Mon, 27 Jun 2016 18:33:45 +0900</pubDate>
       
-      <guid>https://www.plamolinux.org/posts/2016-06-27-librsvg-2-dot-40-dot-16/</guid>
+      <guid>https://plamolinux.org/posts/2016-06-27-librsvg-2-dot-40-dot-16/</guid>
       <description>セキュリティホールの修正を含む librsvg 2.40.16 のパッケージをリリースしました。
  librsvg-2.40.16-i686-P1.txz (32bit) librsvg-2.40.16-x86_64-P1.txz (64bit)  </description>
     </item>
     
     <item>
       <title>libarchive 3.2.1</title>
-      <link>https://www.plamolinux.org/posts/2016-06-24-libarchive-3-dot-2-1/</link>
+      <link>https://plamolinux.org/posts/2016-06-24-libarchive-3-dot-2-1/</link>
       <pubDate>Fri, 24 Jun 2016 17:36:23 +0900</pubDate>
       
-      <guid>https://www.plamolinux.org/posts/2016-06-24-libarchive-3-dot-2-1/</guid>
+      <guid>https://plamolinux.org/posts/2016-06-24-libarchive-3-dot-2-1/</guid>
       <description>セキュリティホールの修正を含む libarchive 3.2.1 パッケージをリリースしました。
  libarchive-3.2.1-i686-P1.txz (32bit) libarchive-3.2.1-x86_64-P1.txz (64bit)  </description>
     </item>
     
     <item>
       <title>expat 2.1.1</title>
-      <link>https://www.plamolinux.org/posts/2016-06-21-expat-2-dot-1-1/</link>
+      <link>https://plamolinux.org/posts/2016-06-21-expat-2-dot-1-1/</link>
       <pubDate>Thu, 23 Jun 2016 15:55:53 +0900</pubDate>
       
-      <guid>https://www.plamolinux.org/posts/2016-06-21-expat-2-dot-1-1/</guid>
+      <guid>https://plamolinux.org/posts/2016-06-21-expat-2-dot-1-1/</guid>
       <description>expat にセキュリティホールが見つかっています。詳しくは以下をご覧ください。
  JVNDB-2015-003917 Google Chrome などの製品で使用される Expat の XML_GetBuffer 関数における整数オーバーフローの脆弱性 JVNDB-2016-003284 Expat の XML パーサにおけるサービス運用妨害 (DoS) の脆弱性  パッチを適用したパッケージをリリースしました。
  expat-2.1.1-i686-P2.txz (32bit) expat-2.1.1-x86_64-P2.txz (64bit)  </description>
@@ -348,10 +348,10 @@
     
     <item>
       <title>jansson 2.7</title>
-      <link>https://www.plamolinux.org/posts/2016-06-24-jansson-2-dot-7/</link>
+      <link>https://plamolinux.org/posts/2016-06-24-jansson-2-dot-7/</link>
       <pubDate>Wed, 15 Jun 2016 17:50:04 +0900</pubDate>
       
-      <guid>https://www.plamolinux.org/posts/2016-06-24-jansson-2-dot-7/</guid>
+      <guid>https://plamolinux.org/posts/2016-06-24-jansson-2-dot-7/</guid>
       <description>jansson にセキュリティホールが発見されています。詳しくは以下をご覧ください。
  JVNDB-2016-002782 Jansson におけるサービス運用妨害 (DoS) の脆弱性  パッチを適用したパッケージをリリースしました。
  jansson-2.7-i686-P2.txz (32bit) jansson-2.7-x86_64-P2.txz (64bit)  </description>
@@ -359,10 +359,10 @@
     
     <item>
       <title>libxslt 1.1.29</title>
-      <link>https://www.plamolinux.org/posts/2016-06-02-libxslt-1-dot-1-29/</link>
+      <link>https://plamolinux.org/posts/2016-06-02-libxslt-1-dot-1-29/</link>
       <pubDate>Thu, 02 Jun 2016 12:40:57 +0900</pubDate>
       
-      <guid>https://www.plamolinux.org/posts/2016-06-02-libxslt-1-dot-1-29/</guid>
+      <guid>https://plamolinux.org/posts/2016-06-02-libxslt-1-dot-1-29/</guid>
       <description>セキュリティホールの修正を含む libxslt 1.1.29 がリリースされています。詳しくは以下をご覧ください。
  News (xmlsoft.org) JVNDB-2015-005957 libxslt の preproc.c の xsltStylePreCompute 関数におけるサービス運用妨害 (DoS) の脆弱性  パッケージをリリースしました。
  libxslt-1.1.29-i686-P1.txz (32bit) libxslt-1.1.29-x86_64-P1.txz (64bit)  </description>
@@ -370,10 +370,10 @@
     
     <item>
       <title>samba 4.4.2</title>
-      <link>https://www.plamolinux.org/posts/2016-04-20-samba-4-dot-4-2/</link>
+      <link>https://plamolinux.org/posts/2016-04-20-samba-4-dot-4-2/</link>
       <pubDate>Wed, 20 Apr 2016 16:00:00 +0900</pubDate>
       
-      <guid>https://www.plamolinux.org/posts/2016-04-20-samba-4-dot-4-2/</guid>
+      <guid>https://plamolinux.org/posts/2016-04-20-samba-4-dot-4-2/</guid>
       <description>samba にセキュリティホールが発見されています。詳しくは以下をご覧ください。
  Samba 4.4.2, 4.3.8 and 4.2.11 Security Releases Available for Download  対策パッケージをリリースしました。3.6 から 4.4 へのアップグレードを伴います。talloc, tdb も同時にアップデートしてください。
  tdb-1.3.9-i686-P1.txz (32bit) talloc-2.1.6-i686-P1.txz (32bit) samba-4.4.2-i686-P2.txz (32bit) tdb-1.3.9-x86_64-P1.txz (64bit) talloc-2.1.6-x86_64-P1.txz (64bit) samba-4.4.2-x86_64-P2.txz (64bit)  </description>
@@ -381,10 +381,10 @@
     
     <item>
       <title>glibc 2.20</title>
-      <link>https://www.plamolinux.org/posts/2016-02-18-glibc-2-dot-20/</link>
+      <link>https://plamolinux.org/posts/2016-02-18-glibc-2-dot-20/</link>
       <pubDate>Thu, 18 Feb 2016 15:20:00 +0900</pubDate>
       
-      <guid>https://www.plamolinux.org/posts/2016-02-18-glibc-2-dot-20/</guid>
+      <guid>https://plamolinux.org/posts/2016-02-18-glibc-2-dot-20/</guid>
       <description>glibc にセキュリティホールが発見されています。詳しくは以下をご覧ください。
  glibc ライブラリの脆弱性 (CVE-2015-7547) に関する注意喚起 (JPCERT)  パッチを適用したパッケージをリリースしました。
  glibc-2.20-i686-P2.txz (32bit) libc-2.20-i686-P2.txz (32bit) glibc-2.20-x86_64-P2.txz (64bit) libc-2.20-x86_64-P2.txz (64bit)  </description>
@@ -392,10 +392,10 @@
     
     <item>
       <title>pixman 0.32.8</title>
-      <link>https://www.plamolinux.org/posts/2016-02-10-pixman-0-dot-32-dot-8/</link>
+      <link>https://plamolinux.org/posts/2016-02-10-pixman-0-dot-32-dot-8/</link>
       <pubDate>Wed, 10 Feb 2016 19:00:07 +0900</pubDate>
       
-      <guid>https://www.plamolinux.org/posts/2016-02-10-pixman-0-dot-32-dot-8/</guid>
+      <guid>https://plamolinux.org/posts/2016-02-10-pixman-0-dot-32-dot-8/</guid>
       <description>セキュリティホールの修正を含む pixman 0.32.8 がリリースされています。詳しくは以下をご覧ください。
  [ANNOUNCE] pixman release 0.32.8 now available  パッケージをリリースしました。
  pixman-0.32.8-i686-P1.txz (32bit) pixman-0.32.8-x86_64-P1.txz (64bit)  </description>
@@ -403,10 +403,10 @@
     
     <item>
       <title>rsync 3.1.2</title>
-      <link>https://www.plamolinux.org/posts/2016-02-10-rsync-3-dot-1-2/</link>
+      <link>https://plamolinux.org/posts/2016-02-10-rsync-3-dot-1-2/</link>
       <pubDate>Wed, 10 Feb 2016 18:59:34 +0900</pubDate>
       
-      <guid>https://www.plamolinux.org/posts/2016-02-10-rsync-3-dot-1-2/</guid>
+      <guid>https://plamolinux.org/posts/2016-02-10-rsync-3-dot-1-2/</guid>
       <description>rsync にセキュリティホールが発見されています．詳しくは以下をご覧ください．
  https://download.samba.org/pub/rsync/src/rsync-3.1.2-NEWS  パッケージをリリースしました．
  rsync-3.1.2-i686-P1.txz (32bit) rsync-3.1.2-x86_64-P1.txz (64bit)  </description>
@@ -414,10 +414,10 @@
     
     <item>
       <title>dhcp 4.3.3-P1</title>
-      <link>https://www.plamolinux.org/posts/2016-01-14-dhcp-4-dot-3-3/</link>
+      <link>https://plamolinux.org/posts/2016-01-14-dhcp-4-dot-3-3/</link>
       <pubDate>Thu, 14 Jan 2016 19:11:47 +0900</pubDate>
       
-      <guid>https://www.plamolinux.org/posts/2016-01-14-dhcp-4-dot-3-3/</guid>
+      <guid>https://plamolinux.org/posts/2016-01-14-dhcp-4-dot-3-3/</guid>
       <description>セキュリティホールの修正を含む ISC DHCP 4.3.3-P1 がリリースされています。詳しくは以下をご覧ください。
  CVE-2015-8605: UDP payload length not properly checked  パッケージをリリースしました．
  dhcp-4.3.3_P1-i686-P1.txz (32bit) dhcp-4.3.3_P1-x86_64-P1.txz (64bit)  </description>
@@ -425,10 +425,10 @@
     
     <item>
       <title>libxml2 2.9.3</title>
-      <link>https://www.plamolinux.org/posts/2015-12-22-libxml2-2-dot-9-3/</link>
+      <link>https://plamolinux.org/posts/2015-12-22-libxml2-2-dot-9-3/</link>
       <pubDate>Tue, 22 Dec 2015 19:00:00 +0900</pubDate>
       
-      <guid>https://www.plamolinux.org/posts/2015-12-22-libxml2-2-dot-9-3/</guid>
+      <guid>https://plamolinux.org/posts/2015-12-22-libxml2-2-dot-9-3/</guid>
       <description>セキュリティホールの修正を含む libxml2 2.9.3 がリリースされています。詳しくは以下をご覧ください。
  [xml] Release of libxml2-2.9.3  (上記メールはタイトルが間違ってますので上記では修正しています。上記に挙がっている脆弱性の一部は Plamo パッケージではパッチで対処済みでした)
 対策パッケージをリリースしました。
@@ -437,10 +437,10 @@
     
     <item>
       <title>autofs 5.1.1</title>
-      <link>https://www.plamolinux.org/posts/2015-12-01-autofs-5-dot-1-1/</link>
+      <link>https://plamolinux.org/posts/2015-12-01-autofs-5-dot-1-1/</link>
       <pubDate>Tue, 01 Dec 2015 16:13:50 +0900</pubDate>
       
-      <guid>https://www.plamolinux.org/posts/2015-12-01-autofs-5-dot-1-1/</guid>
+      <guid>https://plamolinux.org/posts/2015-12-01-autofs-5-dot-1-1/</guid>
       <description>autofs にセキュリティホールが発見されています。詳しくは以下をご覧ください。
  https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2014-8169  パッケージをリリースしました。
  autofs-5.1.1-i686-P1.txz (32bit) autofs-5.1.1-x86_64-P1.txz (64bit)  </description>
@@ -448,10 +448,10 @@
     
     <item>
       <title>polkit 0.113</title>
-      <link>https://www.plamolinux.org/posts/2015-12-01-polkit-0-dot-113/</link>
+      <link>https://plamolinux.org/posts/2015-12-01-polkit-0-dot-113/</link>
       <pubDate>Tue, 01 Dec 2015 16:05:47 +0900</pubDate>
       
-      <guid>https://www.plamolinux.org/posts/2015-12-01-polkit-0-dot-113/</guid>
+      <guid>https://plamolinux.org/posts/2015-12-01-polkit-0-dot-113/</guid>
       <description>polkit にセキュリティホールが発見されています。詳しくは以下をご覧ください。
  http://cgit.freedesktop.org/polkit/tree/NEWS?id=23519924f24fb80a5f33bb3a82058a6c025ddfa9  パッケージをリリースしました。
  polkit-0.113-i686-P1.txz (32bit) polkit-0.113-x86_64-P1.txz (64bit)  </description>
@@ -459,10 +459,10 @@
     
     <item>
       <title>spice 0.12.6</title>
-      <link>https://www.plamolinux.org/posts/2015-10-28-spice-0-dot-12-dot-6/</link>
+      <link>https://plamolinux.org/posts/2015-10-28-spice-0-dot-12-dot-6/</link>
       <pubDate>Wed, 28 Oct 2015 10:24:24 +0900</pubDate>
       
-      <guid>https://www.plamolinux.org/posts/2015-10-28-spice-0-dot-12-dot-6/</guid>
+      <guid>https://plamolinux.org/posts/2015-10-28-spice-0-dot-12-dot-6/</guid>
       <description>spice にセキュリティホールが発見されています。詳しくは以下をご覧ください。
  CVE-2015-5260 spice: insufficient validation of surface_id parameter can cause crash CVE-2015-5261 spice: host memory access from guest using crafted images  パッケージをリリースしました。同時に six, spice_protocol も更新する必要があります。
  spice-0.12.6-i686-P1.txz (32bit) spice_protocol-0.12.10-i686-P1.txz (32bit) six_python2-1.10.0-i686-P1.txz (32bit) six_python3-1.10.0-i686-P1.txz (32bit) spice-0.12.6-x86_64-P1.txz (64bit) spice_protocol-0.12.10-x86_64-P1.txz (64bit) six_python2-1.10.0-x86_64-P1.txz (64bit) six_python3-1.10.0-x86_64-P1.txz (64bit)  </description>
@@ -470,10 +470,10 @@
     
     <item>
       <title>screen 4.3.1</title>
-      <link>https://www.plamolinux.org/posts/2015-09-14-screen-4-dot-3-1/</link>
+      <link>https://plamolinux.org/posts/2015-09-14-screen-4-dot-3-1/</link>
       <pubDate>Mon, 14 Sep 2015 15:38:19 +0900</pubDate>
       
-      <guid>https://www.plamolinux.org/posts/2015-09-14-screen-4-dot-3-1/</guid>
+      <guid>https://plamolinux.org/posts/2015-09-14-screen-4-dot-3-1/</guid>
       <description>screen にセキュリティホールが発見されています．詳しくは以下をご覧ください．
  oss-sec: Re: CVE request: screen stack overflow (deep recursion)  対策パッチを適用したパッケージをリリースしました．
  screen-4.3.1-i686-P1.txz (32bit) screen-4.3.1-x86_64-P1.txz (64bit)  </description>
@@ -481,10 +481,10 @@
     
     <item>
       <title>libidn 1.32</title>
-      <link>https://www.plamolinux.org/posts/2015-09-11-libidn-1-dot-32/</link>
+      <link>https://plamolinux.org/posts/2015-09-11-libidn-1-dot-32/</link>
       <pubDate>Fri, 11 Sep 2015 15:33:48 +0900</pubDate>
       
-      <guid>https://www.plamolinux.org/posts/2015-09-11-libidn-1-dot-32/</guid>
+      <guid>https://plamolinux.org/posts/2015-09-11-libidn-1-dot-32/</guid>
       <description>libidn にセキュリティホールが発見されています．詳しくは以下をご覧ください．
  Vulnerability Summary for CVE-2015-2059 (NVD)  パッケージをリリースしました．
  libidn-1.32-i686-P1.txz (32bit) libidn-1.32-x86_64-P1.txz (64bit)  </description>
@@ -492,10 +492,10 @@
     
     <item>
       <title>subversion 1.7.20</title>
-      <link>https://www.plamolinux.org/posts/2015-07-30-subversion-1-dot-7-20/</link>
+      <link>https://plamolinux.org/posts/2015-07-30-subversion-1-dot-7-20/</link>
       <pubDate>Thu, 30 Jul 2015 19:23:09 +0900</pubDate>
       
-      <guid>https://www.plamolinux.org/posts/2015-07-30-subversion-1-dot-7-20/</guid>
+      <guid>https://plamolinux.org/posts/2015-07-30-subversion-1-dot-7-20/</guid>
       <description>セキュリティホールの修正を含む subversion 1.7.20 がリリースされています．詳しくは以下をご覧ください．
  JVNDB-2015-002129 Subversion の mod_dav_svn および svnserve サーバにおけるサービス運用妨害 (DoS) の脆弱性 (JVN iPedia)  パッケージをリリースしました．
  subversion-1.7.20-i686-P1.txz (32bit) subversion-1.7.20-x86_64-P1.txz (64bit)  </description>
@@ -503,10 +503,10 @@
     
     <item>
       <title>mariadb 5.5.44</title>
-      <link>https://www.plamolinux.org/posts/2015-07-23-mariadb-5-dot-5-44/</link>
+      <link>https://plamolinux.org/posts/2015-07-23-mariadb-5-dot-5-44/</link>
       <pubDate>Thu, 23 Jul 2015 16:51:43 +0900</pubDate>
       
-      <guid>https://www.plamolinux.org/posts/2015-07-23-mariadb-5-dot-5-44/</guid>
+      <guid>https://plamolinux.org/posts/2015-07-23-mariadb-5-dot-5-44/</guid>
       <description>セキュリティホールの修正を含む MariaDB 5.5.44 がリリースされています．詳しくは以下をご覧ください．
  Security Vulnerabilities Fixed in MariaDB  パッケージをリリースしました．
  mariadb-5.5.44-i686-P1.txz (32bit) mariadb-5.5.44-x86_64-P1.txz (64bit)  </description>
@@ -514,10 +514,10 @@
     
     <item>
       <title>libzip 0.11.2</title>
-      <link>https://www.plamolinux.org/posts/2015-07-16-libzip-0-dot-11-dot-2/</link>
+      <link>https://plamolinux.org/posts/2015-07-16-libzip-0-dot-11-dot-2/</link>
       <pubDate>Thu, 16 Jul 2015 16:21:07 +0900</pubDate>
       
-      <guid>https://www.plamolinux.org/posts/2015-07-16-libzip-0-dot-11-dot-2/</guid>
+      <guid>https://plamolinux.org/posts/2015-07-16-libzip-0-dot-11-dot-2/</guid>
       <description>libzip にセキュリティホールが発見されています。詳しくは以下をご覧ください。
  JVNDB-2015-002001 PHP の ZIP エクステンションなどで使用される libzip の zip_dirent.c の _zip_cdir_new 関数における整数オーバーフローの脆弱性 (JVN iPedia)  パッチを適用した libzip 0.11.2 パッケージをリリースしました。
  libzip-0.11.2-i686-P1.txz (32bit) libzip-0.11.2-x86_64-P1.txz (64bit)  </description>
@@ -525,10 +525,10 @@
     
     <item>
       <title>stunnel 5.20</title>
-      <link>https://www.plamolinux.org/posts/2015-07-14-stunnel-5-dot-20/</link>
+      <link>https://plamolinux.org/posts/2015-07-14-stunnel-5-dot-20/</link>
       <pubDate>Tue, 14 Jul 2015 15:51:33 +0900</pubDate>
       
-      <guid>https://www.plamolinux.org/posts/2015-07-14-stunnel-5-dot-20/</guid>
+      <guid>https://plamolinux.org/posts/2015-07-14-stunnel-5-dot-20/</guid>
       <description>stunnel にセキュリティホールが発見されています。詳しくは以下をご覧ください。
  stunnel: CVE-2015-3644  対策パッケージをリリースしました。
  stunnel-5.20-i686-P1.txz (32bit) stunnel-5.20-x86_64-P1.txz (64bit)  </description>
@@ -536,10 +536,10 @@
     
     <item>
       <title>libtasn1 2.14</title>
-      <link>https://www.plamolinux.org/posts/2015-06-10-libtasn1-2-dot-14/</link>
+      <link>https://plamolinux.org/posts/2015-06-10-libtasn1-2-dot-14/</link>
       <pubDate>Wed, 10 Jun 2015 18:05:51 +0900</pubDate>
       
-      <guid>https://www.plamolinux.org/posts/2015-06-10-libtasn1-2-dot-14/</guid>
+      <guid>https://plamolinux.org/posts/2015-06-10-libtasn1-2-dot-14/</guid>
       <description>libtasn1 にセキュリティホールが発見されています。詳しくは以下をご覧ください。
  https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2015-2806  libtasn1 2.14 に対策パッチを適用したパッケージをリリースしました。
  libtasn1-2.14-i686-P1.txz (32bit) libtasn1-2.14-x86_64-P1.txz (64bit)  </description>
@@ -547,10 +547,10 @@
     
     <item>
       <title>fuse 2.9.4</title>
-      <link>https://www.plamolinux.org/posts/2015-05-26-fuse-2-dot-9-4/</link>
+      <link>https://plamolinux.org/posts/2015-05-26-fuse-2-dot-9-4/</link>
       <pubDate>Tue, 26 May 2015 20:33:56 +0900</pubDate>
       
-      <guid>https://www.plamolinux.org/posts/2015-05-26-fuse-2-dot-9-4/</guid>
+      <guid>https://plamolinux.org/posts/2015-05-26-fuse-2-dot-9-4/</guid>
       <description>セキュリティホールの修正を含む fuse 2.9.4 がリリースされています。詳しくは以下をご覧ください。
  http://www.openwall.com/lists/oss-security/2015/05/21/9  パッケージをリリースしました。
  fuse-2.9.4-i686-P1.txz (32bit) fuse-2.9.4-x86_64-P1.txz (64bit)  </description>
@@ -558,10 +558,10 @@
     
     <item>
       <title>libssh 0.6.5</title>
-      <link>https://www.plamolinux.org/posts/2015-05-22-libssh-0-dot-6-5/</link>
+      <link>https://plamolinux.org/posts/2015-05-22-libssh-0-dot-6-5/</link>
       <pubDate>Fri, 22 May 2015 15:42:02 +0900</pubDate>
       
-      <guid>https://www.plamolinux.org/posts/2015-05-22-libssh-0-dot-6-5/</guid>
+      <guid>https://plamolinux.org/posts/2015-05-22-libssh-0-dot-6-5/</guid>
       <description>セキュリティホールの修正を含む libssh 0.6.5 がリリースされています。詳しくは以下をご覧ください。
  libssh 0.6.5 (Security and bugfix release) (libssh)  パッケージをリリースしました．
  libssh-0.6.5-i686-P1.txz (32bit) libssh-0.6.5-x86_64-P1.txz (64bit)  </description>
@@ -569,10 +569,10 @@
     
     <item>
       <title>qemu 2.0.0</title>
-      <link>https://www.plamolinux.org/posts/2015-05-19-qemu-2-dot-0-0/</link>
+      <link>https://plamolinux.org/posts/2015-05-19-qemu-2-dot-0-0/</link>
       <pubDate>Tue, 19 May 2015 20:04:14 +0900</pubDate>
       
-      <guid>https://www.plamolinux.org/posts/2015-05-19-qemu-2-dot-0-0/</guid>
+      <guid>https://plamolinux.org/posts/2015-05-19-qemu-2-dot-0-0/</guid>
       <description>qemu に脆弱性が発見されています。詳しくは以下をご覧ください。
  VENOM Vulnerability  パッチを適用した対策パッケージをリリースしました。
  qemu-2.0.0-i686-P2.txz qemu-2.0.0-x86_64-P2.txz  </description>
@@ -580,10 +580,10 @@
     
     <item>
       <title>tiff 4.0.3</title>
-      <link>https://www.plamolinux.org/posts/2015-04-08-tiff/</link>
+      <link>https://plamolinux.org/posts/2015-04-08-tiff/</link>
       <pubDate>Wed, 08 Apr 2015 00:00:00 +0900</pubDate>
       
-      <guid>https://www.plamolinux.org/posts/2015-04-08-tiff/</guid>
+      <guid>https://plamolinux.org/posts/2015-04-08-tiff/</guid>
       <description>libtiff にセキュリティホールが発見されています．詳しくは以下をご覧ください．
  http://openwall.com/lists/oss-security/2015/01/24/15 http://openwall.com/lists/oss-security/2015/02/07/5  パッチを適用したパッケージをリリースしました．
  tiff-4.0.3-i686-P3.txz (32bit) tiff-4.0.3-x86_64-P3.txz (64bit)  </description>
@@ -591,10 +591,10 @@
     
     <item>
       <title>elfutils 0.161</title>
-      <link>https://www.plamolinux.org/posts/2015-04-06-elfutils/</link>
+      <link>https://plamolinux.org/posts/2015-04-06-elfutils/</link>
       <pubDate>Mon, 06 Apr 2015 17:19:11 +0900</pubDate>
       
-      <guid>https://www.plamolinux.org/posts/2015-04-06-elfutils/</guid>
+      <guid>https://plamolinux.org/posts/2015-04-06-elfutils/</guid>
       <description>elfutils にセキュリティホールが発見されています。詳しくは以下をご覧ください。
  https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2014-9447  パッチを適用した対策パッケージをリリースしました。
  elfutils-0.161-i686-P2.txz (32bit) elfutils-0.161-x86_64-P2.txz (64bit)  </description>
@@ -602,10 +602,10 @@
     
     <item>
       <title>tcpdump 4.7.3</title>
-      <link>https://www.plamolinux.org/posts/2015-03-24-tcpdump-4-dot-7-3/</link>
+      <link>https://plamolinux.org/posts/2015-03-24-tcpdump-4-dot-7-3/</link>
       <pubDate>Tue, 24 Mar 2015 17:39:54 +0900</pubDate>
       
-      <guid>https://www.plamolinux.org/posts/2015-03-24-tcpdump-4-dot-7-3/</guid>
+      <guid>https://plamolinux.org/posts/2015-03-24-tcpdump-4-dot-7-3/</guid>
       <description>セキュリティホールの修正を含む tcpdump 4.7.3 がリリースされています。詳しくは以下をご覧ください。
  tcpdump 4.7.2 remote crashes  パッケージをリリースしました。(libpcap も同時に更新しました)
  libpcap-1.7.2-i686-P1.txz (32bit) tcpdump-4.7.3-i686-P1.txz (32bit) libpcap-1.7.2-x86_64-P1.txz (64bit) tcpdump-4.7.3-x86_64-P1.txz (64bit)  </description>
@@ -613,10 +613,10 @@
     
     <item>
       <title>libssh2 1.5.0</title>
-      <link>https://www.plamolinux.org/posts/2015-03-20-libssh2-1-dot-5-0/</link>
+      <link>https://plamolinux.org/posts/2015-03-20-libssh2-1-dot-5-0/</link>
       <pubDate>Fri, 20 Mar 2015 18:38:17 +0900</pubDate>
       
-      <guid>https://www.plamolinux.org/posts/2015-03-20-libssh2-1-dot-5-0/</guid>
+      <guid>https://plamolinux.org/posts/2015-03-20-libssh2-1-dot-5-0/</guid>
       <description>セキュリティホールの修正を含む libssh2 1.5.0 がリリースされています。詳しくは以下をご覧ください。
  Using SSH_MSG_KEXINIT data unbounded  パッケージをリリースしました．
  libssh2-1.5.0-i686-P1.txz (32bit) libssh2-1.5.0-x86_64-P1.txz (64bit)  </description>
@@ -624,10 +624,10 @@
     
     <item>
       <title>libgcrypt 1.5.4</title>
-      <link>https://www.plamolinux.org/posts/2015-03-17-libgcrypt-1-dot-5-4/</link>
+      <link>https://plamolinux.org/posts/2015-03-17-libgcrypt-1-dot-5-4/</link>
       <pubDate>Tue, 17 Mar 2015 20:29:52 +0900</pubDate>
       
-      <guid>https://www.plamolinux.org/posts/2015-03-17-libgcrypt-1-dot-5-4/</guid>
+      <guid>https://plamolinux.org/posts/2015-03-17-libgcrypt-1-dot-5-4/</guid>
       <description>libgcrypt にセキュリティホールが発見されています。詳しくは以下をご覧ください。
  https://bugzilla.redhat.com/show_bug.cgi?id=1198145 https://bugzilla.redhat.com/show_bug.cgi?id=1198147  パッチを適用した対策パッケージをリリースしました。
  libgcrypt-1.5.4-i686-P2.txz (32bit) libgcrypt-1.5.4-x86_64-P2.txz (64bit)  </description>
@@ -635,10 +635,10 @@
     
     <item>
       <title>xdg-utils 1.1.0-rc3</title>
-      <link>https://www.plamolinux.org/posts/2015-03-11-xdg-utils-1-dot-1-0-rc3/</link>
+      <link>https://plamolinux.org/posts/2015-03-11-xdg-utils-1-dot-1-0-rc3/</link>
       <pubDate>Wed, 11 Mar 2015 20:11:36 +0900</pubDate>
       
-      <guid>https://www.plamolinux.org/posts/2015-03-11-xdg-utils-1-dot-1-0-rc3/</guid>
+      <guid>https://plamolinux.org/posts/2015-03-11-xdg-utils-1-dot-1-0-rc3/</guid>
       <description>xdg-utils にセキュリティホールが発見されています。詳しくは以下をご覧ください。
  Bug 66670 - xdg-open: command injection vulnerability   パッケージをリリースしました。
  xdg_utils-1.1.0_rc3-noarch-P1.txz  </description>
@@ -646,10 +646,10 @@
     
     <item>
       <title>e2fsprogs</title>
-      <link>https://www.plamolinux.org/posts/2015-02-13-e2fsprogs/</link>
+      <link>https://plamolinux.org/posts/2015-02-13-e2fsprogs/</link>
       <pubDate>Fri, 13 Feb 2015 21:02:49 +0900</pubDate>
       
-      <guid>https://www.plamolinux.org/posts/2015-02-13-e2fsprogs/</guid>
+      <guid>https://plamolinux.org/posts/2015-02-13-e2fsprogs/</guid>
       <description>e2fsprogs 1.42.12 より前のバージョンにセキュリティホールが発見されています。詳しくは以下をご覧ください。
  #2015-002 e2fsprogs input sanitization errors (oCERT)  対策パッケージをリリースしました。
  e2fsprogs-1.42.12-i686-P1.txz (32bit) e2fsprogs-1.42.12-x86_64-P1.txz (64bit)  </description>
@@ -657,10 +657,10 @@
     
     <item>
       <title>grep 2.20</title>
-      <link>https://www.plamolinux.org/posts/2015-02-13-grep-2-dot-20/</link>
+      <link>https://plamolinux.org/posts/2015-02-13-grep-2-dot-20/</link>
       <pubDate>Fri, 13 Feb 2015 18:10:19 +0900</pubDate>
       
-      <guid>https://www.plamolinux.org/posts/2015-02-13-grep-2-dot-20/</guid>
+      <guid>https://plamolinux.org/posts/2015-02-13-grep-2-dot-20/</guid>
       <description>grep 2.21 以前にセキュリティホールが発見されています。詳しくは以下をご覧ください。
  #19563 - grep -F: fix a heap buffer (read) overrun - GNU bug report logs  パッチを適用したパッケージをリリースしました。
  grep-2.20-i686-P2.txz (32bit) grep-2.20-x86_64-P2.txz (64bit)  </description>
@@ -668,10 +668,10 @@
     
     <item>
       <title>yaml 0.1.6</title>
-      <link>https://www.plamolinux.org/posts/2015-02-09-yaml-0-dot-1-6/</link>
+      <link>https://plamolinux.org/posts/2015-02-09-yaml-0-dot-1-6/</link>
       <pubDate>Mon, 09 Feb 2015 17:27:35 +0900</pubDate>
       
-      <guid>https://www.plamolinux.org/posts/2015-02-09-yaml-0-dot-1-6/</guid>
+      <guid>https://plamolinux.org/posts/2015-02-09-yaml-0-dot-1-6/</guid>
       <description>libyaml 0.1.6 にセキュリティホールが発見されています。詳しくは以下をご覧ください。
  CVE-2014-9130 (nvd)  パッチを適用した yaml-0.1.6 のパッケージをリリースしました。
  yaml-0.1.6-i686-P2.txz (32bit) yaml-0.1.6-x86_64-P2.txz (64bit)  </description>
@@ -679,10 +679,10 @@
     
     <item>
       <title>wireshark 1.10.12</title>
-      <link>https://www.plamolinux.org/posts/2015-02-09-wireshark-1-dot-10-dot-12/</link>
+      <link>https://plamolinux.org/posts/2015-02-09-wireshark-1-dot-10-dot-12/</link>
       <pubDate>Mon, 09 Feb 2015 17:22:46 +0900</pubDate>
       
-      <guid>https://www.plamolinux.org/posts/2015-02-09-wireshark-1-dot-10-dot-12/</guid>
+      <guid>https://plamolinux.org/posts/2015-02-09-wireshark-1-dot-10-dot-12/</guid>
       <description>セキュリティホールの修正を含む wireshark 1.10.12 がリリースされています。詳しくは以下をご覧ください。
  wnpa-sec-2015-01 · WCCP dissector crash wnpa-sec-2015-02 · LPP dissector crash wnpa-sec-2015-03 · DEC DNA Routing Protocol dissector crash wnpa-sec-2015-04 · SMTP dissector crash wnpa-sec-2015-05 · TLS/SSL decryption crash  パッケージをリリースしました。
  wireshark-1.10.12-i686-P1.txz (32bit) wireshark-1.10.12-x86_64-P1.txz (64bit)  </description>
@@ -690,10 +690,10 @@
     
     <item>
       <title>file 5.22</title>
-      <link>https://www.plamolinux.org/posts/2015-02-02-file-5-dot-22/</link>
+      <link>https://plamolinux.org/posts/2015-02-02-file-5-dot-22/</link>
       <pubDate>Fri, 30 Jan 2015 00:00:00 +0900</pubDate>
       
-      <guid>https://www.plamolinux.org/posts/2015-02-02-file-5-dot-22/</guid>
+      <guid>https://plamolinux.org/posts/2015-02-02-file-5-dot-22/</guid>
       <description>file 5.21 以前にセキュリティホールが発見されています。詳しくは以下をご覧ください。
  CVE-2014-9621 (NVD)  file 5.22 のパッケージをリリースしました。
  file-5.22-i686-P1.txz (32bit) file-5.22-x86_64-P1.txz (64bit)  </description>
@@ -701,10 +701,10 @@
     
     <item>
       <title>patch 2.7.3</title>
-      <link>https://www.plamolinux.org/posts/2015-02-02-patch-2-dot-7-3/</link>
+      <link>https://plamolinux.org/posts/2015-02-02-patch-2-dot-7-3/</link>
       <pubDate>Fri, 30 Jan 2015 00:00:00 +0900</pubDate>
       
-      <guid>https://www.plamolinux.org/posts/2015-02-02-patch-2-dot-7-3/</guid>
+      <guid>https://plamolinux.org/posts/2015-02-02-patch-2-dot-7-3/</guid>
       <description>patch 2.7.1 以前にセキュリティホールが発見されています。詳しくは以下をご覧ください。
  CVE-2015-1196 (NVD)  patch 2.7.3 のパッケージをリリースしました。
  patch-2.7.3-i686-P1.txz (32bit) patch-2.7.3-x86_64-P1.txz (64bit)  </description>
@@ -712,10 +712,10 @@
     
     <item>
       <title>util-linux 2.25.2</title>
-      <link>https://www.plamolinux.org/posts/2015-02-02-util-linux-2-dot-25-dot-2/</link>
+      <link>https://plamolinux.org/posts/2015-02-02-util-linux-2-dot-25-dot-2/</link>
       <pubDate>Fri, 30 Jan 2015 00:00:00 +0900</pubDate>
       
-      <guid>https://www.plamolinux.org/posts/2015-02-02-util-linux-2-dot-25-dot-2/</guid>
+      <guid>https://plamolinux.org/posts/2015-02-02-util-linux-2-dot-25-dot-2/</guid>
       <description>util-linux 2.25.2 にセキュリティホールが発見されています。詳しくは以下をご覧ください。
  Bug 1168485 – CVE-2014-9114 util-linux: command injection flaw in blkid (Red Hat Bugzilla)  パッチを適用した util-linux-2.25.2 のパッケージをリリースしました。
  util_linux-2.25.2-i686-P1.txz (32bit) util_linux-2.25.2-x86_64-P1.txz (64bit)  </description>
@@ -723,10 +723,10 @@
     
     <item>
       <title>mailx 12.5</title>
-      <link>https://www.plamolinux.org/posts/2015-02-02-mailx-12-dot-5/</link>
+      <link>https://plamolinux.org/posts/2015-02-02-mailx-12-dot-5/</link>
       <pubDate>Thu, 29 Jan 2015 16:15:16 +0900</pubDate>
       
-      <guid>https://www.plamolinux.org/posts/2015-02-02-mailx-12-dot-5/</guid>
+      <guid>https://plamolinux.org/posts/2015-02-02-mailx-12-dot-5/</guid>
       <description>mailx にセキュリティホールが発見されています。詳しくは以下をご覧ください。
  Bug 1162783 – CVE-2004-2771 CVE-2014-7844 mailx: command execution flaw (Red Hat Bugzilla)  対策パッケージをリリースしました。
  mailx-12.5-i686-P1.txz (32bit) mailx-12.5-x86_64-P1.txz (64bit)  </description>
@@ -734,10 +734,10 @@
     
     <item>
       <title>cpio 2.11</title>
-      <link>https://www.plamolinux.org/posts/2015-02-02-cpio-2-dot-11/</link>
+      <link>https://plamolinux.org/posts/2015-02-02-cpio-2-dot-11/</link>
       <pubDate>Thu, 29 Jan 2015 16:11:54 +0900</pubDate>
       
-      <guid>https://www.plamolinux.org/posts/2015-02-02-cpio-2-dot-11/</guid>
+      <guid>https://plamolinux.org/posts/2015-02-02-cpio-2-dot-11/</guid>
       <description>cpio にセキュリティホールが発見されています。詳しくは以下をご覧ください。
  CVE-2014-9112 (NVD)  対策パッケージをリリースしました。
  cpio-2.11-i686-P2.txz (32bit) cpio-2.11-x86_64-P2.txz (64bit)  </description>
@@ -745,10 +745,10 @@
     
     <item>
       <title>libevent 2.0.22</title>
-      <link>https://www.plamolinux.org/posts/2015-01-20-libevent-2-dot-0-22/</link>
+      <link>https://plamolinux.org/posts/2015-01-20-libevent-2-dot-0-22/</link>
       <pubDate>Tue, 20 Jan 2015 17:08:46 +0900</pubDate>
       
-      <guid>https://www.plamolinux.org/posts/2015-01-20-libevent-2-dot-0-22/</guid>
+      <guid>https://plamolinux.org/posts/2015-01-20-libevent-2-dot-0-22/</guid>
       <description>libevent 2.0.22 より前のバージョンにセキュリティホールが発見されています。詳しくは以下をご覧ください。
  FS#43366 - [libevent] heap-overflow vulnerability CVE-2014-6272 (archlinux)  対策パッケージをリリースしました。
  libevent-2.0.22-i686-P1.txz (32bit) libevent-2.0.22-x86_64-P1.txz (64bit)  </description>
@@ -756,10 +756,10 @@
     
     <item>
       <title>binutils 2.25</title>
-      <link>https://www.plamolinux.org/posts/2015-01-20-binutils-2-dot-25/</link>
+      <link>https://plamolinux.org/posts/2015-01-20-binutils-2-dot-25/</link>
       <pubDate>Tue, 20 Jan 2015 17:05:46 +0900</pubDate>
       
-      <guid>https://www.plamolinux.org/posts/2015-01-20-binutils-2-dot-25/</guid>
+      <guid>https://plamolinux.org/posts/2015-01-20-binutils-2-dot-25/</guid>
       <description>binutils 2.25 より前のバージョンにセキュリティホールが発見されています。詳しくは以下をご覧ください。
  CVE-2014-8484 (NVD)  対策パッケージをリリースしました。
  binutils-2.25-i686-P1.txz (32bit) binutils-2.25-x86_64-P1.txz (64bit)  </description>
@@ -767,10 +767,10 @@
     
     <item>
       <title>libjpeg-turbo 1.3.1</title>
-      <link>https://www.plamolinux.org/posts/2015-01-13-libjpeg-turbo-1-dot-3-1/</link>
+      <link>https://plamolinux.org/posts/2015-01-13-libjpeg-turbo-1-dot-3-1/</link>
       <pubDate>Tue, 13 Jan 2015 20:23:11 +0900</pubDate>
       
-      <guid>https://www.plamolinux.org/posts/2015-01-13-libjpeg-turbo-1-dot-3-1/</guid>
+      <guid>https://plamolinux.org/posts/2015-01-13-libjpeg-turbo-1-dot-3-1/</guid>
       <description>libjpeg-turbo にセキュリティホールが発見されています。詳しくは以下をご覧ください。
  https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=768369  libjpeg-turbo パッケージを対応パッチ適用済みの 1.3.1 に更新しました。
  libjpeg_turbo-1.3.1-i686-P1.txz (32bit) libjpeg_turbo-1.3.1-x86_64-P1.txz (64bit)  </description>
@@ -778,10 +778,10 @@
     
     <item>
       <title>httpd 2.4.46</title>
-      <link>https://www.plamolinux.org/posts/2020-08-11-httpd-2-dot-4-46/</link>
+      <link>https://plamolinux.org/posts/2020-08-11-httpd-2-dot-4-46/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.plamolinux.org/posts/2020-08-11-httpd-2-dot-4-46/</guid>
+      <guid>https://plamolinux.org/posts/2020-08-11-httpd-2-dot-4-46/</guid>
       <description>セキュリティホールの修正を含む Apache httpd 2.4.46 がリリースされています．詳しくは以下をご覧ください．
  Apache HTTP Server 2.4.46 Released Changes with Apache 2.4.46  パッケージをリリースしました．
  httpd-2.4.46-x86_64-B1.txz  </description>

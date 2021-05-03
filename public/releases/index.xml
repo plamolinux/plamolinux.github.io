@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Releases on Plamo Linux</title>
-    <link>https://www.plamolinux.org/releases/</link>
+    <link>https://plamolinux.org/releases/</link>
     <description>Recent content in Releases on Plamo Linux</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 04 May 2021 00:06:36 +0900</lastBuildDate><atom:link href="https://www.plamolinux.org/releases/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 04 May 2021 00:06:36 +0900</lastBuildDate><atom:link href="https://plamolinux.org/releases/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Plamo 7.3</title>
-      <link>https://www.plamolinux.org/releases/plamo-7.3/</link>
+      <link>https://plamolinux.org/releases/plamo-7.3/</link>
       <pubDate>Tue, 04 May 2021 00:06:36 +0900</pubDate>
       
-      <guid>https://www.plamolinux.org/releases/plamo-7.3/</guid>
+      <guid>https://plamolinux.org/releases/plamo-7.3/</guid>
       <description>Plamo 7.3 をリリースしました。
 ずるずると日付入りの iso イメージを出しててもキリが無いんで， 一応，今日作ったイメージを Plamo-7.3 として公開しました． $ ls -lh plamo-7.3* -rw-rw-r-- 1 kojima plamo 3.9G 5月 3 20:40 plamo-7.3_x86_64_dvd_01.iso -rw-rw-r-- 1 kojima plamo 62 5月 3 20:40 plamo-7.3_x86_64_dvd_01.iso.md5sum -rw-rw-r-- 1 kojima plamo 3.3G 5月 3 20:41 plamo-7.3_x86_64_dvd_02.iso -rw-rw-r-- 1 kojima plamo 62 5月 3 20:41 plamo-7.3_x86_64_dvd_02.iso.md5sum -rw-rw-r-- 1 kojima plamo 7.1G 5月 3 20:43 plamo-7.3_x86_64_usb.iso -rw-rw-r-- 1 kojima plamo 59 5月 3 20:43 plamo-7.3_x86_64_usb.iso.md5sum </description>
     </item>
