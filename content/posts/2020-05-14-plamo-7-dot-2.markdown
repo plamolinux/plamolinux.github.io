@@ -1,14 +1,18 @@
 ---
-layout: post
+author: ""
+type: ""
 title: "Plamo 7.2 リリース"
 date: 2020-05-13 23:00:00 +0900
-comments: false
+subtitle: ""
+image: ""
 tags: ["リリース情報", "Plamo 7.x 情報"]
 ---
 
 Plamo 7.2 をリリースしました。
 
 * [[plamo:33372] Plamo-7.2 released](http://www.linet.gr.jp/~kojima/PlamoWeb/ML/htdocs/202005/msg00011.html)
+
+<!--more-->
 
 従来同様、4.7Gのサイズに収まるようにDVD用は2枚組みです。他に USB メモリからインストールする用に DVD 2 枚分をまとめてひとつにした USB 用イメージがあります（_usb.iso）。
 

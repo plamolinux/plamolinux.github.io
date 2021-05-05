@@ -3,25 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.plamolinux.org/</loc>
-    <lastmod>2021-05-04T00:06:36+09:00</lastmod>
+    <lastmod>2021-05-05T00:20:00+09:00</lastmod>
     <priority>0</priority>
   </url><url>
-    <loc>https://www.plamolinux.org/releases/plamo-7.3/</loc>
-    <lastmod>2021-05-04T00:06:36+09:00</lastmod>
-  </url><url>
-    <loc>https://www.plamolinux.org/releases/</loc>
-    <lastmod>2021-05-04T00:06:36+09:00</lastmod>
-  </url><url>
-    <loc>https://www.plamolinux.org/posts/2021-04-22-firefox-88-dot-0/</loc>
-    <lastmod>2021-04-24T19:00:00+09:00</lastmod>
+    <loc>https://www.plamolinux.org/posts/2021-05-05-plamo-7.3-release/</loc>
+    <lastmod>2021-05-05T00:20:00+09:00</lastmod>
   </url><url>
     <loc>https://www.plamolinux.org/tags/plamo-7.x-%E6%83%85%E5%A0%B1/</loc>
-    <lastmod>2021-04-24T19:00:00+09:00</lastmod>
+    <lastmod>2021-05-05T00:20:00+09:00</lastmod>
   </url><url>
     <loc>https://www.plamolinux.org/posts/</loc>
-    <lastmod>2021-04-24T19:00:00+09:00</lastmod>
+    <lastmod>2021-05-05T00:20:00+09:00</lastmod>
   </url><url>
     <loc>https://www.plamolinux.org/tags/</loc>
+    <lastmod>2021-05-05T00:20:00+09:00</lastmod>
+  </url><url>
+    <loc>https://www.plamolinux.org/tags/%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E6%83%85%E5%A0%B1/</loc>
+    <lastmod>2021-05-05T00:20:00+09:00</lastmod>
+  </url><url>
+    <loc>https://www.plamolinux.org/posts/2021-04-22-firefox-88-dot-0/</loc>
     <lastmod>2021-04-24T19:00:00+09:00</lastmod>
   </url><url>
     <loc>https://www.plamolinux.org/tags/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E6%83%85%E5%A0%B1/</loc>
@@ -49,9 +49,6 @@
     <lastmod>2020-05-20T14:08:46+09:00</lastmod>
   </url><url>
     <loc>https://www.plamolinux.org/posts/2020-05-14-plamo-7-dot-2/</loc>
-    <lastmod>2020-05-13T23:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://www.plamolinux.org/tags/%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E6%83%85%E5%A0%B1/</loc>
     <lastmod>2020-05-13T23:00:00+09:00</lastmod>
   </url><url>
     <loc>https://www.plamolinux.org/posts/2020-02-20-sudo-1-dot-8-31/</loc>
@@ -185,12 +182,6 @@
   </url><url>
     <loc>https://www.plamolinux.org/posts/2015-12-25-ganshiki-soush/</loc>
     <lastmod>2015-12-25T16:05:15+09:00</lastmod>
-  </url><url>
-    <loc>https://www.plamolinux.org/posts/2015-12-23-lxc-giho-30/</loc>
-    <lastmod>2015-12-23T16:39:07+09:00</lastmod>
-  </url><url>
-    <loc>https://www.plamolinux.org/tags/%E4%BB%AE%E6%83%B3%E5%8C%96%E7%92%B0%E5%A2%83/</loc>
-    <lastmod>2015-12-23T16:39:07+09:00</lastmod>
   </url><url>
     <loc>https://www.plamolinux.org/posts/2015-12-22-libxml2-2-dot-9-3/</loc>
     <lastmod>2015-12-22T19:00:00+09:00</lastmod>

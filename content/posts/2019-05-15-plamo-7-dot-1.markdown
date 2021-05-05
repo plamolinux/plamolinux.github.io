@@ -10,6 +10,8 @@ Plamo 7.1 をリリースしました。
 
 * リリースアナウンス: [[plamo:32898] Plamo-7.1 released](http://www.linet.gr.jp/~kojima/PlamoWeb/ML/htdocs/201905/msg00044.html)
 
+<!--more-->
+
 従来同様、4.7Gのサイズに収まるようにDVD用は2枚組み、2枚目は pTeX 回りのみなので、pTeX の不要な方は 01 のイメージのみでインストールできます。
 
 ```
