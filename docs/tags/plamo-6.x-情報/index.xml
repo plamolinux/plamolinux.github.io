@@ -149,17 +149,6 @@
     </item>
     
     <item>
-      <title>samba 4.4.2</title>
-      <link>https://www.plamolinux.org/posts/2016-04-20-samba-4-dot-4-2/</link>
-      <pubDate>Wed, 20 Apr 2016 16:00:00 +0900</pubDate>
-      
-      <guid>https://www.plamolinux.org/posts/2016-04-20-samba-4-dot-4-2/</guid>
-      <description>samba にセキュリティホールが発見されています。詳しくは以下をご覧ください。
- Samba 4.4.2, 4.3.8 and 4.2.11 Security Releases Available for Download  対策パッケージをリリースしました。3.6 から 4.4 へのアップグレードを伴います。talloc, tdb も同時にアップデートしてください。
- tdb-1.3.9-i686-P1.txz (32bit) talloc-2.1.6-i686-P1.txz (32bit) samba-4.4.2-i686-P2.txz (32bit) tdb-1.3.9-x86_64-P1.txz (64bit) talloc-2.1.6-x86_64-P1.txz (64bit) samba-4.4.2-x86_64-P2.txz (64bit)  </description>
-    </item>
-    
-    <item>
       <title>Plamo 6.1 リリース</title>
       <link>https://www.plamolinux.org/posts/2016-02-27-plamo-6-dot-1/</link>
       <pubDate>Sat, 27 Feb 2016 00:29:00 +0900</pubDate>
@@ -169,95 +158,6 @@
 以下はメーリングリストに投稿されたリリースアナウンス（抜粋）です。
  OSC 2016 Tokyo/Spring これに合わせてPlamo-6.1をリリースしました．
 $ ls -l plamo-6.1* -rw-rw-r-- 1 kojima plamo 3468689408 2月 22 09:56 plamo-6.1_x86_64_dvd.iso -rw-rw-r-- 1 kojima plamo 59 2月 24 22:23 plamo-6.1_x86_64_dvd.iso.md5sum -rw-rw-r-- 1 kojima plamo 3454009344 2月 22 09:55 plamo-6.1_x86_dvd.iso -rw-rw-r-- 1 kojima plamo 56 2月 24 22:23 plamo-6.1_x86_dvd.iso.md5sum    リリースアナウンス  ISO イメージのダウンロードは こちら からどうぞ。</description>
-    </item>
-    
-    <item>
-      <title>glibc 2.20</title>
-      <link>https://www.plamolinux.org/posts/2016-02-18-glibc-2-dot-20/</link>
-      <pubDate>Thu, 18 Feb 2016 15:20:00 +0900</pubDate>
-      
-      <guid>https://www.plamolinux.org/posts/2016-02-18-glibc-2-dot-20/</guid>
-      <description>glibc にセキュリティホールが発見されています。詳しくは以下をご覧ください。
- glibc ライブラリの脆弱性 (CVE-2015-7547) に関する注意喚起 (JPCERT)  パッチを適用したパッケージをリリースしました。
- glibc-2.20-i686-P2.txz (32bit) libc-2.20-i686-P2.txz (32bit) glibc-2.20-x86_64-P2.txz (64bit) libc-2.20-x86_64-P2.txz (64bit)  </description>
-    </item>
-    
-    <item>
-      <title>pixman 0.32.8</title>
-      <link>https://www.plamolinux.org/posts/2016-02-10-pixman-0-dot-32-dot-8/</link>
-      <pubDate>Wed, 10 Feb 2016 19:00:07 +0900</pubDate>
-      
-      <guid>https://www.plamolinux.org/posts/2016-02-10-pixman-0-dot-32-dot-8/</guid>
-      <description>セキュリティホールの修正を含む pixman 0.32.8 がリリースされています。詳しくは以下をご覧ください。
- [ANNOUNCE] pixman release 0.32.8 now available  パッケージをリリースしました。
- pixman-0.32.8-i686-P1.txz (32bit) pixman-0.32.8-x86_64-P1.txz (64bit)  </description>
-    </item>
-    
-    <item>
-      <title>rsync 3.1.2</title>
-      <link>https://www.plamolinux.org/posts/2016-02-10-rsync-3-dot-1-2/</link>
-      <pubDate>Wed, 10 Feb 2016 18:59:34 +0900</pubDate>
-      
-      <guid>https://www.plamolinux.org/posts/2016-02-10-rsync-3-dot-1-2/</guid>
-      <description>rsync にセキュリティホールが発見されています．詳しくは以下をご覧ください．
- https://download.samba.org/pub/rsync/src/rsync-3.1.2-NEWS  パッケージをリリースしました．
- rsync-3.1.2-i686-P1.txz (32bit) rsync-3.1.2-x86_64-P1.txz (64bit)  </description>
-    </item>
-    
-    <item>
-      <title>dhcp 4.3.3-P1</title>
-      <link>https://www.plamolinux.org/posts/2016-01-14-dhcp-4-dot-3-3/</link>
-      <pubDate>Thu, 14 Jan 2016 19:11:47 +0900</pubDate>
-      
-      <guid>https://www.plamolinux.org/posts/2016-01-14-dhcp-4-dot-3-3/</guid>
-      <description>セキュリティホールの修正を含む ISC DHCP 4.3.3-P1 がリリースされています。詳しくは以下をご覧ください。
- CVE-2015-8605: UDP payload length not properly checked  パッケージをリリースしました．
- dhcp-4.3.3_P1-i686-P1.txz (32bit) dhcp-4.3.3_P1-x86_64-P1.txz (64bit)  </description>
-    </item>
-    
-    <item>
-      <title>libxml2 2.9.3</title>
-      <link>https://www.plamolinux.org/posts/2015-12-22-libxml2-2-dot-9-3/</link>
-      <pubDate>Tue, 22 Dec 2015 19:00:00 +0900</pubDate>
-      
-      <guid>https://www.plamolinux.org/posts/2015-12-22-libxml2-2-dot-9-3/</guid>
-      <description>セキュリティホールの修正を含む libxml2 2.9.3 がリリースされています。詳しくは以下をご覧ください。
- [xml] Release of libxml2-2.9.3  (上記メールはタイトルが間違ってますので上記では修正しています。上記に挙がっている脆弱性の一部は Plamo パッケージではパッチで対処済みでした)
-対策パッケージをリリースしました。
- libxml2-2.9.3-i686-P1.txz (32bit) libxml2-2.9.3-x86_64-P1.txz (64bit)  </description>
-    </item>
-    
-    <item>
-      <title>autofs 5.1.1</title>
-      <link>https://www.plamolinux.org/posts/2015-12-01-autofs-5-dot-1-1/</link>
-      <pubDate>Tue, 01 Dec 2015 16:13:50 +0900</pubDate>
-      
-      <guid>https://www.plamolinux.org/posts/2015-12-01-autofs-5-dot-1-1/</guid>
-      <description>autofs にセキュリティホールが発見されています。詳しくは以下をご覧ください。
- https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2014-8169  パッケージをリリースしました。
- autofs-5.1.1-i686-P1.txz (32bit) autofs-5.1.1-x86_64-P1.txz (64bit)  </description>
-    </item>
-    
-    <item>
-      <title>polkit 0.113</title>
-      <link>https://www.plamolinux.org/posts/2015-12-01-polkit-0-dot-113/</link>
-      <pubDate>Tue, 01 Dec 2015 16:05:47 +0900</pubDate>
-      
-      <guid>https://www.plamolinux.org/posts/2015-12-01-polkit-0-dot-113/</guid>
-      <description>polkit にセキュリティホールが発見されています。詳しくは以下をご覧ください。
- http://cgit.freedesktop.org/polkit/tree/NEWS?id=23519924f24fb80a5f33bb3a82058a6c025ddfa9  パッケージをリリースしました。
- polkit-0.113-i686-P1.txz (32bit) polkit-0.113-x86_64-P1.txz (64bit)  </description>
-    </item>
-    
-    <item>
-      <title>spice 0.12.6</title>
-      <link>https://www.plamolinux.org/posts/2015-10-28-spice-0-dot-12-dot-6/</link>
-      <pubDate>Wed, 28 Oct 2015 10:24:24 +0900</pubDate>
-      
-      <guid>https://www.plamolinux.org/posts/2015-10-28-spice-0-dot-12-dot-6/</guid>
-      <description>spice にセキュリティホールが発見されています。詳しくは以下をご覧ください。
- CVE-2015-5260 spice: insufficient validation of surface_id parameter can cause crash CVE-2015-5261 spice: host memory access from guest using crafted images  パッケージをリリースしました。同時に six, spice_protocol も更新する必要があります。
- spice-0.12.6-i686-P1.txz (32bit) spice_protocol-0.12.10-i686-P1.txz (32bit) six_python2-1.10.0-i686-P1.txz (32bit) six_python3-1.10.0-i686-P1.txz (32bit) spice-0.12.6-x86_64-P1.txz (64bit) spice_protocol-0.12.10-x86_64-P1.txz (64bit) six_python2-1.10.0-x86_64-P1.txz (64bit) six_python3-1.10.0-x86_64-P1.txz (64bit)  </description>
     </item>
     
     <item>
