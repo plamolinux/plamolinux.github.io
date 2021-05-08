@@ -5,7 +5,30 @@
     <link>https://www.plamolinux.org/</link>
     <description>Recent content on Plamo Linux</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 05 May 2021 00:20:00 +0900</lastBuildDate><atom:link href="https://www.plamolinux.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 May 2021 00:00:00 +0900</lastBuildDate><atom:link href="https://www.plamolinux.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>firefox 88.0.1</title>
+      <link>https://www.plamolinux.org/posts/2021-05-08-firefox-88-dot-0-1/</link>
+      <pubDate>Sun, 09 May 2021 00:00:00 +0900</pubDate>
+      
+      <guid>https://www.plamolinux.org/posts/2021-05-08-firefox-88-dot-0-1/</guid>
+      <description>firefox 88.0.1 パッケージをリリースしました。
+ Firefox 88.0.1 リリースノート Firefox セキュリティアドバイザリ  パッケージをリリースしました。88.0 より前からの更新の場合 nspr, nss の更新が必要です。
+ firefox-88.0.1-x86_64-B1.txz nss-3.63-x86_64-B1.txz nspr-4.30-x86_64-B1.txz  </description>
+    </item>
+    
+    <item>
+      <title>php 8.0.5</title>
+      <link>https://www.plamolinux.org/posts/2021-05-05-php-8-dot-0-5/</link>
+      <pubDate>Wed, 05 May 2021 15:00:00 +0900</pubDate>
+      
+      <guid>https://www.plamolinux.org/posts/2021-05-05-php-8-dot-0-5/</guid>
+      <description>PHP 8.0.5 がリリースされました。
+ PHP 8.0.5 Released  パッケージをリリースしました。libzip パッケージを同時に更新しないと phpinfo などでエラーが出ます。
+ php-8.0.5-x86_64-B1.txz  また、7.4.2 から次のようにビルドが変更されています。
+ CGI 版を復活させました apache module 版は以前は ZTS でビルドされていましたが、今は NTS になりました。  スレッドセーフでないので Apache の MPM は prefork に設定してください event MPM を使う場合は fpm を使ってください    </description>
+    </item>
+    
     <item>
       <title>Plamo 7.3 リリース</title>
       <link>https://www.plamolinux.org/posts/2021-05-05-plamo-7.3-release/</link>
@@ -19,17 +42,6 @@
     </item>
     
     <item>
-      <title>firefox 88.0</title>
-      <link>https://www.plamolinux.org/posts/2021-04-22-firefox-88-dot-0/</link>
-      <pubDate>Sat, 24 Apr 2021 19:00:00 +0900</pubDate>
-      
-      <guid>https://www.plamolinux.org/posts/2021-04-22-firefox-88-dot-0/</guid>
-      <description>firefox 88.0 パッケージをリリースしました。
- Firefox 88.0 リリースノート Firefox セキュリティアドバイザリ  パッケージをリリースしました。nspr, nss の更新が必要です。
- firefox-88.0-x86_64-B1.txz nss-3.63-x86_64-B1.txz nspr-4.30-x86_64-B1.txz  </description>
-    </item>
-    
-    <item>
       <title>OpenSSL 1.1.1k</title>
       <link>https://www.plamolinux.org/posts/2021-03-27-openssl-1-dot-1-1k/</link>
       <pubDate>Sat, 27 Mar 2021 15:00:00 +0900</pubDate>
@@ -38,18 +50,6 @@
       <description>OpenSSL 1.1.1k がリリースされています。セキュリティホールのの修正を含みます。
  https://www.openssl.org/news/secadv/20210325.txt  パッケージをリリースしました。
  openssl-1.1.1k-x86_64-B1.txz  </description>
-    </item>
-    
-    <item>
-      <title>php 8.0.2</title>
-      <link>https://www.plamolinux.org/posts/2021-02-18-php-8-dot-0-2/</link>
-      <pubDate>Thu, 18 Feb 2021 15:00:00 +0900</pubDate>
-      
-      <guid>https://www.plamolinux.org/posts/2021-02-18-php-8-dot-0-2/</guid>
-      <description>PHP 8.0.2 がリリースされました。
- PHP 8.0.2 Released  パッケージをリリースしました。libzip パッケージを同時に更新しないと phpinfo などでエラーが出ます。
- php-8.0.2-x86_64-B1.txz  また、7.4.2 から次のようにビルドが変更されています。
- CGI 版を復活させました apache module 版は以前は ZTS でビルドされていましたが、今は NTS になりました。  スレッドセーフでないので Apache の MPM は prefork に設定してください event MPM を使う場合は fpm を使ってください    </description>
     </item>
     
     <item>

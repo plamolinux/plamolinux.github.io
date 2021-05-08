@@ -5,13 +5,22 @@
     <link>https://www.plamolinux.org/tags/</link>
     <description>Recent content in Tags on Plamo Linux</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 05 May 2021 00:20:00 +0900</lastBuildDate><atom:link href="https://www.plamolinux.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 May 2021 00:00:00 +0900</lastBuildDate><atom:link href="https://www.plamolinux.org/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Plamo 7.x 情報</title>
       <link>https://www.plamolinux.org/tags/plamo-7.x-%E6%83%85%E5%A0%B1/</link>
-      <pubDate>Wed, 05 May 2021 00:20:00 +0900</pubDate>
+      <pubDate>Sun, 09 May 2021 00:00:00 +0900</pubDate>
       
       <guid>https://www.plamolinux.org/tags/plamo-7.x-%E6%83%85%E5%A0%B1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>セキュリティ情報</title>
+      <link>https://www.plamolinux.org/tags/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E6%83%85%E5%A0%B1/</link>
+      <pubDate>Sun, 09 May 2021 00:00:00 +0900</pubDate>
+      
+      <guid>https://www.plamolinux.org/tags/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E6%83%85%E5%A0%B1/</guid>
       <description></description>
     </item>
     
@@ -21,15 +30,6 @@
       <pubDate>Wed, 05 May 2021 00:20:00 +0900</pubDate>
       
       <guid>https://www.plamolinux.org/tags/%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E6%83%85%E5%A0%B1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>セキュリティ情報</title>
-      <link>https://www.plamolinux.org/tags/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E6%83%85%E5%A0%B1/</link>
-      <pubDate>Sat, 24 Apr 2021 19:00:00 +0900</pubDate>
-      
-      <guid>https://www.plamolinux.org/tags/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E6%83%85%E5%A0%B1/</guid>
       <description></description>
     </item>
     

@@ -222,8 +222,8 @@
         <div class="posts-list">
           
             <article class="post-preview">
-    <a href="https://www.plamolinux.org/posts/2021-04-22-firefox-88-dot-0/">
-        <h2 class="post-title">firefox 88.0</h2>
+    <a href="https://www.plamolinux.org/posts/2021-05-08-firefox-88-dot-0-1/">
+        <h2 class="post-title">firefox 88.0.1</h2>
         
         
         
@@ -233,7 +233,7 @@
         <span class="post-meta">
   
   
-  <i class="fas fa-calendar"></i>&nbsp;2021-04-24に投稿
+  <i class="fas fa-calendar"></i>&nbsp;2021-05-09に投稿
   
   
   
@@ -249,19 +249,81 @@
     </p>
     <div class="post-entry">
         
-        <p>firefox 88.0 パッケージをリリースしました。</p>
+        <p>firefox 88.0.1 パッケージをリリースしました。</p>
 <ul>
-<li><a href="https://www.mozilla.org/firefox/88.0/releasenotes/">Firefox 88.0 リリースノート</a></li>
-<li><a href="https://www.mozilla.org/en-US/security/known-vulnerabilities/firefox/#firefox88.0">Firefox セキュリティアドバイザリ</a></li>
+<li><a href="https://www.mozilla.org/firefox/88.0.1/releasenotes/">Firefox 88.0.1 リリースノート</a></li>
+<li><a href="https://www.mozilla.org/en-US/security/known-vulnerabilities/firefox/#firefox88.0.1">Firefox セキュリティアドバイザリ</a></li>
 </ul>
-<p>パッケージをリリースしました。nspr, nss の更新が必要です。</p>
+<p>パッケージをリリースしました。88.0 より前からの更新の場合 nspr, nss の更新が必要です。</p>
 <ul>
-<li><a href="https://repository.plamolinux.org/pub/linux/Plamo/Plamo-7.x/x86_64/plamo/07_multimedia/firefox-88.0-x86_64-B1.txz">firefox-88.0-x86_64-B1.txz</a></li>
+<li><a href="https://repository.plamolinux.org/pub/linux/Plamo/Plamo-7.x/x86_64/plamo/07_multimedia/firefox-88.0.1-x86_64-B1.txz">firefox-88.0.1-x86_64-B1.txz</a></li>
 <li><a href="https://repository.plamolinux.org/pub/linux/Plamo/Plamo-7.x/x86_64/plamo/03_libs/nss-3.63-x86_64-B1.txz">nss-3.63-x86_64-B1.txz</a></li>
 <li><a href="https://repository.plamolinux.org/pub/linux/Plamo/Plamo-7.x/x86_64/plamo/03_libs/nspr-4.30-x86_64-B1.txz">nspr-4.30-x86_64-B1.txz</a></li>
 </ul>
 <!-- raw HTML omitted -->
 <!-- raw HTML omitted -->
+
+        
+    </div>
+
+    
+    <div class="blog-tags">
+        
+        <a href="https://www.plamolinux.org/tags/plamo-7.x-%E6%83%85%E5%A0%B1/">Plamo 7.x 情報</a>&nbsp;
+        
+        <a href="https://www.plamolinux.org/tags/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E6%83%85%E5%A0%B1/">セキュリティ情報</a>&nbsp;
+        
+    </div>
+    
+
+</article>
+          
+            <article class="post-preview">
+    <a href="https://www.plamolinux.org/posts/2021-05-05-php-8-dot-0-5/">
+        <h2 class="post-title">php 8.0.5</h2>
+        
+        
+        
+    </a>
+
+    <p class="post-meta">
+        <span class="post-meta">
+  
+  
+  <i class="fas fa-calendar"></i>&nbsp;2021-05-05に投稿
+  
+  
+  
+  
+    
+      &nbsp;|&nbsp;<i class="fas fa-user"></i>&nbsp;Plamo Linux Maintainer Group
+    
+  
+  
+</span>
+
+
+    </p>
+    <div class="post-entry">
+        
+        <p>PHP 8.0.5 がリリースされました。</p>
+<ul>
+<li><a href="http://php.net/ChangeLog-8.php#8.0.5">PHP 8.0.5 Released</a></li>
+</ul>
+<p>パッケージをリリースしました。libzip パッケージを同時に更新しないと phpinfo などでエラーが出ます。</p>
+<ul>
+<li><a href="ftp://plamo.linet.gr.jp/pub/Plamo-7.x/x86_64/plamo/08_daemons/php-8.0.5-x86_64-B1.txz">php-8.0.5-x86_64-B1.txz</a></li>
+</ul>
+<p>また、7.4.2 から次のようにビルドが変更されています。</p>
+<ul>
+<li>CGI 版を復活させました</li>
+<li>apache module 版は以前は ZTS でビルドされていましたが、今は NTS になりました。
+<ul>
+<li>スレッドセーフでないので Apache の MPM は prefork に設定してください</li>
+<li>event MPM を使う場合は fpm を使ってください</li>
+</ul>
+</li>
+</ul>
 
         
     </div>
@@ -313,68 +375,6 @@
 <p>パッケージをリリースしました。</p>
 <ul>
 <li><a href="http://repository.plamolinux.org/pub/linux/Plamo/Plamo-7.x/x86_64/plamo/00_base/openssl-1.1.1k-x86_64-B1.txz">openssl-1.1.1k-x86_64-B1.txz</a></li>
-</ul>
-
-        
-    </div>
-
-    
-    <div class="blog-tags">
-        
-        <a href="https://www.plamolinux.org/tags/plamo-7.x-%E6%83%85%E5%A0%B1/">Plamo 7.x 情報</a>&nbsp;
-        
-        <a href="https://www.plamolinux.org/tags/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E6%83%85%E5%A0%B1/">セキュリティ情報</a>&nbsp;
-        
-    </div>
-    
-
-</article>
-          
-            <article class="post-preview">
-    <a href="https://www.plamolinux.org/posts/2021-02-18-php-8-dot-0-2/">
-        <h2 class="post-title">php 8.0.2</h2>
-        
-        
-        
-    </a>
-
-    <p class="post-meta">
-        <span class="post-meta">
-  
-  
-  <i class="fas fa-calendar"></i>&nbsp;2021-02-18に投稿
-  
-  
-  
-  
-    
-      &nbsp;|&nbsp;<i class="fas fa-user"></i>&nbsp;Plamo Linux Maintainer Group
-    
-  
-  
-</span>
-
-
-    </p>
-    <div class="post-entry">
-        
-        <p>PHP 8.0.2 がリリースされました。</p>
-<ul>
-<li><a href="http://php.net/ChangeLog-8.php#8.0.2">PHP 8.0.2 Released</a></li>
-</ul>
-<p>パッケージをリリースしました。libzip パッケージを同時に更新しないと phpinfo などでエラーが出ます。</p>
-<ul>
-<li><a href="ftp://plamo.linet.gr.jp/pub/Plamo-7.x/x86_64/plamo/08_daemons/php-8.0.2-x86_64-B1.txz">php-8.0.2-x86_64-B1.txz</a></li>
-</ul>
-<p>また、7.4.2 から次のようにビルドが変更されています。</p>
-<ul>
-<li>CGI 版を復活させました</li>
-<li>apache module 版は以前は ZTS でビルドされていましたが、今は NTS になりました。
-<ul>
-<li>スレッドセーフでないので Apache の MPM は prefork に設定してください</li>
-<li>event MPM を使う場合は fpm を使ってください</li>
-</ul>
-</li>
 </ul>
 
         
