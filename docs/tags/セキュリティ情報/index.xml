@@ -23,10 +23,14 @@
       <pubDate>Wed, 05 May 2021 15:00:00 +0900</pubDate>
       
       <guid>https://www.plamolinux.org/posts/2021-05-05-php-8-dot-0-5/</guid>
-      <description>PHP 8.0.5 がリリースされました。
- PHP 8.0.5 Released  パッケージをリリースしました。libzip パッケージを同時に更新しないと phpinfo などでエラーが出ます。
- php-8.0.5-x86_64-B1.txz  また、7.4.2 から次のようにビルドが変更されています。
- CGI 版を復活させました apache module 版は以前は ZTS でビルドされていましたが、今は NTS になりました。  スレッドセーフでないので Apache の MPM は prefork に設定してください event MPM を使う場合は fpm を使ってください    </description>
+      <description>&lt;p&gt;PHP 8.0.5 がリリースされました。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://php.net/ChangeLog-8.php#8.0.5&#34;&gt;PHP 8.0.5 Released&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;パッケージをリリースしました。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://repository.plamolinux.org/pub/Plamo-7.x/x86_64/plamo/08_daemons/php-8.0.5-x86_64-B1.txz&#34;&gt;php-8.0.5-x86_64-B1.txz&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     
     <item>
