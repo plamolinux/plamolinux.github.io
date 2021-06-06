@@ -5,16 +5,16 @@
     <link>https://www.plamolinux.org/posts/</link>
     <description>Recent content in Posts on Plamo Linux</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 09 May 2021 00:00:00 +0900</lastBuildDate><atom:link href="https://www.plamolinux.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Jun 2021 00:00:00 +0900</lastBuildDate><atom:link href="https://www.plamolinux.org/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>firefox 88.0.1</title>
-      <link>https://www.plamolinux.org/posts/2021-05-08-firefox-88-dot-0-1/</link>
-      <pubDate>Sun, 09 May 2021 00:00:00 +0900</pubDate>
+      <title>firefox 89.0</title>
+      <link>https://www.plamolinux.org/posts/2021-06-04-firefox-89-dot-0-1/</link>
+      <pubDate>Sat, 05 Jun 2021 00:00:00 +0900</pubDate>
       
-      <guid>https://www.plamolinux.org/posts/2021-05-08-firefox-88-dot-0-1/</guid>
-      <description>firefox 88.0.1 パッケージをリリースしました。
- Firefox 88.0.1 リリースノート Firefox セキュリティアドバイザリ  パッケージをリリースしました。88.0 より前からの更新の場合 nspr, nss の更新が必要です。
- firefox-88.0.1-x86_64-B1.txz nss-3.63-x86_64-B1.txz nspr-4.30-x86_64-B1.txz  </description>
+      <guid>https://www.plamolinux.org/posts/2021-06-04-firefox-89-dot-0-1/</guid>
+      <description>firefox 89.0 パッケージをリリースしました。
+ Firefox 89.0 リリースノート Firefox セキュリティアドバイザリ  パッケージをリリースしました。89.0 より前からの更新の場合 nspr, nss の更新が必要です。
+ firefox-89.0-x86_64-B1.txz nss-3.66-x86_64-B1.txz nspr-4.31-x86_64-B1.txz  </description>
     </item>
     
     <item>
