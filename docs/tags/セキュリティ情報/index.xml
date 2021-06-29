@@ -5,7 +5,29 @@
     <link>https://www.plamolinux.org/tags/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E6%83%85%E5%A0%B1/</link>
     <description>Recent content in セキュリティ情報 on Plamo Linux</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 05 Jun 2021 00:00:00 +0900</lastBuildDate><atom:link href="https://www.plamolinux.org/tags/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E6%83%85%E5%A0%B1/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 24 Jun 2021 19:00:00 +0900</lastBuildDate><atom:link href="https://www.plamolinux.org/tags/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E6%83%85%E5%A0%B1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>httpd 2.4.48</title>
+      <link>https://www.plamolinux.org/posts/2021-06-24-httpd-2-dot-4-48/</link>
+      <pubDate>Thu, 24 Jun 2021 19:00:00 +0900</pubDate>
+      
+      <guid>https://www.plamolinux.org/posts/2021-06-24-httpd-2-dot-4-48/</guid>
+      <description>セキュリティホールの修正を含む Apache httpd 2.4.48 がリリースされています．詳しくは以下をご覧ください．
+ Apache HTTP Server 2.4.48 Released Changes with Apache 2.4.48  パッケージをリリースしました．
+ httpd-2.4.48-x86_64-B1.txz  </description>
+    </item>
+    
+    <item>
+      <title>polkit 0.119</title>
+      <link>https://www.plamolinux.org/posts/2021-06-23-polkit-0-dot-119/</link>
+      <pubDate>Wed, 23 Jun 2021 18:00:00 +0900</pubDate>
+      
+      <guid>https://www.plamolinux.org/posts/2021-06-23-polkit-0-dot-119/</guid>
+      <description>polkitに脆弱性が発見されています。詳しくは次をご覧ください。
+ polkitの脆弱性(Important: CVE-2021-3560) (SIOS Security Blog)  対応パッケージをリリースしました。
+ polkit-0.119-x86_64-B1.txz  </description>
+    </item>
+    
     <item>
       <title>firefox 89.0</title>
       <link>https://www.plamolinux.org/posts/2021-06-04-firefox-89-dot-0-1/</link>
@@ -359,17 +381,6 @@
       <description>セキュリティホールの修正を含む libxslt 1.1.29 がリリースされています。詳しくは以下をご覧ください。
  News (xmlsoft.org) JVNDB-2015-005957 libxslt の preproc.c の xsltStylePreCompute 関数におけるサービス運用妨害 (DoS) の脆弱性  パッケージをリリースしました。
  libxslt-1.1.29-i686-P1.txz (32bit) libxslt-1.1.29-x86_64-P1.txz (64bit)  </description>
-    </item>
-    
-    <item>
-      <title>httpd 2.4.46</title>
-      <link>https://www.plamolinux.org/posts/2020-08-11-httpd-2-dot-4-46/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.plamolinux.org/posts/2020-08-11-httpd-2-dot-4-46/</guid>
-      <description>セキュリティホールの修正を含む Apache httpd 2.4.46 がリリースされています．詳しくは以下をご覧ください．
- Apache HTTP Server 2.4.46 Released Changes with Apache 2.4.46  パッケージをリリースしました．
- httpd-2.4.46-x86_64-B1.txz  </description>
     </item>
     
   </channel>
