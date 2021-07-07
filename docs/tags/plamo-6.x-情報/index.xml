@@ -29,18 +29,6 @@
     </item>
     
     <item>
-      <title>curl 7.60.0</title>
-      <link>https://www.plamolinux.org/posts/2018-06-14-curl-7-dot-60-dot-0/</link>
-      <pubDate>Thu, 14 Jun 2018 19:55:00 +0900</pubDate>
-      
-      <guid>https://www.plamolinux.org/posts/2018-06-14-curl-7-dot-60-dot-0/</guid>
-      <description>（2018-06-14 20:00 Plamo 6.2 用のパッケージ情報を追加しました）
-セキュリティホールの修正を含む curl 7.60.0 がリリースされています．詳しくは以下をご覧ください．
- Changelog curl Security  対策パッケージをリリースしました．
- Plamo 7.0  curl-7.60.0-x86_64-B1.txz   Plamo 6.2  curl-7.60.0-i686-P1.txz (32bit) curl-7.60.0-x86_64-P1.txz (32bit)    </description>
-    </item>
-    
-    <item>
       <title>ntp 4.2.8p10</title>
       <link>https://www.plamolinux.org/posts/2017-04-13-ntp-4-dot-2-8p10/</link>
       <pubDate>Tue, 04 Apr 2017 18:00:00 +0900</pubDate>

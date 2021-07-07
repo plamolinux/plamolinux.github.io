@@ -5,7 +5,34 @@
     <link>https://www.plamolinux.org/tags/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E6%83%85%E5%A0%B1/</link>
     <description>Recent content in セキュリティ情報 on Plamo Linux</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 24 Jun 2021 19:00:00 +0900</lastBuildDate><atom:link href="https://www.plamolinux.org/tags/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E6%83%85%E5%A0%B1/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Jul 2021 17:20:00 +0900</lastBuildDate><atom:link href="https://www.plamolinux.org/tags/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E6%83%85%E5%A0%B1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>php 8.0.8</title>
+      <link>https://www.plamolinux.org/posts/2021-07-07-php-8-dot-0-8/</link>
+      <pubDate>Wed, 07 Jul 2021 17:20:00 +0900</pubDate>
+      
+      <guid>https://www.plamolinux.org/posts/2021-07-07-php-8-dot-0-8/</guid>
+      <description>&lt;p&gt;PHP 8.0.8 がリリースされました。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://php.net/ChangeLog-8.php#8.0.8&#34;&gt;PHP 8.0.8 Released&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;パッケージをリリースしました。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://repository.plamolinux.org/pub/Plamo-7.x/x86_64/plamo/08_daemons/php-8.0.8-x86_64-B1.txz&#34;&gt;php-8.0.8-x86_64-B1.txz&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>curl 7.77.0</title>
+      <link>https://www.plamolinux.org/posts/2021-07-07-curl-7-dot-77-dot-0/</link>
+      <pubDate>Fri, 02 Jul 2021 19:00:00 +0900</pubDate>
+      
+      <guid>https://www.plamolinux.org/posts/2021-07-07-curl-7-dot-77-dot-0/</guid>
+      <description>curl 7.77.0 がリリースされています．詳しくは以下をご覧ください．
+ Changelog curl Security  パッケージをリリースしました．
+ curl-7.77.0-x86_64-B1.txz  </description>
+    </item>
+    
     <item>
       <title>httpd 2.4.48</title>
       <link>https://www.plamolinux.org/posts/2021-06-24-httpd-2-dot-4-48/</link>
@@ -37,22 +64,6 @@
       <description>firefox 89.0 パッケージをリリースしました。
  Firefox 89.0 リリースノート Firefox セキュリティアドバイザリ  パッケージをリリースしました。89.0 より前からの更新の場合 nspr, nss の更新が必要です。
  firefox-89.0-x86_64-B1.txz nss-3.66-x86_64-B1.txz nspr-4.31-x86_64-B1.txz  </description>
-    </item>
-    
-    <item>
-      <title>php 8.0.5</title>
-      <link>https://www.plamolinux.org/posts/2021-05-05-php-8-dot-0-5/</link>
-      <pubDate>Wed, 05 May 2021 15:00:00 +0900</pubDate>
-      
-      <guid>https://www.plamolinux.org/posts/2021-05-05-php-8-dot-0-5/</guid>
-      <description>&lt;p&gt;PHP 8.0.5 がリリースされました。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://php.net/ChangeLog-8.php#8.0.5&#34;&gt;PHP 8.0.5 Released&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;パッケージをリリースしました。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://repository.plamolinux.org/pub/Plamo-7.x/x86_64/plamo/08_daemons/php-8.0.5-x86_64-B1.txz&#34;&gt;php-8.0.5-x86_64-B1.txz&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
     </item>
     
     <item>
@@ -250,18 +261,6 @@
       <description>GnuPG にセキュリティホールが発見されています。詳しくは以下をご覧ください。
  [Announce] [security fix] GnuPG 2.2.8 released (CVE-2018-12020)  パッケージをリリースしました。libgpg_error パッケージも同時に更新してください。
  libgpg_error-1.31-x86_64-B1.txz gnupg-2.2.8-x86_64-B1.txz  </description>
-    </item>
-    
-    <item>
-      <title>curl 7.60.0</title>
-      <link>https://www.plamolinux.org/posts/2018-06-14-curl-7-dot-60-dot-0/</link>
-      <pubDate>Thu, 14 Jun 2018 19:55:00 +0900</pubDate>
-      
-      <guid>https://www.plamolinux.org/posts/2018-06-14-curl-7-dot-60-dot-0/</guid>
-      <description>（2018-06-14 20:00 Plamo 6.2 用のパッケージ情報を追加しました）
-セキュリティホールの修正を含む curl 7.60.0 がリリースされています．詳しくは以下をご覧ください．
- Changelog curl Security  対策パッケージをリリースしました．
- Plamo 7.0  curl-7.60.0-x86_64-B1.txz   Plamo 6.2  curl-7.60.0-i686-P1.txz (32bit) curl-7.60.0-x86_64-P1.txz (32bit)    </description>
     </item>
     
     <item>
