@@ -1,0 +1,14 @@
+---
+title: "Node 14.17.4"
+date: 2021-08-04T19:00:00+09:00
+draft: false
+comment: false
+tags: ["Plamo 7.x 情報", "セキュリティ情報"]
+---
+セキュリティホールの修正を含む node.js 14.17.4 がリリースされています。
+
+* [2021-07-29, Version 14.17.4 'Fermium' (LTS), @richardlau](https://github.com/nodejs/node/blob/master/doc/changelogs/CHANGELOG_V14.md#2021-07-29-version-14174-fermium-lts-richardlau)
+
+パッケージをリリースしました。
+
+* [node-14.17.4-x86_64-B1.txz](https://repository.plamolinux.org/pub/linux/Plamo/Plamo-7.x/x86_64/plamo/03_libs/node-14.17.4-x86_64-B1.txz)

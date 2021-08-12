@@ -49,7 +49,7 @@ Plamo Linux は Slackware と LFS をベースに、シンプルで見通しの�
   <meta name="twitter:image" content="https://www.plamolinux.org/images/garland_logo.jpg" />
   <meta name="twitter:card" content="summary" />
   <link href='https://www.plamolinux.org/images/garland_logo.jpg' rel='icon' type='image/x-icon'/>
-  <meta name="generator" content="Hugo 0.84.2" />
+  <meta name="generator" content="Hugo 0.87.0" />
   <link rel="alternate" href="https://www.plamolinux.org/index.xml" type="application/rss+xml" title="Plamo Linux"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css" integrity="sha384-9eLZqc9ds8eNjO3TmqPeYcDj8n+Qfa4nuSiGYa6DjLNcv9BtN69ZIulL9+8CqC9Y" crossorigin="anonymous">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"><link rel="stylesheet" href="https://www.plamolinux.org/css/main.css" /><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
@@ -240,6 +240,61 @@ Plamo Linux は Slackware と LFS をベースに、シンプルで見通しの�
 
         <div class="posts-list">
           
+          
+            <article class="post-preview">
+    <a href="https://www.plamolinux.org/posts/2019-02-22-bind-9-dot-12-3-p4/">
+        <h2 class="post-title">bind 9.12.3-P4</h2>
+        
+        
+        
+    </a>
+
+    <p class="post-meta">
+        <span class="post-meta">
+  
+  
+  <i class="fas fa-calendar"></i>&nbsp;2019-02-22に投稿
+  
+  
+  
+  
+    
+      &nbsp;|&nbsp;<i class="fas fa-user"></i>&nbsp;Plamo Linux Maintainer Group
+    
+  
+  
+</span>
+
+
+    </p>
+    <div class="post-entry">
+        
+        <p>bind にセキュリティホールが発見されています．詳しくは以下をご覧ください．</p>
+<ul>
+<li><a href="https://jprs.jp/tech/security/2019-02-22-bind9-vuln-managed-keys.html">BIND 9.xの脆弱性（DNSサービスの停止）について（CVE-2018-5745）</a></li>
+<li><a href="https://jprs.jp/tech/security/2019-02-22-bind9-vuln-dlz.html">BIND 9.xの脆弱性（アクセス制限の不具合によるゾーンデータの流出）について（CVE-2019-6465）</a></li>
+</ul>
+<p>パッケージをリリースしました。なお、Plamo 6.x でリリースしていた 9.9.x は EOL ですので、現在の stable である 9.12.3-P4 でパッケージを作成しています。</p>
+<ul>
+<li><a href="ftp://plamo.linet.gr.jp/pub/Plamo-6.x/x86/plamo/01_minimum/network.txz/bind-9.12.3_P4-i686-P1.txz">bind-9.12.3_P4-i686-P1.txz (32bit)</a></li>
+<li><a href="ftp://plamo.linet.gr.jp/pub/Plamo-6.x/x86_64/plamo/01_minimum/network.txz/bind-9.12.3_P4-x86_64-P1.txz">bind-9.12.3_P4-x86_64-P1.txz (64bit)</a></li>
+</ul>
+<p>Plamo 7.0 には bind パッケージはありませんので影響ありません（一部ユーティリティコマンドのみを含む <code>bind_tools</code> パッケージのみ存在）</p>
+
+        
+    </div>
+
+    
+    <div class="blog-tags">
+        
+        <a href="https://www.plamolinux.org/tags/plamo-6.x-%E6%83%85%E5%A0%B1/">Plamo 6.x 情報</a>&nbsp;
+        
+        <a href="https://www.plamolinux.org/tags/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E6%83%85%E5%A0%B1/">セキュリティ情報</a>&nbsp;
+        
+    </div>
+    
+
+</article>
           
             <article class="post-preview">
     <a href="https://www.plamolinux.org/posts/2019-02-21-openssh-7-dot-9p1/">
@@ -690,7 +745,7 @@ Plamo Linux は Slackware と LFS をベースに、シンプルで見通しの�
         
         <p>Plamo 7.0 をリリースしました。</p>
 <p>Plamo 7.0 は DVD イメージ 2 枚組です。2 枚目は texlive と contrib のみ収録ですので、使用しない方は不要です。</p>
-<div class="highlight"><pre class="chroma"><code class="language-fallback" data-lang="fallback">-rw-rw-r--   1 kojima   plamo    2277244928 Jun 12 23:29 plamo-7.0_x86_64_01.iso
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">-rw-rw-r--   1 kojima   plamo    2277244928 Jun 12 23:29 plamo-7.0_x86_64_01.iso
 -rw-rw-r--   1 kojima   plamo          58 Jun 12 23:35 plamo-7.0_x86_64_01.iso.md5sum
 -rw-rw-r--   1 kojima   plamo    2532751360 Jun 12 23:29 plamo-7.0_x86_64_02.iso
 -rw-rw-r--   1 kojima   plamo          58 Jun 12 23:35 plamo-7.0_x86_64_02.iso.md5sum
@@ -714,52 +769,6 @@ Plamo Linux は Slackware と LFS をベースに、シンプルで見通しの�
         <a href="https://www.plamolinux.org/tags/%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E6%83%85%E5%A0%B1/">リリース情報</a>&nbsp;
         
         <a href="https://www.plamolinux.org/tags/plamo-7.x-%E6%83%85%E5%A0%B1/">Plamo 7.x 情報</a>&nbsp;
-        
-    </div>
-    
-
-</article>
-          
-            <article class="post-preview">
-    <a href="https://www.plamolinux.org/posts/2018-05-21-ganshiki-soushi-97/">
-        <h2 class="post-title">玩式草子─ソフトウェアとたわむれる日々　第97回　そろそろ出しますPlamo-7.0</h2>
-        
-        
-        
-    </a>
-
-    <p class="post-meta">
-        <span class="post-meta">
-  
-  
-  <i class="fas fa-calendar"></i>&nbsp;2018-05-21に投稿
-  
-  
-  
-  
-    
-      &nbsp;|&nbsp;<i class="fas fa-user"></i>&nbsp;Plamo Linux Maintainer Group
-    
-  
-  
-</span>
-
-
-    </p>
-    <div class="post-entry">
-        
-        <p><a href="http://gihyo.jp/">gihyo.jp</a>でこじまみつひろさんが連載されている<a href="http://gihyo.jp/lifestyle/serial/01/ganshiki-soushi">「玩式草子」</a>にリリースが近いPlamo-7.0の話題が掲載されています。</p>
-<ul>
-<li><a href="http://gihyo.jp/lifestyle/serial/01/ganshiki-soushi/0097">第97回　そろそろ出しますPlamo-7.0</a></li>
-</ul>
-
-        
-    </div>
-
-    
-    <div class="blog-tags">
-        
-        <a href="https://www.plamolinux.org/tags/%E7%8E%A9%E5%BC%8F%E8%8D%89%E5%AD%90/">玩式草子</a>&nbsp;
         
     </div>
     
@@ -839,7 +848,7 @@ Plamo Linux は Slackware と LFS をベースに、シンプルで見通しの�
         </p>
         
         <p class="credits theme-by text-muted">
-          起動力に<a href="https://gohugo.io">Hugo v0.84.2</a> &nbsp;&bull;&nbsp; テーマに<a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a>に基づいている<a href="https://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a>
+          起動力に<a href="https://gohugo.io">Hugo v0.87.0</a> &nbsp;&bull;&nbsp; テーマに<a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a>に基づいている<a href="https://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a>
           
         </p>
       </div>

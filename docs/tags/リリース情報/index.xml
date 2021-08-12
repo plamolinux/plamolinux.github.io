@@ -21,7 +21,7 @@
     <item>
       <title>Plamo 7.2 リリース</title>
       <link>https://www.plamolinux.org/posts/2020-05-14-plamo-7-dot-2/</link>
-      <pubDate>Wed, 13 May 2020 23:00:00 +0900</pubDate>
+      <pubDate>Wed, 13 May 2020 23:00:00 +0000</pubDate>
       
       <guid>https://www.plamolinux.org/posts/2020-05-14-plamo-7-dot-2/</guid>
       <description>&lt;p&gt;Plamo 7.2 をリリースしました。&lt;/p&gt;
@@ -33,7 +33,7 @@
     <item>
       <title>Plamo 7.1 リリース</title>
       <link>https://www.plamolinux.org/posts/2019-05-15-plamo-7-dot-1/</link>
-      <pubDate>Wed, 15 May 2019 08:13:00 +0900</pubDate>
+      <pubDate>Wed, 15 May 2019 08:13:00 +0000</pubDate>
       
       <guid>https://www.plamolinux.org/posts/2019-05-15-plamo-7-dot-1/</guid>
       <description>&lt;p&gt;Plamo 7.1 をリリースしました。&lt;/p&gt;
@@ -45,7 +45,7 @@
     <item>
       <title>Plamo 7.0 リリース</title>
       <link>https://www.plamolinux.org/posts/2018-06-13-plamo-7-dot-0/</link>
-      <pubDate>Wed, 13 Jun 2018 14:30:36 +0900</pubDate>
+      <pubDate>Wed, 13 Jun 2018 14:30:36 +0000</pubDate>
       
       <guid>https://www.plamolinux.org/posts/2018-06-13-plamo-7-dot-0/</guid>
       <description>Plamo 7.0 をリリースしました。
@@ -59,7 +59,7 @@ Plamo 7.0 に関しての詳細はこじまさんが gihyo.jp で連載中の「
     <item>
       <title>Plamo 6.2 リリース</title>
       <link>https://www.plamolinux.org/posts/2017-03-24-plamo-6-dot-2/</link>
-      <pubDate>Fri, 24 Mar 2017 19:03:01 +0900</pubDate>
+      <pubDate>Fri, 24 Mar 2017 19:03:01 +0000</pubDate>
       
       <guid>https://www.plamolinux.org/posts/2017-03-24-plamo-6-dot-2/</guid>
       <description>Plamo 6.2 をリリースしました。
@@ -70,7 +70,7 @@ Plamo 7.0 に関しての詳細はこじまさんが gihyo.jp で連載中の「
     <item>
       <title>Plamo 6.1 リリース</title>
       <link>https://www.plamolinux.org/posts/2016-02-27-plamo-6-dot-1/</link>
-      <pubDate>Sat, 27 Feb 2016 00:29:00 +0900</pubDate>
+      <pubDate>Sat, 27 Feb 2016 00:29:00 +0000</pubDate>
       
       <guid>https://www.plamolinux.org/posts/2016-02-27-plamo-6-dot-1/</guid>
       <description>Plamo 6.1 をリリースしました。
@@ -82,7 +82,7 @@ $ ls -l plamo-6.1* -rw-rw-r-- 1 kojima plamo 3468689408 2月 22 09:56 plamo-6.1_
     <item>
       <title>Plamo 6.0 リリース</title>
       <link>https://www.plamolinux.org/posts/2015-10-22-plamo-6-dot-0/</link>
-      <pubDate>Thu, 22 Oct 2015 17:01:42 +0900</pubDate>
+      <pubDate>Thu, 22 Oct 2015 17:01:42 +0000</pubDate>
       
       <guid>https://www.plamolinux.org/posts/2015-10-22-plamo-6-dot-0/</guid>
       <description>Plamo 6.0 をリリースしました。
@@ -98,7 +98,7 @@ $ ls -l plamo-6.1* -rw-rw-r-- 1 kojima plamo 3468689408 2月 22 09:56 plamo-6.1_
     <item>
       <title>P-Plamo 5.3.1 リリース</title>
       <link>https://www.plamolinux.org/posts/2015-06-01-p-plamo-5-dot-3-1/</link>
-      <pubDate>Mon, 01 Jun 2015 16:16:41 +0900</pubDate>
+      <pubDate>Mon, 01 Jun 2015 16:16:41 +0000</pubDate>
       
       <guid>https://www.plamolinux.org/posts/2015-06-01-p-plamo-5-dot-3-1/</guid>
       <description>P-Plamo 5.3.1 をリリースしました。以下から入手可能です。
@@ -108,7 +108,7 @@ $ ls -l plamo-6.1* -rw-rw-r-- 1 kojima plamo 3468689408 2月 22 09:56 plamo-6.1_
     <item>
       <title>Plamo 5.3.1 リリース</title>
       <link>https://www.plamolinux.org/posts/2015-02-02-plamo-5-dot-3-1-release/</link>
-      <pubDate>Mon, 02 Feb 2015 15:42:31 +0900</pubDate>
+      <pubDate>Mon, 02 Feb 2015 15:42:31 +0000</pubDate>
       
       <guid>https://www.plamolinux.org/posts/2015-02-02-plamo-5-dot-3-1-release/</guid>
       <description>Plamo Linux 5.3.1 をリリースしました。
@@ -120,7 +120,7 @@ $ ls -l plamo-6.1* -rw-rw-r-- 1 kojima plamo 3468689408 2月 22 09:56 plamo-6.1_
     <item>
       <title>Plamo 5.3 リリース</title>
       <link>https://www.plamolinux.org/posts/2014-12-31-plamo-5-dot-3-released/</link>
-      <pubDate>Wed, 31 Dec 2014 21:36:33 +0900</pubDate>
+      <pubDate>Wed, 31 Dec 2014 21:36:33 +0000</pubDate>
       
       <guid>https://www.plamolinux.org/posts/2014-12-31-plamo-5-dot-3-released/</guid>
       <description>Plamo Linux 5.3 をリリースしました。
@@ -132,7 +132,7 @@ $ ls -l plamo-6.1* -rw-rw-r-- 1 kojima plamo 3468689408 2月 22 09:56 plamo-6.1_
     <item>
       <title>P-Plamo 5.2 リリース</title>
       <link>https://www.plamolinux.org/posts/2014-01-18-p-plamo-5-dot-2/</link>
-      <pubDate>Sat, 18 Jan 2014 01:23:39 +0900</pubDate>
+      <pubDate>Sat, 18 Jan 2014 01:23:39 +0000</pubDate>
       
       <guid>https://www.plamolinux.org/posts/2014-01-18-p-plamo-5-dot-2/</guid>
       <description>P-Plamo 5.2 をリリースしました．以下から入手可能です．
@@ -142,7 +142,7 @@ $ ls -l plamo-6.1* -rw-rw-r-- 1 kojima plamo 3468689408 2月 22 09:56 plamo-6.1_
     <item>
       <title>Plamo 5.2 リリース</title>
       <link>https://www.plamolinux.org/posts/2013-12-29-plamo5-dot-2released/</link>
-      <pubDate>Sun, 29 Dec 2013 12:36:02 +0900</pubDate>
+      <pubDate>Sun, 29 Dec 2013 12:36:02 +0000</pubDate>
       
       <guid>https://www.plamolinux.org/posts/2013-12-29-plamo5-dot-2released/</guid>
       <description>Plamo-5.2 をリリースしました．
