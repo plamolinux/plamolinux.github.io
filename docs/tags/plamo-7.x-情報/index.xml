@@ -14,7 +14,7 @@
       <guid>https://www.plamolinux.org/posts/2021-09-09-firefox-92-dot-0/</guid>
       <description>firefox 92.0 パッケージをリリースしました。
  Firefox 92.0 リリースノート Firefox セキュリティアドバイザリ  パッケージをリリースしました。nss の更新が必要です。
- firefox-92.0-x86_64-B1.txz nss-3.69.1-x86_64-B1.txz  </description>
+ firefox-92.0-x86_64-B1.tzst nss-3.69.1-x86_64-B1.txz  </description>
     </item>
     
     <item>
