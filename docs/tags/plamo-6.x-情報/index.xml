@@ -5,11 +5,11 @@
     <link>https://www.plamolinux.org/tags/plamo-6.x-%E6%83%85%E5%A0%B1/</link>
     <description>Recent content in Plamo 6.x 情報 on Plamo Linux</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 15 Apr 2019 12:00:00 +0000</lastBuildDate><atom:link href="https://www.plamolinux.org/tags/plamo-6.x-%E6%83%85%E5%A0%B1/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Apr 2019 12:00:00 +0900</lastBuildDate><atom:link href="https://www.plamolinux.org/tags/plamo-6.x-%E6%83%85%E5%A0%B1/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>wget 1.20.3</title>
       <link>https://www.plamolinux.org/posts/2019-04-12-wget-1-dot-20-3/</link>
-      <pubDate>Mon, 15 Apr 2019 12:00:00 +0000</pubDate>
+      <pubDate>Mon, 15 Apr 2019 12:00:00 +0900</pubDate>
       
       <guid>https://www.plamolinux.org/posts/2019-04-12-wget-1-dot-20-3/</guid>
       <description>wget にセキュリティホールが発見されています。詳しくは以下をご覧ください。
@@ -20,7 +20,7 @@
     <item>
       <title>bind 9.12.3-P4</title>
       <link>https://www.plamolinux.org/posts/2019-02-22-bind-9-dot-12-3-p4/</link>
-      <pubDate>Fri, 22 Feb 2019 16:00:00 +0000</pubDate>
+      <pubDate>Fri, 22 Feb 2019 16:00:00 +0900</pubDate>
       
       <guid>https://www.plamolinux.org/posts/2019-02-22-bind-9-dot-12-3-p4/</guid>
       <description>bind にセキュリティホールが発見されています．詳しくは以下をご覧ください．
@@ -31,7 +31,7 @@
     <item>
       <title>ntp 4.2.8p10</title>
       <link>https://www.plamolinux.org/posts/2017-04-13-ntp-4-dot-2-8p10/</link>
-      <pubDate>Tue, 04 Apr 2017 18:00:00 +0000</pubDate>
+      <pubDate>Tue, 04 Apr 2017 18:00:00 +0900</pubDate>
       
       <guid>https://www.plamolinux.org/posts/2017-04-13-ntp-4-dot-2-8p10/</guid>
       <description>ntp にセキュリティホールが発見されています。詳しくは以下をご覧ください。
@@ -42,7 +42,7 @@
     <item>
       <title>Plamo 6.2 リリース</title>
       <link>https://www.plamolinux.org/posts/2017-03-24-plamo-6-dot-2/</link>
-      <pubDate>Fri, 24 Mar 2017 19:03:01 +0000</pubDate>
+      <pubDate>Fri, 24 Mar 2017 19:03:01 +0900</pubDate>
       
       <guid>https://www.plamolinux.org/posts/2017-03-24-plamo-6-dot-2/</guid>
       <description>Plamo 6.2 をリリースしました。
@@ -53,7 +53,7 @@
     <item>
       <title>libpng 1.6.28</title>
       <link>https://www.plamolinux.org/posts/2017-01-12-libpng-1-dot-6-21/</link>
-      <pubDate>Thu, 12 Jan 2017 16:00:00 +0000</pubDate>
+      <pubDate>Thu, 12 Jan 2017 16:00:00 +0900</pubDate>
       
       <guid>https://www.plamolinux.org/posts/2017-01-12-libpng-1-dot-6-21/</guid>
       <description>セキュリティホール修正を含む libpng 1.6.28, libpng 1.4.20 がリリースされています．詳しくは以下をご覧ください．
@@ -64,7 +64,7 @@
     <item>
       <title>GraphicsMagick 1.3.25</title>
       <link>https://www.plamolinux.org/posts/2016-09-12-graphicsmagick-1-dot-3-25/</link>
-      <pubDate>Mon, 12 Sep 2016 18:00:00 +0000</pubDate>
+      <pubDate>Mon, 12 Sep 2016 18:00:00 +0900</pubDate>
       
       <guid>https://www.plamolinux.org/posts/2016-09-12-graphicsmagick-1-dot-3-25/</guid>
       <description>GraphicsMagick パッケージを 1.3.25 に更新しました。
@@ -75,7 +75,7 @@
     <item>
       <title>libgd 2.2.3</title>
       <link>https://www.plamolinux.org/posts/2016-08-01-libgd-2-dot-2-3/</link>
-      <pubDate>Mon, 01 Aug 2016 12:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Aug 2016 12:00:00 +0900</pubDate>
       
       <guid>https://www.plamolinux.org/posts/2016-08-01-libgd-2-dot-2-3/</guid>
       <description>セキュリティホールの修正を含む libgd がリリースされています。詳しくは以下をご覧ください。
@@ -86,7 +86,7 @@
     <item>
       <title>librsvg 2.40.16</title>
       <link>https://www.plamolinux.org/posts/2016-06-27-librsvg-2-dot-40-dot-16/</link>
-      <pubDate>Mon, 27 Jun 2016 18:33:45 +0000</pubDate>
+      <pubDate>Mon, 27 Jun 2016 18:33:45 +0900</pubDate>
       
       <guid>https://www.plamolinux.org/posts/2016-06-27-librsvg-2-dot-40-dot-16/</guid>
       <description>セキュリティホールの修正を含む librsvg 2.40.16 のパッケージをリリースしました。
@@ -96,7 +96,7 @@
     <item>
       <title>libarchive 3.2.1</title>
       <link>https://www.plamolinux.org/posts/2016-06-24-libarchive-3-dot-2-1/</link>
-      <pubDate>Fri, 24 Jun 2016 17:36:23 +0000</pubDate>
+      <pubDate>Fri, 24 Jun 2016 17:36:23 +0900</pubDate>
       
       <guid>https://www.plamolinux.org/posts/2016-06-24-libarchive-3-dot-2-1/</guid>
       <description>セキュリティホールの修正を含む libarchive 3.2.1 パッケージをリリースしました。
@@ -106,7 +106,7 @@
     <item>
       <title>expat 2.1.1</title>
       <link>https://www.plamolinux.org/posts/2016-06-21-expat-2-dot-1-1/</link>
-      <pubDate>Thu, 23 Jun 2016 15:55:53 +0000</pubDate>
+      <pubDate>Thu, 23 Jun 2016 15:55:53 +0900</pubDate>
       
       <guid>https://www.plamolinux.org/posts/2016-06-21-expat-2-dot-1-1/</guid>
       <description>expat にセキュリティホールが見つかっています。詳しくは以下をご覧ください。
@@ -117,7 +117,7 @@
     <item>
       <title>jansson 2.7</title>
       <link>https://www.plamolinux.org/posts/2016-06-24-jansson-2-dot-7/</link>
-      <pubDate>Wed, 15 Jun 2016 17:50:04 +0000</pubDate>
+      <pubDate>Wed, 15 Jun 2016 17:50:04 +0900</pubDate>
       
       <guid>https://www.plamolinux.org/posts/2016-06-24-jansson-2-dot-7/</guid>
       <description>jansson にセキュリティホールが発見されています。詳しくは以下をご覧ください。
@@ -128,7 +128,7 @@
     <item>
       <title>libxslt 1.1.29</title>
       <link>https://www.plamolinux.org/posts/2016-06-02-libxslt-1-dot-1-29/</link>
-      <pubDate>Thu, 02 Jun 2016 12:40:57 +0000</pubDate>
+      <pubDate>Thu, 02 Jun 2016 12:40:57 +0900</pubDate>
       
       <guid>https://www.plamolinux.org/posts/2016-06-02-libxslt-1-dot-1-29/</guid>
       <description>セキュリティホールの修正を含む libxslt 1.1.29 がリリースされています。詳しくは以下をご覧ください。
@@ -139,7 +139,7 @@
     <item>
       <title>Plamo 6.1 リリース</title>
       <link>https://www.plamolinux.org/posts/2016-02-27-plamo-6-dot-1/</link>
-      <pubDate>Sat, 27 Feb 2016 00:29:00 +0000</pubDate>
+      <pubDate>Sat, 27 Feb 2016 00:29:00 +0900</pubDate>
       
       <guid>https://www.plamolinux.org/posts/2016-02-27-plamo-6-dot-1/</guid>
       <description>Plamo 6.1 をリリースしました。
@@ -151,7 +151,7 @@ $ ls -l plamo-6.1* -rw-rw-r-- 1 kojima plamo 3468689408 2月 22 09:56 plamo-6.1_
     <item>
       <title>Plamo 6.0 リリース</title>
       <link>https://www.plamolinux.org/posts/2015-10-22-plamo-6-dot-0/</link>
-      <pubDate>Thu, 22 Oct 2015 17:01:42 +0000</pubDate>
+      <pubDate>Thu, 22 Oct 2015 17:01:42 +0900</pubDate>
       
       <guid>https://www.plamolinux.org/posts/2015-10-22-plamo-6-dot-0/</guid>
       <description>Plamo 6.0 をリリースしました。
