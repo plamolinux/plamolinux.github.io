@@ -3,32 +3,35 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.plamolinux.org/</loc>
-    <lastmod>2021-09-09T19:00:00+09:00</lastmod>
+    <lastmod>2021-09-20T19:00:00+09:00</lastmod>
     <priority>0</priority>
+  </url><url>
+    <loc>https://www.plamolinux.org/posts/2021-09-20-curl-7-dot-79-0/</loc>
+    <lastmod>2021-09-20T19:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://www.plamolinux.org/tags/plamo-7.x-%E6%83%85%E5%A0%B1/</loc>
+    <lastmod>2021-09-20T19:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://www.plamolinux.org/posts/</loc>
+    <lastmod>2021-09-20T19:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://www.plamolinux.org/tags/</loc>
+    <lastmod>2021-09-20T19:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://www.plamolinux.org/tags/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E6%83%85%E5%A0%B1/</loc>
+    <lastmod>2021-09-20T19:00:00+09:00</lastmod>
   </url><url>
     <loc>https://www.plamolinux.org/posts/2021-09-09-firefox-92-dot-0/</loc>
     <lastmod>2021-09-09T19:00:00+09:00</lastmod>
   </url><url>
-    <loc>https://www.plamolinux.org/tags/plamo-7.x-%E6%83%85%E5%A0%B1/</loc>
-    <lastmod>2021-09-09T19:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://www.plamolinux.org/posts/</loc>
-    <lastmod>2021-09-09T19:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://www.plamolinux.org/tags/</loc>
-    <lastmod>2021-09-09T19:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://www.plamolinux.org/tags/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E6%83%85%E5%A0%B1/</loc>
-    <lastmod>2021-09-09T19:00:00+09:00</lastmod>
+    <loc>https://www.plamolinux.org/posts/2021-08-25-openssl-1-dot-1-1l/</loc>
+    <lastmod>2021-08-25T19:00:00+09:00</lastmod>
   </url><url>
     <loc>https://www.plamolinux.org/posts/2021-08-04-node-14-dot-17-4/</loc>
     <lastmod>2021-08-04T19:00:00+09:00</lastmod>
   </url><url>
     <loc>https://www.plamolinux.org/posts/2021-08-02-php-8-dot-0-9/</loc>
     <lastmod>2021-08-02T19:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://www.plamolinux.org/posts/2021-07-26-curl-7-dot-78-0/</loc>
-    <lastmod>2021-07-26T19:00:00+09:00</lastmod>
   </url><url>
     <loc>https://www.plamolinux.org/posts/2021-06-24-httpd-2-dot-4-48/</loc>
     <lastmod>2021-06-24T19:00:00+09:00</lastmod>
@@ -41,9 +44,6 @@
   </url><url>
     <loc>https://www.plamolinux.org/tags/%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E6%83%85%E5%A0%B1/</loc>
     <lastmod>2021-05-05T00:20:00+09:00</lastmod>
-  </url><url>
-    <loc>https://www.plamolinux.org/posts/2021-03-27-openssl-1-dot-1-1k/</loc>
-    <lastmod>2021-03-27T15:00:00+09:00</lastmod>
   </url><url>
     <loc>https://www.plamolinux.org/posts/2020-10-23-freetype-2-dot-10-4/</loc>
     <lastmod>2020-10-23T15:51:12+09:00</lastmod>
