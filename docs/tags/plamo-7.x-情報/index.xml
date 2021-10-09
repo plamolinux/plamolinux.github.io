@@ -67,14 +67,14 @@
     </item>
     
     <item>
-      <title>httpd 2.4.48</title>
-      <link>https://www.plamolinux.org/posts/2021-06-24-httpd-2-dot-4-48/</link>
+      <title>httpd 2.4.51</title>
+      <link>https://www.plamolinux.org/posts/2021-10-09-httpd-2-dot-4-51/</link>
       <pubDate>Thu, 24 Jun 2021 19:00:00 +0900</pubDate>
       
-      <guid>https://www.plamolinux.org/posts/2021-06-24-httpd-2-dot-4-48/</guid>
-      <description>セキュリティホールの修正を含む Apache httpd 2.4.48 がリリースされています．詳しくは以下をご覧ください．
- Apache HTTP Server 2.4.48 Released Changes with Apache 2.4.48  パッケージをリリースしました．
- httpd-2.4.48-x86_64-B1.txz  </description>
+      <guid>https://www.plamolinux.org/posts/2021-10-09-httpd-2-dot-4-51/</guid>
+      <description>セキュリティホールの修正を含む Apache httpd 2.4.51 がリリースされています．詳しくは以下をご覧ください．
+ Apache HTTP Server 2.4.51 Released Changes with Apache 2.4.51  パッケージをリリースしました．
+ httpd-2.4.51-x86_64-B1.txz  </description>
     </item>
     
     <item>

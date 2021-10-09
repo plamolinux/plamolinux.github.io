@@ -99,7 +99,7 @@
   <meta name="twitter:image" content="https://www.plamolinux.org/images/garland_logo.jpg" />
   <meta name="twitter:card" content="summary" />
   <link href='https://www.plamolinux.org/images/garland_logo.jpg' rel='icon' type='image/x-icon'/>
-  <meta name="generator" content="Hugo 0.84.2" />
+  <meta name="generator" content="Hugo 0.88.1" />
   <link rel="alternate" href="https://www.plamolinux.org/index.xml" type="application/rss+xml" title="Plamo Linux"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css" integrity="sha384-9eLZqc9ds8eNjO3TmqPeYcDj8n+Qfa4nuSiGYa6DjLNcv9BtN69ZIulL9+8CqC9Y" crossorigin="anonymous">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"><link rel="stylesheet" href="https://www.plamolinux.org/css/main.css" /><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
@@ -284,21 +284,21 @@
 <li>リリースアナウンス: <a href="http://www.linet.gr.jp/~kojima/PlamoWeb/ML/htdocs/201905/msg00044.html">[plamo:32898] Plamo-7.1 released</a></li>
 </ul>
 <p>従来同様、4.7Gのサイズに収まるようにDVD用は2枚組み、2枚目は pTeX 回りのみなので、pTeX の不要な方は 01 のイメージのみでインストールできます。</p>
-<div class="highlight"><pre class="chroma"><code class="language-fallback" data-lang="fallback">$ ls -lh plamo-7.1*
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">$ ls -lh plamo-7.1*
 -rw-r--r-- 1 kojima plamo 2.7G  5月 14 09:00 plamo-7.1_x86_64_dvd_01.iso
 -rw-r--r-- 1 kojima plamo   62  5月 14 09:00 plamo-7.1_x86_64_dvd_01.iso.md5sum
 -rw-r--r-- 1 kojima plamo 2.5G  5月 14 09:01 plamo-7.1_x86_64_dvd_02.iso
 -rw-r--r-- 1 kojima plamo   62  5月 14 09:01 plamo-7.1_x86_64_dvd_02.iso.md5sum
 </code></pre></div><p>一方、手元でも 8GB の USB メモリからインストールすることが増えてきたので、全部を1つにまとめたイメージも作ってみました。</p>
-<div class="highlight"><pre class="chroma"><code class="language-fallback" data-lang="fallback">-rw-r--r-- 1 kojima plamo 5.1G  5月 14 09:02 plamo-7.1_x86_64_usb.iso
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">-rw-r--r-- 1 kojima plamo 5.1G  5月 14 09:02 plamo-7.1_x86_64_usb.iso
 -rw-r--r-- 1 kojima plamo   59  5月 14 09:02 plamo-7.1_x86_64_usb.iso.md5sum
 </code></pre></div><p>USB メモリ経由でインストールする場合は</p>
-<div class="highlight"><pre class="chroma"><code class="language-fallback" data-lang="fallback"># dd if=plamo-7.1_x86_64_usb.iso of=/dev/XXX bs=100M
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"># dd if=plamo-7.1_x86_64_usb.iso of=/dev/XXX bs=100M
 </code></pre></div><p>みたいにベタ書きして、そこから起動します。なお、USB メモリからインストールする場合、「インストール元」は「HDDパーティション」になります。</p>
 <p>ちなみに、pTeX まで含めて全部インストールすると 16G ほどになるので、古い環境を使い回す際にはご注意ください :-P</p>
-<div class="highlight"><pre class="chroma"><code class="language-fallback" data-lang="fallback">/dev/sdb4                         50G   16G   35G   32% /
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">/dev/sdb4                         50G   16G   35G   32% /
 </code></pre></div><p>以下、README.UTF-8 より引用</p>
-<div class="highlight"><pre class="chroma"><code class="language-fallback" data-lang="fallback">○Plamo-7.1について(2019-05)
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">○Plamo-7.1について(2019-05)
 
 Plamo-7.1は、昨年6月にリリースしたPlamo-7.0以後の
 アップデートや修正を集めたメンテナンスリリースで、
@@ -482,7 +482,7 @@ grub以外の方法で起動したい場合は、
         </p>
         
         <p class="credits theme-by text-muted">
-          起動力に<a href="https://gohugo.io">Hugo v0.84.2</a> &nbsp;&bull;&nbsp; テーマに<a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a>に基づいている<a href="https://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a>
+          起動力に<a href="https://gohugo.io">Hugo v0.88.1</a> &nbsp;&bull;&nbsp; テーマに<a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a>に基づいている<a href="https://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a>
           
         </p>
       </div>
