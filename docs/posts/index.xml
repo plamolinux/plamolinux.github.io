@@ -5,7 +5,45 @@
     <link>https://www.plamolinux.org/posts/</link>
     <description>Recent content in Posts on Plamo Linux</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 20 Sep 2021 19:00:00 +0900</lastBuildDate><atom:link href="https://www.plamolinux.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Dec 2021 19:00:00 +0900</lastBuildDate><atom:link href="https://www.plamolinux.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>httpd 2.4.51</title>
+      <link>https://www.plamolinux.org/posts/2021-12-21-httpd-2-dot-4-52/</link>
+      <pubDate>Tue, 21 Dec 2021 19:00:00 +0900</pubDate>
+      
+      <guid>https://www.plamolinux.org/posts/2021-12-21-httpd-2-dot-4-52/</guid>
+      <description>セキュリティホールの修正を含む Apache httpd 2.4.52 がリリースされています．詳しくは以下をご覧ください．
+ Apache HTTP Server 2.4.52 Released Changes with Apache 2.4.52  パッケージをリリースしました．
+ httpd-2.4.52-x86_64-B1.txz  </description>
+    </item>
+    
+    <item>
+      <title>firefox 95.0</title>
+      <link>https://www.plamolinux.org/posts/2021-12-13-firefox-95-dot-0/</link>
+      <pubDate>Mon, 13 Dec 2021 19:00:00 +0900</pubDate>
+      
+      <guid>https://www.plamolinux.org/posts/2021-12-13-firefox-95-dot-0/</guid>
+      <description>firefox 95.0 がリリースされています。
+ Firefox 95.0 リリースノート Firefox セキュリティアドバイザリ  パッケージをリリースしました。nss の更新が必要です。
+ firefox-95.0-x86_64-B1.tzst nss-3.73-x86_64-B1.txz  </description>
+    </item>
+    
+    <item>
+      <title>php 8.0.13</title>
+      <link>https://www.plamolinux.org/posts/2021-12-13-php-8-dot-0-13/</link>
+      <pubDate>Mon, 13 Dec 2021 19:00:00 +0900</pubDate>
+      
+      <guid>https://www.plamolinux.org/posts/2021-12-13-php-8-dot-0-13/</guid>
+      <description>&lt;p&gt;PHP 8.0.13 がリリースされました。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://php.net/ChangeLog-8.php#8.0.13&#34;&gt;PHP 8.0.13 Released&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;パッケージをリリースしました。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://repository.plamolinux.org/pub/Plamo-7.x/x86_64/plamo/08_daemons/php-8.0.13-x86_64-B1.txz&#34;&gt;php-8.0.13-x86_64-B1.txz&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
     <item>
       <title>curl 7.79.0</title>
       <link>https://www.plamolinux.org/posts/2021-09-20-curl-7-dot-79-0/</link>
@@ -15,17 +53,6 @@
       <description>curl 7.79.0 がリリースされています．詳しくは以下をご覧ください．
  Changelog curl Security  パッケージをリリースしました．
  curl-7.79.0-x86_64-B1.txz  </description>
-    </item>
-    
-    <item>
-      <title>firefox 92.0</title>
-      <link>https://www.plamolinux.org/posts/2021-09-09-firefox-92-dot-0/</link>
-      <pubDate>Thu, 09 Sep 2021 19:00:00 +0900</pubDate>
-      
-      <guid>https://www.plamolinux.org/posts/2021-09-09-firefox-92-dot-0/</guid>
-      <description>firefox 92.0 がリリースされています。
- Firefox 92.0 リリースノート Firefox セキュリティアドバイザリ  パッケージをリリースしました。nss の更新が必要です。
- firefox-92.0-x86_64-B1.tzst nss-3.69.1-x86_64-B1.txz  </description>
     </item>
     
     <item>
@@ -48,33 +75,6 @@
       <description>セキュリティホールの修正を含む node.js 14.17.4 がリリースされています。
  2021-07-29, Version 14.17.4 &amp;lsquo;Fermium&amp;rsquo; (LTS), @richardlau  パッケージをリリースしました。
  node-14.17.4-x86_64-B1.txz  </description>
-    </item>
-    
-    <item>
-      <title>php 8.0.9</title>
-      <link>https://www.plamolinux.org/posts/2021-08-02-php-8-dot-0-9/</link>
-      <pubDate>Mon, 02 Aug 2021 19:00:00 +0900</pubDate>
-      
-      <guid>https://www.plamolinux.org/posts/2021-08-02-php-8-dot-0-9/</guid>
-      <description>&lt;p&gt;PHP 8.0.9 がリリースされました。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://php.net/ChangeLog-8.php#8.0.9&#34;&gt;PHP 8.0.9 Released&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;パッケージをリリースしました。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://repository.plamolinux.org/pub/Plamo-7.x/x86_64/plamo/08_daemons/php-8.0.9-x86_64-B1.txz&#34;&gt;php-8.0.9-x86_64-B1.txz&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    
-    <item>
-      <title>httpd 2.4.51</title>
-      <link>https://www.plamolinux.org/posts/2021-10-09-httpd-2-dot-4-51/</link>
-      <pubDate>Thu, 24 Jun 2021 19:00:00 +0900</pubDate>
-      
-      <guid>https://www.plamolinux.org/posts/2021-10-09-httpd-2-dot-4-51/</guid>
-      <description>セキュリティホールの修正を含む Apache httpd 2.4.51 がリリースされています．詳しくは以下をご覧ください．
- Apache HTTP Server 2.4.51 Released Changes with Apache 2.4.51  パッケージをリリースしました．
- httpd-2.4.51-x86_64-B1.txz  </description>
     </item>
     
     <item>
