@@ -1,0 +1,13 @@
+---
+title: "polkit 0.120"
+date: 2022-01-31T18:00:00+09:00
+comments: false
+tags: ["Plamo 7.x 情報", "セキュリティ情報"]
+---
+polkitに脆弱性 "PwnKit" （CVE-2021-4034）が発見されています。例えば、次のような関連情報を参照ください。
+
+* [2022年2月1日　Qualys，主要Linuxディストリビューションに「Polkit」の脆弱性を警告](https://gihyo.jp/admin/clip/01/linux_dt/202202/01) （gihyo.jp）
+
+対応パッケージをリリースしました。CVE-2021-4034 に対するパッチを適用しています。
+
+* [polkit-0.120-x86_64-B1.txz](http://repository.plamolinux.org/pub/linux/Plamo/Plamo-7.x/x86_64/plamo/04_x11/polkit-0.120-x86_64-B1.txz)

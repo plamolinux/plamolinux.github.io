@@ -1,0 +1,15 @@
+---
+layout: post
+title: "curl 7.80.0"
+date: 2021-11-12T19:00:00+09:00
+comments: false
+tags: ["Plamo 7.x 情報", "セキュリティ情報"]
+---
+curl 7.80.0 がリリースされています．詳しくは以下をご覧ください．
+
+* [Changelog](http://curl.haxx.se/changes.html)
+* [curl Security](https://curl.haxx.se/docs/security.html)
+
+パッケージをリリースしました．
+
+* [curl-7.80.0-x86_64-B1.txz](https://repository.plamolinux.org/pub/linux/Plamo/Plamo-7.x/x86_64/plamo/01_minimum/network.txz/curl-7.80.0-x86_64-B1.txz)

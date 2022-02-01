@@ -5,7 +5,56 @@
     <link>https://www.plamolinux.org/tags/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E6%83%85%E5%A0%B1/</link>
     <description>Recent content in セキュリティ情報 on Plamo Linux</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 21 Dec 2021 19:00:00 +0900</lastBuildDate><atom:link href="https://www.plamolinux.org/tags/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E6%83%85%E5%A0%B1/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Feb 2022 21:44:50 +0900</lastBuildDate><atom:link href="https://www.plamolinux.org/tags/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E6%83%85%E5%A0%B1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Samba 4.15.5</title>
+      <link>https://www.plamolinux.org/posts/2022-02-01-samba-4.15.5/</link>
+      <pubDate>Tue, 01 Feb 2022 21:44:50 +0900</pubDate>
+      
+      <guid>https://www.plamolinux.org/posts/2022-02-01-samba-4.15.5/</guid>
+      <description>Samba に脆弱性が発見されています。
+ Release Notes for Samba 4.15.5  パッケージをリリースしました。
+ samba-4.15.5-x86_64-B1.tzst  </description>
+    </item>
+    
+    <item>
+      <title>firefox 96.0.3</title>
+      <link>https://www.plamolinux.org/posts/2022-02-01-firefox-96-dot-0-3/</link>
+      <pubDate>Tue, 01 Feb 2022 19:00:00 +0900</pubDate>
+      
+      <guid>https://www.plamolinux.org/posts/2022-02-01-firefox-96-dot-0-3/</guid>
+      <description>firefox 96.0.3 がリリースされています。
+ Firefox 96.0.3 リリースノート Firefox セキュリティアドバイザリ  パッケージをリリースしました。nss の更新が必要です。
+ firefox-96.0.3-x86_64-B1.tzst nss-3.74-x86_64-B1.txz  </description>
+    </item>
+    
+    <item>
+      <title>polkit 0.120</title>
+      <link>https://www.plamolinux.org/posts/2022-01-31-polkit-0-dot-120/</link>
+      <pubDate>Mon, 31 Jan 2022 18:00:00 +0900</pubDate>
+      
+      <guid>https://www.plamolinux.org/posts/2022-01-31-polkit-0-dot-120/</guid>
+      <description>polkitに脆弱性 &amp;ldquo;PwnKit&amp;rdquo; （CVE-2021-4034）が発見されています。例えば、次のような関連情報を参照ください。
+ 2022年2月1日　Qualys，主要Linuxディストリビューションに「Polkit」の脆弱性を警告 （gihyo.jp）  対応パッケージをリリースしました。CVE-2021-4034 に対するパッチを適用しています。
+ polkit-0.120-x86_64-B1.txz  </description>
+    </item>
+    
+    <item>
+      <title>php 8.0.14</title>
+      <link>https://www.plamolinux.org/posts/2022-01-07-php-8-dot-0-14/</link>
+      <pubDate>Fri, 07 Jan 2022 19:00:00 +0900</pubDate>
+      
+      <guid>https://www.plamolinux.org/posts/2022-01-07-php-8-dot-0-14/</guid>
+      <description>&lt;p&gt;PHP 8.0.14 がリリースされました。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://php.net/ChangeLog-8.php#8.0.14&#34;&gt;PHP 8.0.14 Released&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;パッケージをリリースしました。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://repository.plamolinux.org/pub/Plamo-7.x/x86_64/plamo/08_daemons/php-8.0.14-x86_64-B1.txz&#34;&gt;php-8.0.14-x86_64-B1.txz&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
     <item>
       <title>httpd 2.4.51</title>
       <link>https://www.plamolinux.org/posts/2021-12-21-httpd-2-dot-4-52/</link>
@@ -18,41 +67,14 @@
     </item>
     
     <item>
-      <title>firefox 95.0</title>
-      <link>https://www.plamolinux.org/posts/2021-12-13-firefox-95-dot-0/</link>
-      <pubDate>Mon, 13 Dec 2021 19:00:00 +0900</pubDate>
+      <title>curl 7.80.0</title>
+      <link>https://www.plamolinux.org/posts/2021-11-12-curl-7-dot-80-0/</link>
+      <pubDate>Fri, 12 Nov 2021 19:00:00 +0900</pubDate>
       
-      <guid>https://www.plamolinux.org/posts/2021-12-13-firefox-95-dot-0/</guid>
-      <description>firefox 95.0 がリリースされています。
- Firefox 95.0 リリースノート Firefox セキュリティアドバイザリ  パッケージをリリースしました。nss の更新が必要です。
- firefox-95.0-x86_64-B1.tzst nss-3.73-x86_64-B1.txz  </description>
-    </item>
-    
-    <item>
-      <title>php 8.0.13</title>
-      <link>https://www.plamolinux.org/posts/2021-12-13-php-8-dot-0-13/</link>
-      <pubDate>Mon, 13 Dec 2021 19:00:00 +0900</pubDate>
-      
-      <guid>https://www.plamolinux.org/posts/2021-12-13-php-8-dot-0-13/</guid>
-      <description>&lt;p&gt;PHP 8.0.13 がリリースされました。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://php.net/ChangeLog-8.php#8.0.13&#34;&gt;PHP 8.0.13 Released&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;パッケージをリリースしました。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://repository.plamolinux.org/pub/Plamo-7.x/x86_64/plamo/08_daemons/php-8.0.13-x86_64-B1.txz&#34;&gt;php-8.0.13-x86_64-B1.txz&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    
-    <item>
-      <title>curl 7.79.0</title>
-      <link>https://www.plamolinux.org/posts/2021-09-20-curl-7-dot-79-0/</link>
-      <pubDate>Mon, 20 Sep 2021 19:00:00 +0900</pubDate>
-      
-      <guid>https://www.plamolinux.org/posts/2021-09-20-curl-7-dot-79-0/</guid>
-      <description>curl 7.79.0 がリリースされています．詳しくは以下をご覧ください．
+      <guid>https://www.plamolinux.org/posts/2021-11-12-curl-7-dot-80-0/</guid>
+      <description>curl 7.80.0 がリリースされています．詳しくは以下をご覧ください．
  Changelog curl Security  パッケージをリリースしました．
- curl-7.79.0-x86_64-B1.txz  </description>
+ curl-7.80.0-x86_64-B1.txz  </description>
     </item>
     
     <item>
@@ -75,17 +97,6 @@
       <description>セキュリティホールの修正を含む node.js 14.17.4 がリリースされています。
  2021-07-29, Version 14.17.4 &amp;lsquo;Fermium&amp;rsquo; (LTS), @richardlau  パッケージをリリースしました。
  node-14.17.4-x86_64-B1.txz  </description>
-    </item>
-    
-    <item>
-      <title>polkit 0.119</title>
-      <link>https://www.plamolinux.org/posts/2021-06-23-polkit-0-dot-119/</link>
-      <pubDate>Wed, 23 Jun 2021 18:00:00 +0900</pubDate>
-      
-      <guid>https://www.plamolinux.org/posts/2021-06-23-polkit-0-dot-119/</guid>
-      <description>polkitに脆弱性が発見されています。詳しくは次をご覧ください。
- polkitの脆弱性(Important: CVE-2021-3560) (SIOS Security Blog)  対応パッケージをリリースしました。
- polkit-0.119-x86_64-B1.txz  </description>
     </item>
     
     <item>
