@@ -5,7 +5,18 @@
     <link>https://www.plamolinux.org/</link>
     <description>Recent content on Plamo Linux</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 01 Feb 2022 21:44:50 +0900</lastBuildDate><atom:link href="https://www.plamolinux.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 14 Feb 2022 19:00:00 +0900</lastBuildDate><atom:link href="https://www.plamolinux.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>firefox 97.0</title>
+      <link>https://www.plamolinux.org/posts/2022-02-14-firefox-97-0/</link>
+      <pubDate>Mon, 14 Feb 2022 19:00:00 +0900</pubDate>
+      
+      <guid>https://www.plamolinux.org/posts/2022-02-14-firefox-97-0/</guid>
+      <description>firefox 97.0 がリリースされています。
+ Firefox 97.0 リリースノート Firefox セキュリティアドバイザリ  パッケージをリリースしました。nss, nsprも更新していますので同時に更新してください。
+ firefox-97.0-x86_64-B1.tzst nss-3.75-x86_64-B1.txz nspr-4.33-x86_64-B1.txz  </description>
+    </item>
+    
     <item>
       <title>Samba 4.15.5</title>
       <link>https://www.plamolinux.org/posts/2022-02-01-samba-4.15.5/</link>
@@ -15,17 +26,6 @@
       <description>Samba に脆弱性が発見されています。
  Release Notes for Samba 4.15.5  パッケージをリリースしました。
  samba-4.15.5-x86_64-B1.tzst  </description>
-    </item>
-    
-    <item>
-      <title>firefox 96.0.3</title>
-      <link>https://www.plamolinux.org/posts/2022-02-01-firefox-96-dot-0-3/</link>
-      <pubDate>Tue, 01 Feb 2022 19:00:00 +0900</pubDate>
-      
-      <guid>https://www.plamolinux.org/posts/2022-02-01-firefox-96-dot-0-3/</guid>
-      <description>firefox 96.0.3 がリリースされています。
- Firefox 96.0.3 リリースノート Firefox セキュリティアドバイザリ  パッケージをリリースしました。nss の更新が必要です。
- firefox-96.0.3-x86_64-B1.tzst nss-3.74-x86_64-B1.txz  </description>
     </item>
     
     <item>
