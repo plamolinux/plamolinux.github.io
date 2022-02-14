@@ -2,5 +2,5 @@ Plamo Linux は [Slackware](http://www.slackware.com/) と [LFS](https://www.lin
 
 現在、最新版は Plamo-7.3 で、x86_64 版をリリースしています。
 
-不具合報告やユーザからの情報のまとめなど、公式ページを補足し、Plamoを「作る人」と「使う人」の橋渡しをする場を提供する [PlamoLinux Wiki](http://plamo.linet.gr.jp/wiki/) もあわせてご覧ください。
+不具合報告やユーザからの情報のまとめなど、公式ページを補足し、Plamoを「作る人」と「使う人」の橋渡しをする場を提供する [PlamoLinux Wiki](http://plamo.linet.gr.jp/) もあわせてご覧ください。
 
