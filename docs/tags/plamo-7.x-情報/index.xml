@@ -5,7 +5,17 @@
     <link>https://www.plamolinux.org/tags/plamo-7.x-%E6%83%85%E5%A0%B1/</link>
     <description>Recent content in Plamo 7.x 情報 on Plamo Linux</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 01 Feb 2022 21:44:50 +0900</lastBuildDate><atom:link href="https://www.plamolinux.org/tags/plamo-7.x-%E6%83%85%E5%A0%B1/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 09 Mar 2022 13:00:00 +0900</lastBuildDate><atom:link href="https://www.plamolinux.org/tags/plamo-7.x-%E6%83%85%E5%A0%B1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>firefox 98.0</title>
+      <link>https://www.plamolinux.org/posts/2022-03-09-firefox-98-0/</link>
+      <pubDate>Wed, 09 Mar 2022 13:00:00 +0900</pubDate>
+      
+      <guid>https://www.plamolinux.org/posts/2022-03-09-firefox-98-0/</guid>
+      <description>firefox 98.0 がリリースされています。
+ Firefox 98.0 リリースノート Firefox セキュリティアドバイザリ  パッケージをリリースしました。 firefox-98.0-x86_64-B1.tzst  </description>
+    </item>
+    
     <item>
       <title>Samba 4.15.5</title>
       <link>https://www.plamolinux.org/posts/2022-02-01-samba-4.15.5/</link>
