@@ -126,17 +126,6 @@
     </item>
     
     <item>
-      <title>libxslt 1.1.29</title>
-      <link>https://www.plamolinux.org/posts/2016-06-02-libxslt-1-dot-1-29/</link>
-      <pubDate>Thu, 02 Jun 2016 12:40:57 +0900</pubDate>
-      
-      <guid>https://www.plamolinux.org/posts/2016-06-02-libxslt-1-dot-1-29/</guid>
-      <description>セキュリティホールの修正を含む libxslt 1.1.29 がリリースされています。詳しくは以下をご覧ください。
- News (xmlsoft.org) JVNDB-2015-005957 libxslt の preproc.c の xsltStylePreCompute 関数におけるサービス運用妨害 (DoS) の脆弱性  パッケージをリリースしました。
- libxslt-1.1.29-i686-P1.txz (32bit) libxslt-1.1.29-x86_64-P1.txz (64bit)  </description>
-    </item>
-    
-    <item>
       <title>Plamo 6.1 リリース</title>
       <link>https://www.plamolinux.org/posts/2016-02-27-plamo-6-dot-1/</link>
       <pubDate>Sat, 27 Feb 2016 00:29:00 +0900</pubDate>

@@ -5,15 +5,70 @@
     <link>https://www.plamolinux.org/tags/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E6%83%85%E5%A0%B1/</link>
     <description>Recent content in セキュリティ情報 on Plamo Linux</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 09 Mar 2022 13:00:00 +0900</lastBuildDate><atom:link href="https://www.plamolinux.org/tags/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E6%83%85%E5%A0%B1/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Apr 2022 18:00:00 +0900</lastBuildDate><atom:link href="https://www.plamolinux.org/tags/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E6%83%85%E5%A0%B1/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>firefox 98.0</title>
-      <link>https://www.plamolinux.org/posts/2022-03-09-firefox-98-0/</link>
-      <pubDate>Wed, 09 Mar 2022 13:00:00 +0900</pubDate>
+      <title>ghostscript 9.56.1</title>
+      <link>https://www.plamolinux.org/posts/2022-04-06-ghostscript-9.56.1/</link>
+      <pubDate>Wed, 06 Apr 2022 18:00:00 +0900</pubDate>
       
-      <guid>https://www.plamolinux.org/posts/2022-03-09-firefox-98-0/</guid>
-      <description>firefox 98.0 がリリースされています。
- Firefox 98.0 リリースノート Firefox セキュリティアドバイザリ  パッケージをリリースしました。 firefox-98.0-x86_64-B1.tzst  </description>
+      <guid>https://www.plamolinux.org/posts/2022-04-06-ghostscript-9.56.1/</guid>
+      <description>9.56.1 パッケージをリリースしました。
+ ghostscript-9.56.1-x86_64-B1.txz  </description>
+    </item>
+    
+    <item>
+      <title>firefox 99.0</title>
+      <link>https://www.plamolinux.org/posts/2022-04-06-firefox-99-0/</link>
+      <pubDate>Wed, 06 Apr 2022 13:19:00 +0900</pubDate>
+      
+      <guid>https://www.plamolinux.org/posts/2022-04-06-firefox-99-0/</guid>
+      <description>firefox 99.0 がリリースされています。
+ Firefox 99.0 リリースノート Firefox セキュリティアドバイザリ  パッケージをリリースしました。nss も更新していますので同時に更新してください。
+ firefox-99.0-x86_64-B1.tzst nss-3.77-x86_64-B1.txz  </description>
+    </item>
+    
+    <item>
+      <title>thunderbird 91.7.0</title>
+      <link>https://www.plamolinux.org/posts/2022-03-25-thunderbird-91.7.0/</link>
+      <pubDate>Fri, 25 Mar 2022 19:00:00 +0900</pubDate>
+      
+      <guid>https://www.plamolinux.org/posts/2022-03-25-thunderbird-91.7.0/</guid>
+      <description>セキュリティホールの修正を含む Thunderbird 91.7.0 がリリースされています。詳しくは以下をご覧ください。
+ Thunderbird 91.7.0 リリースノート Thunderbird セキュリティアドバイザリ  パッケージをリリースしました。
+ thunderbird-91.7.0-x86_64-B1.txz  </description>
+    </item>
+    
+    <item>
+      <title>httpd 2.4.53</title>
+      <link>https://www.plamolinux.org/posts/2022-03-16-httpd-2.4.53/</link>
+      <pubDate>Wed, 16 Mar 2022 19:00:00 +0900</pubDate>
+      
+      <guid>https://www.plamolinux.org/posts/2022-03-16-httpd-2.4.53/</guid>
+      <description>セキュリティホールの修正を含む Apache httpd 2.4.53 がリリースされています．詳しくは以下をご覧ください．
+ Apache HTTP Server 2.4.53 Released Changes with Apache 2.4.53  パッケージをリリースしました．
+ httpd-2.4.53-x86_64-B1.txz  </description>
+    </item>
+    
+    <item>
+      <title>libxslt 1.1.35</title>
+      <link>https://www.plamolinux.org/posts/2022-03-16-libxslt-1.1.35/</link>
+      <pubDate>Wed, 16 Mar 2022 19:00:00 +0900</pubDate>
+      
+      <guid>https://www.plamolinux.org/posts/2022-03-16-libxslt-1.1.35/</guid>
+      <description>セキュリティホールの修正を含む libxslt 1.1.35 がリリースされています。
+パッケージをリリースしました。
+ libxslt-1.1.35-x86_64-B1.tzst  </description>
+    </item>
+    
+    <item>
+      <title>OpenSSL 1.1.1n</title>
+      <link>https://www.plamolinux.org/posts/2022-03-16-openssl-1.1.1l/</link>
+      <pubDate>Wed, 16 Mar 2022 19:00:00 +0900</pubDate>
+      
+      <guid>https://www.plamolinux.org/posts/2022-03-16-openssl-1.1.1l/</guid>
+      <description>OpenSSL 1.1.1n がリリースされています。セキュリティホールのの修正を含みます。
+ https://www.openssl.org/news/secadv/20220315.txt  パッケージをリリースしました。
+ openssl-1.1.1n-x86_64-B1.txz  </description>
     </item>
     
     <item>
@@ -55,17 +110,6 @@
     </item>
     
     <item>
-      <title>httpd 2.4.51</title>
-      <link>https://www.plamolinux.org/posts/2021-12-21-httpd-2-dot-4-52/</link>
-      <pubDate>Tue, 21 Dec 2021 19:00:00 +0900</pubDate>
-      
-      <guid>https://www.plamolinux.org/posts/2021-12-21-httpd-2-dot-4-52/</guid>
-      <description>セキュリティホールの修正を含む Apache httpd 2.4.52 がリリースされています．詳しくは以下をご覧ください．
- Apache HTTP Server 2.4.52 Released Changes with Apache 2.4.52  パッケージをリリースしました．
- httpd-2.4.52-x86_64-B1.txz  </description>
-    </item>
-    
-    <item>
       <title>curl 7.80.0</title>
       <link>https://www.plamolinux.org/posts/2021-11-12-curl-7-dot-80-0/</link>
       <pubDate>Fri, 12 Nov 2021 19:00:00 +0900</pubDate>
@@ -74,17 +118,6 @@
       <description>curl 7.80.0 がリリースされています．詳しくは以下をご覧ください．
  Changelog curl Security  パッケージをリリースしました．
  curl-7.80.0-x86_64-B1.txz  </description>
-    </item>
-    
-    <item>
-      <title>OpenSSL 1.1.1l</title>
-      <link>https://www.plamolinux.org/posts/2021-08-25-openssl-1-dot-1-1l/</link>
-      <pubDate>Wed, 25 Aug 2021 19:00:00 +0900</pubDate>
-      
-      <guid>https://www.plamolinux.org/posts/2021-08-25-openssl-1-dot-1-1l/</guid>
-      <description>OpenSSL 1.1.1l がリリースされています。セキュリティホールのの修正を含みます。
- https://www.openssl.org/news/secadv/20210824.txt  パッケージをリリースしました。
- openssl-1.1.1l-x86_64-B1.txz  </description>
     </item>
     
     <item>
@@ -110,17 +143,6 @@
     </item>
     
     <item>
-      <title>thunderbird 68.11.0</title>
-      <link>https://www.plamolinux.org/posts/2020-08-07-thunderbird-68-dot-11-0/</link>
-      <pubDate>Fri, 07 Aug 2020 19:00:00 +0900</pubDate>
-      
-      <guid>https://www.plamolinux.org/posts/2020-08-07-thunderbird-68-dot-11-0/</guid>
-      <description>セキュリティホールの修正を含む Thunderbird 68.11.0 がリリースされています。詳しくは以下をご覧ください。
- Thunderbird 68.11.0 リリースノート Thunderbird セキュリティアドバイザリ  パッケージをリリースしました。
- thunderbird-68.11.0-x86_64-B1.txz  </description>
-    </item>
-    
-    <item>
       <title>libX11-1.6.10</title>
       <link>https://www.plamolinux.org/posts/2020-08-06-libx11-1-dot-6-10/</link>
       <pubDate>Thu, 06 Aug 2020 19:00:00 +0900</pubDate>
@@ -129,17 +151,6 @@
       <description>セキュリティホールの修正を含む libX11 1.6.10 がリリースされています。詳しくは以下をご覧ください。
  CVE-2020-14344 (NVD)  パッケージをリリースしました。
  libX11-1.6.10-x86_64-B1.txz  </description>
-    </item>
-    
-    <item>
-      <title>ghostscript 9.52</title>
-      <link>https://www.plamolinux.org/posts/2020-08-04-ghostscript-9-dot-52/</link>
-      <pubDate>Tue, 04 Aug 2020 19:00:00 +0900</pubDate>
-      
-      <guid>https://www.plamolinux.org/posts/2020-08-04-ghostscript-9-dot-52/</guid>
-      <description>ghostscript にセキュリティホールが見つかっています。詳しくは以下をご覧ください。
- CVE-2020-15900 (NVD)  9.52 に対応するパッチを適用した対策パッケージをリリースしました。
- ghostscript-9.52-x86_64-B1.txz  </description>
     </item>
     
     <item>
@@ -390,17 +401,6 @@
       <description>jansson にセキュリティホールが発見されています。詳しくは以下をご覧ください。
  JVNDB-2016-002782 Jansson におけるサービス運用妨害 (DoS) の脆弱性  パッチを適用したパッケージをリリースしました。
  jansson-2.7-i686-P2.txz (32bit) jansson-2.7-x86_64-P2.txz (64bit)  </description>
-    </item>
-    
-    <item>
-      <title>libxslt 1.1.29</title>
-      <link>https://www.plamolinux.org/posts/2016-06-02-libxslt-1-dot-1-29/</link>
-      <pubDate>Thu, 02 Jun 2016 12:40:57 +0900</pubDate>
-      
-      <guid>https://www.plamolinux.org/posts/2016-06-02-libxslt-1-dot-1-29/</guid>
-      <description>セキュリティホールの修正を含む libxslt 1.1.29 がリリースされています。詳しくは以下をご覧ください。
- News (xmlsoft.org) JVNDB-2015-005957 libxslt の preproc.c の xsltStylePreCompute 関数におけるサービス運用妨害 (DoS) の脆弱性  パッケージをリリースしました。
- libxslt-1.1.29-i686-P1.txz (32bit) libxslt-1.1.29-x86_64-P1.txz (64bit)  </description>
     </item>
     
   </channel>
