@@ -5,7 +5,19 @@
     <link>https://www.plamolinux.org/posts/</link>
     <description>Recent content in Posts on Plamo Linux</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 06 Apr 2022 18:00:00 +0900</lastBuildDate><atom:link href="https://www.plamolinux.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 30 Apr 2022 21:00:00 +0900</lastBuildDate><atom:link href="https://www.plamolinux.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Plamo 7.4 リリース</title>
+      <link>https://www.plamolinux.org/posts/2022-04-30-plamo-7.4-release/</link>
+      <pubDate>Sat, 30 Apr 2022 21:00:00 +0900</pubDate>
+      
+      <guid>https://www.plamolinux.org/posts/2022-04-30-plamo-7.4-release/</guid>
+      <description>&lt;p&gt;Plamo Linux 7.4 をリリースしました。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.linet.gr.jp/~kojima/PlamoWeb/ML/htdocs/202204/msg00021.html&#34;&gt;[plamo:33939] Plamo Linux 7.4 released&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
     <item>
       <title>ghostscript 9.56.1</title>
       <link>https://www.plamolinux.org/posts/2022-04-06-ghostscript-9.56.1/</link>
