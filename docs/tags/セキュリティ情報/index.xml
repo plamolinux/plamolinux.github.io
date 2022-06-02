@@ -5,7 +5,29 @@
     <link>https://www.plamolinux.org/tags/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E6%83%85%E5%A0%B1/</link>
     <description>Recent content in セキュリティ情報 on Plamo Linux</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 10 May 2022 15:42:57 +0900</lastBuildDate><atom:link href="https://www.plamolinux.org/tags/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E6%83%85%E5%A0%B1/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Jun 2022 19:00:00 +0900</lastBuildDate><atom:link href="https://www.plamolinux.org/tags/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E6%83%85%E5%A0%B1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>firefox 101.0</title>
+      <link>https://www.plamolinux.org/posts/2022-06-01-firefox-101-0/</link>
+      <pubDate>Wed, 01 Jun 2022 19:00:00 +0900</pubDate>
+      
+      <guid>https://www.plamolinux.org/posts/2022-06-01-firefox-101-0/</guid>
+      <description>firefox 101.0 がリリースされています。
+ Firefox 101.0 リリースノート Firefox セキュリティアドバイザリ  パッケージをリリースしました。nss, nspr も更新していますので同時に更新してください。
+ firefox-101.0-x86_64-B1.tzst nss-3.79-x86_64-B1.txz nspr-4.34-x86_64-B1.txz  </description>
+    </item>
+    
+    <item>
+      <title>nghttp2 1.47.0</title>
+      <link>https://www.plamolinux.org/posts/2022-05-30-nghttp2-1-dot-47-dot-0/</link>
+      <pubDate>Mon, 30 May 2022 21:00:00 +0900</pubDate>
+      
+      <guid>https://www.plamolinux.org/posts/2022-05-30-nghttp2-1-dot-47-dot-0/</guid>
+      <description>セキュリティホールの修正を含む nghttp2 1.47.0 パッケージをリリースしました。
+ nghttp2 v1.47.0  パッケージをリリースしました。
+ nghttp2-1.47.0-x86_64-B1.txz  </description>
+    </item>
+    
     <item>
       <title>vim 8.2.4929</title>
       <link>https://www.plamolinux.org/posts/2022-05-10-vim-8.2.4929/</link>
@@ -26,16 +48,6 @@
       <description>OpenSSL 1.1.1o がリリースされています。セキュリティホールのの修正を含みます。
  https://www.openssl.org/news/secadv/20220503.txt  パッケージをリリースしました。
  openssl-1.1.1o-x86_64-B1.tzst  </description>
-    </item>
-    
-    <item>
-      <title>firefox 100.0</title>
-      <link>https://www.plamolinux.org/posts/2022-05-05-firefox-100-0/</link>
-      <pubDate>Thu, 05 May 2022 19:00:00 +0900</pubDate>
-      
-      <guid>https://www.plamolinux.org/posts/2022-05-05-firefox-100-0/</guid>
-      <description>firefox 100.0 がリリースされています。
- Firefox 100.0 リリースノート Firefox セキュリティアドバイザリ  パッケージをリリースしました。 firefox-100.0-x86_64-B1.tzst  </description>
     </item>
     
     <item>
@@ -205,17 +217,6 @@
       <description>dovecot 2.3.7.2 がリリースされています。詳しくは次をご覧ください。前のパッケージ以降のセキュリティホールの修正を含みます。
  v2.3.7.2 released  パッケージをリリースしました。
  dovecot-2.3.7.2-x86_64-B1.txz  </description>
-    </item>
-    
-    <item>
-      <title>nghttp2 1.39.2</title>
-      <link>https://www.plamolinux.org/posts/2019-08-15-nghttp2-1-dot-39-dot-2/</link>
-      <pubDate>Thu, 15 Aug 2019 21:00:00 +0900</pubDate>
-      
-      <guid>https://www.plamolinux.org/posts/2019-08-15-nghttp2-1-dot-39-dot-2/</guid>
-      <description>セキュリティホールの修正を含む nghttp2 1.39.2 がリリースされています。詳しくは次をご覧ください。
- nghttp2 v1.39.2  パッケージをリリースしました。
- nghttp2-1.39.2-x86_64-B1.txz  </description>
     </item>
     
     <item>

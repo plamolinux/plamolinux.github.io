@@ -3,29 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.plamolinux.org/</loc>
-    <lastmod>2022-05-10T15:42:57+09:00</lastmod>
+    <lastmod>2022-06-01T19:00:00+09:00</lastmod>
     <priority>0</priority>
   </url><url>
+    <loc>https://www.plamolinux.org/posts/2022-06-01-firefox-101-0/</loc>
+    <lastmod>2022-06-01T19:00:00+09:00</lastmod>
+  </url><url>
     <loc>https://www.plamolinux.org/tags/plamo-7.x-%E6%83%85%E5%A0%B1/</loc>
-    <lastmod>2022-05-10T15:42:57+09:00</lastmod>
+    <lastmod>2022-06-01T19:00:00+09:00</lastmod>
   </url><url>
     <loc>https://www.plamolinux.org/posts/</loc>
-    <lastmod>2022-05-10T15:42:57+09:00</lastmod>
+    <lastmod>2022-06-01T19:00:00+09:00</lastmod>
   </url><url>
     <loc>https://www.plamolinux.org/tags/</loc>
-    <lastmod>2022-05-10T15:42:57+09:00</lastmod>
+    <lastmod>2022-06-01T19:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://www.plamolinux.org/tags/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E6%83%85%E5%A0%B1/</loc>
+    <lastmod>2022-06-01T19:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://www.plamolinux.org/posts/2022-05-30-nghttp2-1-dot-47-dot-0/</loc>
+    <lastmod>2022-05-30T21:00:00+09:00</lastmod>
   </url><url>
     <loc>https://www.plamolinux.org/posts/2022-05-10-vim-8.2.4929/</loc>
     <lastmod>2022-05-10T15:42:57+09:00</lastmod>
   </url><url>
-    <loc>https://www.plamolinux.org/tags/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E6%83%85%E5%A0%B1/</loc>
-    <lastmod>2022-05-10T15:42:57+09:00</lastmod>
-  </url><url>
     <loc>https://www.plamolinux.org/posts/2022-05-09-openssl-1.1.1o/</loc>
     <lastmod>2022-05-09T19:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://www.plamolinux.org/posts/2022-05-05-firefox-100-0/</loc>
-    <lastmod>2022-05-05T19:00:00+09:00</lastmod>
   </url><url>
     <loc>https://www.plamolinux.org/posts/2022-04-30-plamo-7.4-release/</loc>
     <lastmod>2022-04-30T21:00:00+09:00</lastmod>
@@ -83,9 +86,6 @@
   </url><url>
     <loc>https://www.plamolinux.org/posts/2019-08-29-dovecot-2-dot-3-7-2/</loc>
     <lastmod>2019-08-29T00:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://www.plamolinux.org/posts/2019-08-15-nghttp2-1-dot-39-dot-2/</loc>
-    <lastmod>2019-08-15T21:00:00+09:00</lastmod>
   </url><url>
     <loc>https://www.plamolinux.org/posts/2019-05-15-plamo-7-dot-1/</loc>
     <lastmod>2019-05-15T08:13:00+09:00</lastmod>
