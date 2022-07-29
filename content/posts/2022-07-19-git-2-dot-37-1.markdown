@@ -1,0 +1,14 @@
+---
+layout: post
+title: "git 2.37.1"
+date: 2022-07-19 19:00:00 +0900
+comments: false
+tags: ["Plamo 7.x 情報", "セキュリティ情報"]
+---
+git のセキュリティホールが発見されています。詳しくは以下をご覧ください。
+
+* [[ANNOUNCE] Git v2.37.1 and others](https://lore.kernel.org/git/xmqqv8s2fefi.fsf@gitster.g/T/#u)
+
+パッケージをリリースしました．
+
+* [git-2.37.1-x86_64-B1.tzst](https://repository.plamolinux.org/pub/linux/Plamo/Plamo-7.x/x86_64/plamo/02_devel/git-2.37.1-x86_64-B1.tzst)

@@ -3,23 +3,35 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.plamolinux.org/</loc>
-    <lastmod>2022-06-01T19:00:00+09:00</lastmod>
+    <lastmod>2022-07-28T21:00:00+09:00</lastmod>
     <priority>0</priority>
   </url><url>
-    <loc>https://www.plamolinux.org/posts/2022-06-01-firefox-101-0/</loc>
-    <lastmod>2022-06-01T19:00:00+09:00</lastmod>
-  </url><url>
     <loc>https://www.plamolinux.org/tags/plamo-7.x-%E6%83%85%E5%A0%B1/</loc>
-    <lastmod>2022-06-01T19:00:00+09:00</lastmod>
+    <lastmod>2022-07-28T21:00:00+09:00</lastmod>
   </url><url>
     <loc>https://www.plamolinux.org/posts/</loc>
-    <lastmod>2022-06-01T19:00:00+09:00</lastmod>
+    <lastmod>2022-07-28T21:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://www.plamolinux.org/posts/2022-07-28-samba-4.16.4/</loc>
+    <lastmod>2022-07-28T21:00:00+09:00</lastmod>
   </url><url>
     <loc>https://www.plamolinux.org/tags/</loc>
-    <lastmod>2022-06-01T19:00:00+09:00</lastmod>
+    <lastmod>2022-07-28T21:00:00+09:00</lastmod>
   </url><url>
     <loc>https://www.plamolinux.org/tags/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E6%83%85%E5%A0%B1/</loc>
-    <lastmod>2022-06-01T19:00:00+09:00</lastmod>
+    <lastmod>2022-07-28T21:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://www.plamolinux.org/posts/2022-07-27-firefox-103-0/</loc>
+    <lastmod>2022-07-27T19:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://www.plamolinux.org/posts/2022-07-26-dovecot-2.3.19.1/</loc>
+    <lastmod>2022-07-26T21:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://www.plamolinux.org/posts/2022-07-19-git-2-dot-37-1/</loc>
+    <lastmod>2022-07-19T19:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://www.plamolinux.org/posts/2022-07-18-xorg-server-21.1.4/</loc>
+    <lastmod>2022-07-18T21:00:00+09:00</lastmod>
   </url><url>
     <loc>https://www.plamolinux.org/posts/2022-05-30-nghttp2-1-dot-47-dot-0/</loc>
     <lastmod>2022-05-30T21:00:00+09:00</lastmod>
@@ -51,9 +63,6 @@
     <loc>https://www.plamolinux.org/posts/2022-03-16-libxslt-1.1.35/</loc>
     <lastmod>2022-03-16T19:00:00+09:00</lastmod>
   </url><url>
-    <loc>https://www.plamolinux.org/posts/2022-02-01-samba-4.15.5/</loc>
-    <lastmod>2022-02-01T21:44:50+09:00</lastmod>
-  </url><url>
     <loc>https://www.plamolinux.org/posts/2022-01-31-polkit-0-dot-120/</loc>
     <lastmod>2022-01-31T18:00:00+09:00</lastmod>
   </url><url>
@@ -84,9 +93,6 @@
     <loc>https://www.plamolinux.org/posts/2019-10-23-proftpd-1-dot-3-6b/</loc>
     <lastmod>2019-10-23T18:15:39+09:00</lastmod>
   </url><url>
-    <loc>https://www.plamolinux.org/posts/2019-08-29-dovecot-2-dot-3-7-2/</loc>
-    <lastmod>2019-08-29T00:00:00+09:00</lastmod>
-  </url><url>
     <loc>https://www.plamolinux.org/posts/2019-05-15-plamo-7-dot-1/</loc>
     <lastmod>2019-05-15T08:13:00+09:00</lastmod>
   </url><url>
@@ -105,9 +111,6 @@
     <loc>https://www.plamolinux.org/posts/2018-11-09-icu-63-dot-1/</loc>
     <lastmod>2018-11-05T17:38:25+09:00</lastmod>
   </url><url>
-    <loc>https://www.plamolinux.org/posts/2018-11-09-xorg-server-1-dot-19-dot-6/</loc>
-    <lastmod>2018-10-30T17:31:51+09:00</lastmod>
-  </url><url>
     <loc>https://www.plamolinux.org/posts/2018-09-06-wpa-supplicant-2-dot-6/</loc>
     <lastmod>2018-09-05T19:00:00+09:00</lastmod>
   </url><url>
@@ -116,9 +119,6 @@
   </url><url>
     <loc>https://www.plamolinux.org/posts/2018-06-14-gnupg-2-dot-2-8/</loc>
     <lastmod>2018-06-14T20:47:03+09:00</lastmod>
-  </url><url>
-    <loc>https://www.plamolinux.org/posts/2018-06-14-git-2-dot-17-1/</loc>
-    <lastmod>2018-06-14T15:15:00+09:00</lastmod>
   </url><url>
     <loc>https://www.plamolinux.org/posts/2018-06-14-libvpx-1-dot-7-0/</loc>
     <lastmod>2018-06-14T14:45:23+09:00</lastmod>

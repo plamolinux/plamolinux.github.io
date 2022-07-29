@@ -5,16 +5,60 @@
     <link>https://www.plamolinux.org/</link>
     <description>Recent content on Plamo Linux</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 01 Jun 2022 19:00:00 +0900</lastBuildDate><atom:link href="https://www.plamolinux.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Jul 2022 21:00:00 +0900</lastBuildDate><atom:link href="https://www.plamolinux.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>firefox 101.0</title>
-      <link>https://www.plamolinux.org/posts/2022-06-01-firefox-101-0/</link>
-      <pubDate>Wed, 01 Jun 2022 19:00:00 +0900</pubDate>
+      <title>Samba 4.16.4</title>
+      <link>https://www.plamolinux.org/posts/2022-07-28-samba-4.16.4/</link>
+      <pubDate>Thu, 28 Jul 2022 21:00:00 +0900</pubDate>
       
-      <guid>https://www.plamolinux.org/posts/2022-06-01-firefox-101-0/</guid>
-      <description>firefox 101.0 がリリースされています。
- Firefox 101.0 リリースノート Firefox セキュリティアドバイザリ  パッケージをリリースしました。nss, nspr も更新していますので同時に更新してください。
- firefox-101.0-x86_64-B1.tzst nss-3.79-x86_64-B1.txz nspr-4.34-x86_64-B1.txz  </description>
+      <guid>https://www.plamolinux.org/posts/2022-07-28-samba-4.16.4/</guid>
+      <description>Samba に脆弱性が発見されています。
+ Release Notes for Samba 4.16.4  パッケージをリリースしました。
+ samba-4.16.4-x86_64-B1.tzst  </description>
+    </item>
+    
+    <item>
+      <title>firefox 103.0</title>
+      <link>https://www.plamolinux.org/posts/2022-07-27-firefox-103-0/</link>
+      <pubDate>Wed, 27 Jul 2022 19:00:00 +0900</pubDate>
+      
+      <guid>https://www.plamolinux.org/posts/2022-07-27-firefox-103-0/</guid>
+      <description>firefox 103.0 がリリースされています。
+ Firefox 103.0 リリースノート Firefox セキュリティアドバイザリ  パッケージをリリースしました。nss, nspr も更新していますので同時に更新してください。
+ firefox-103.0-x86_64-B1.tzst nss-3.81-x86_64-B1.tzst  </description>
+    </item>
+    
+    <item>
+      <title>dovecot 2.3.19.1</title>
+      <link>https://www.plamolinux.org/posts/2022-07-26-dovecot-2.3.19.1/</link>
+      <pubDate>Tue, 26 Jul 2022 21:00:00 +0900</pubDate>
+      
+      <guid>https://www.plamolinux.org/posts/2022-07-26-dovecot-2.3.19.1/</guid>
+      <description>dovecot 2.3.19.1 がリリースされています。詳しくは次をご覧ください。前のパッケージ以降のセキュリティホールの修正を含みます。
+ v2.3.19.1 released [Dovecot-news] CVE-2022-30550: Privilege escalation possible in dovecot when similar master and non-master passdbs are used  パッケージをリリースしました。
+ dovecot-2.3.19.1-x86_64-B1.txz  </description>
+    </item>
+    
+    <item>
+      <title>git 2.37.1</title>
+      <link>https://www.plamolinux.org/posts/2022-07-19-git-2-dot-37-1/</link>
+      <pubDate>Tue, 19 Jul 2022 19:00:00 +0900</pubDate>
+      
+      <guid>https://www.plamolinux.org/posts/2022-07-19-git-2-dot-37-1/</guid>
+      <description>git のセキュリティホールが発見されています。詳しくは以下をご覧ください。
+ [ANNOUNCE] Git v2.37.1 and others  パッケージをリリースしました．
+ git-2.37.1-x86_64-B1.tzst  </description>
+    </item>
+    
+    <item>
+      <title>xorg-server 21.1.4, xwayland-22.1.3</title>
+      <link>https://www.plamolinux.org/posts/2022-07-18-xorg-server-21.1.4/</link>
+      <pubDate>Mon, 18 Jul 2022 21:00:00 +0900</pubDate>
+      
+      <guid>https://www.plamolinux.org/posts/2022-07-18-xorg-server-21.1.4/</guid>
+      <description>xorg-server, Xwayland にセキュリティホールが発見されています。
+ CVE-2022-2319 CVE-2022-2320  対策パッケージをリリースしました。
+ xorg_server-21.1.4-x86_64-B1.tzst xwayland-22.1.3-x86_64-B1.tzst  </description>
     </item>
     
     <item>
@@ -114,17 +158,6 @@
       <description>セキュリティホールの修正を含む libxslt 1.1.35 がリリースされています。
 パッケージをリリースしました。
  libxslt-1.1.35-x86_64-B1.tzst  </description>
-    </item>
-    
-    <item>
-      <title>Samba 4.15.5</title>
-      <link>https://www.plamolinux.org/posts/2022-02-01-samba-4.15.5/</link>
-      <pubDate>Tue, 01 Feb 2022 21:44:50 +0900</pubDate>
-      
-      <guid>https://www.plamolinux.org/posts/2022-02-01-samba-4.15.5/</guid>
-      <description>Samba に脆弱性が発見されています。
- Release Notes for Samba 4.15.5  パッケージをリリースしました。
- samba-4.15.5-x86_64-B1.tzst  </description>
     </item>
     
     <item>
@@ -245,17 +278,6 @@
     </item>
     
     <item>
-      <title>dovecot 2.3.7.2</title>
-      <link>https://www.plamolinux.org/posts/2019-08-29-dovecot-2-dot-3-7-2/</link>
-      <pubDate>Thu, 29 Aug 2019 00:00:00 +0900</pubDate>
-      
-      <guid>https://www.plamolinux.org/posts/2019-08-29-dovecot-2-dot-3-7-2/</guid>
-      <description>dovecot 2.3.7.2 がリリースされています。詳しくは次をご覧ください。前のパッケージ以降のセキュリティホールの修正を含みます。
- v2.3.7.2 released  パッケージをリリースしました。
- dovecot-2.3.7.2-x86_64-B1.txz  </description>
-    </item>
-    
-    <item>
       <title>Plamo 7.1 リリース</title>
       <link>https://www.plamolinux.org/posts/2019-05-15-plamo-7-dot-1/</link>
       <pubDate>Wed, 15 May 2019 08:13:00 +0900</pubDate>
@@ -311,17 +333,6 @@
     </item>
     
     <item>
-      <title>xorg-server 1.19.6</title>
-      <link>https://www.plamolinux.org/posts/2018-11-09-xorg-server-1-dot-19-dot-6/</link>
-      <pubDate>Tue, 30 Oct 2018 17:31:51 +0900</pubDate>
-      
-      <guid>https://www.plamolinux.org/posts/2018-11-09-xorg-server-1-dot-19-dot-6/</guid>
-      <description>xorg-server にセキュリティホールが発見されています。
- X.Orgの脆弱性情報(Important: CVE-2018-14665) (SIOS SECURITY BLOG)  対策パッケージをリリースしました。
- xorg_server-1.19.6-x86_64-B2.txz  </description>
-    </item>
-    
-    <item>
       <title>wpa_supplicant 2.6</title>
       <link>https://www.plamolinux.org/posts/2018-09-06-wpa-supplicant-2-dot-6/</link>
       <pubDate>Wed, 05 Sep 2018 19:00:00 +0900</pubDate>
@@ -352,17 +363,6 @@
       <description>GnuPG にセキュリティホールが発見されています。詳しくは以下をご覧ください。
  [Announce] [security fix] GnuPG 2.2.8 released (CVE-2018-12020)  パッケージをリリースしました。libgpg_error パッケージも同時に更新してください。
  libgpg_error-1.31-x86_64-B1.txz gnupg-2.2.8-x86_64-B1.txz  </description>
-    </item>
-    
-    <item>
-      <title>git 2.17.1</title>
-      <link>https://www.plamolinux.org/posts/2018-06-14-git-2-dot-17-1/</link>
-      <pubDate>Thu, 14 Jun 2018 15:15:00 +0900</pubDate>
-      
-      <guid>https://www.plamolinux.org/posts/2018-06-14-git-2-dot-17-1/</guid>
-      <description>git のセキュリティホールが発見されています。詳しくは以下をご覧ください。
- [ANNOUNCE] Git v2.17.1, v2.13.7, v2.14.4, v2.15.2 and v2.16.4  パッケージをリリースしました．
- git-2.17.1-x86_64-B1.txz  </description>
     </item>
     
     <item>
