@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "thunderbird 102.7.1"
-date: 2022-03-25 19:00:00 +0900
+date: 2023-02-02 19:00:00 +0900
 comments: false
 tags: ["Plamo 7.x 情報", "セキュリティ情報"]
 ---

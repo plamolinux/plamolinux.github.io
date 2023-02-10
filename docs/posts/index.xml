@@ -40,6 +40,17 @@
     </item>
     
     <item>
+      <title>thunderbird 102.7.1</title>
+      <link>https://www.plamolinux.org/posts/2023-02-02-thunderbird/</link>
+      <pubDate>Thu, 02 Feb 2023 19:00:00 +0900</pubDate>
+      
+      <guid>https://www.plamolinux.org/posts/2023-02-02-thunderbird/</guid>
+      <description>セキュリティホールの修正を含む Thunderbird 102.7.1 がリリースされています。詳しくは以下をご覧ください。
+ Thunderbird 102.7.1 リリースノート Thunderbird セキュリティアドバイザリ  パッケージをリリースしました。
+ thunderbird-102.7.1-x86_64-B1.tzst  </description>
+    </item>
+    
+    <item>
       <title>firefox 109.0</title>
       <link>https://www.plamolinux.org/posts/2023-01-18-firefox/</link>
       <pubDate>Wed, 18 Jan 2023 19:00:00 +0900</pubDate>
@@ -147,17 +158,6 @@
       <guid>https://www.plamolinux.org/posts/2022-04-06-ghostscript-9.56.1/</guid>
       <description>9.56.1 パッケージをリリースしました。
  ghostscript-9.56.1-x86_64-B1.txz  </description>
-    </item>
-    
-    <item>
-      <title>thunderbird 102.7.1</title>
-      <link>https://www.plamolinux.org/posts/2023-02-02-thunderbird/</link>
-      <pubDate>Fri, 25 Mar 2022 19:00:00 +0900</pubDate>
-      
-      <guid>https://www.plamolinux.org/posts/2023-02-02-thunderbird/</guid>
-      <description>セキュリティホールの修正を含む Thunderbird 102.7.1 がリリースされています。詳しくは以下をご覧ください。
- Thunderbird 102.7.1 リリースノート Thunderbird セキュリティアドバイザリ  パッケージをリリースしました。
- thunderbird-102.7.1-x86_64-B1.tzst  </description>
     </item>
     
     <item>
