@@ -5,7 +5,40 @@
     <link>https://www.plamolinux.org/tags/plamo-7.x-%E6%83%85%E5%A0%B1/</link>
     <description>Recent content in Plamo 7.x 情報 on Plamo Linux</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 28 Jul 2022 21:00:00 +0900</lastBuildDate><atom:link href="https://www.plamolinux.org/tags/plamo-7.x-%E6%83%85%E5%A0%B1/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Feb 2023 19:00:00 +0900</lastBuildDate><atom:link href="https://www.plamolinux.org/tags/plamo-7.x-%E6%83%85%E5%A0%B1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ImageMagick 6.9.12-76, 7.1.0-61</title>
+      <link>https://www.plamolinux.org/posts/2023-02-09-imagemagick/</link>
+      <pubDate>Thu, 09 Feb 2023 19:00:00 +0900</pubDate>
+      
+      <guid>https://www.plamolinux.org/posts/2023-02-09-imagemagick/</guid>
+      <description>ImageMagick にセキュリティホールが見つかっています。
+ ImageMagick: The hidden vulnerability behind your online images  対策パッケージをリリースしました。
+ imagemagick6-6.9.12_76-x86_64-B1.txz imagemagick7-7.1.0_61-x86_64-B1.tzst  </description>
+    </item>
+    
+    <item>
+      <title>OpenSSL 1.1.1t</title>
+      <link>https://www.plamolinux.org/posts/2023-02-08-openssl-1.1.1t/</link>
+      <pubDate>Wed, 08 Feb 2023 19:00:00 +0900</pubDate>
+      
+      <guid>https://www.plamolinux.org/posts/2023-02-08-openssl-1.1.1t/</guid>
+      <description>OpenSSL 1.1.1t がリリースされています。セキュリティホールのの修正を含みます。
+ https://www.openssl.org/news/secadv/20230207.txt  パッケージをリリースしました。
+ openssl-1.1.1t-x86_64-B1.tzst  </description>
+    </item>
+    
+    <item>
+      <title>apr 1.7.2, apr-util 1.6.3</title>
+      <link>https://www.plamolinux.org/posts/2023-02-06-apr/</link>
+      <pubDate>Mon, 06 Feb 2023 19:00:00 +0900</pubDate>
+      
+      <guid>https://www.plamolinux.org/posts/2023-02-06-apr/</guid>
+      <description>apr, apr-util に脆弱性が見つかっています。詳しくは次をご覧ください。
+ https://downloads.apache.org/apr/CHANGES-APR-1.7 https://downloads.apache.org/apr/CHANGES-APR-UTIL-1.6  パッケージをリリースしました。
+ apr-1.7.2-x86_64-B1.tzst apr_util-1.6.3-x86_64-B1.tzst  </description>
+    </item>
+    
     <item>
       <title>Samba 4.16.4</title>
       <link>https://www.plamolinux.org/posts/2022-07-28-samba-4.16.4/</link>
@@ -18,14 +51,14 @@
     </item>
     
     <item>
-      <title>firefox 103.0</title>
-      <link>https://www.plamolinux.org/posts/2022-07-27-firefox-103-0/</link>
+      <title>firefox 109.0</title>
+      <link>https://www.plamolinux.org/posts/2023-01-18-firefox/</link>
       <pubDate>Wed, 27 Jul 2022 19:00:00 +0900</pubDate>
       
-      <guid>https://www.plamolinux.org/posts/2022-07-27-firefox-103-0/</guid>
-      <description>firefox 103.0 がリリースされています。
- Firefox 103.0 リリースノート Firefox セキュリティアドバイザリ  パッケージをリリースしました。nss, nspr も更新していますので同時に更新してください。
- firefox-103.0-x86_64-B1.tzst nss-3.81-x86_64-B1.tzst  </description>
+      <guid>https://www.plamolinux.org/posts/2023-01-18-firefox/</guid>
+      <description>firefox 109.0 がリリースされています。
+ Firefox 109.0 リリースノート Firefox セキュリティアドバイザリ  パッケージをリリースしました。nss, nspr も更新していますので同時に更新してください。
+ firefox-109.0-x86_64-B1.tzst nss-3.87-x86_64-B1.tzst  </description>
     </item>
     
     <item>
@@ -51,14 +84,14 @@
     </item>
     
     <item>
-      <title>xorg-server 21.1.4, xwayland-22.1.3</title>
-      <link>https://www.plamolinux.org/posts/2022-07-18-xorg-server-21.1.4/</link>
+      <title>xorg-server 21.1.7, xwayland-22.1.8</title>
+      <link>https://www.plamolinux.org/posts/2023-02-08-xorg-server-21.1.7/</link>
       <pubDate>Mon, 18 Jul 2022 21:00:00 +0900</pubDate>
       
-      <guid>https://www.plamolinux.org/posts/2022-07-18-xorg-server-21.1.4/</guid>
+      <guid>https://www.plamolinux.org/posts/2023-02-08-xorg-server-21.1.7/</guid>
       <description>xorg-server, Xwayland にセキュリティホールが発見されています。
- CVE-2022-2319 CVE-2022-2320  対策パッケージをリリースしました。
- xorg_server-21.1.4-x86_64-B1.tzst xwayland-22.1.3-x86_64-B1.tzst  </description>
+対策パッケージをリリースしました。
+ xorg_server-21.1.7-x86_64-B1.tzst xwayland-22.1.8-x86_64-B1.tzst  </description>
     </item>
     
     <item>
@@ -81,17 +114,6 @@
       <description>vim に脆弱性が発見されています。
  CVE-2022-1154 CVE-2022-1160 CVE-2022-1381  上記修正を含むパッケージをリリースしました。
  vim-8.2.4929-x86_64-B1.tzst  </description>
-    </item>
-    
-    <item>
-      <title>OpenSSL 1.1.1o</title>
-      <link>https://www.plamolinux.org/posts/2022-05-09-openssl-1.1.1o/</link>
-      <pubDate>Mon, 09 May 2022 19:00:00 +0900</pubDate>
-      
-      <guid>https://www.plamolinux.org/posts/2022-05-09-openssl-1.1.1o/</guid>
-      <description>OpenSSL 1.1.1o がリリースされています。セキュリティホールのの修正を含みます。
- https://www.openssl.org/news/secadv/20220503.txt  パッケージをリリースしました。
- openssl-1.1.1o-x86_64-B1.tzst  </description>
     </item>
     
     <item>
@@ -128,14 +150,14 @@
     </item>
     
     <item>
-      <title>thunderbird 91.7.0</title>
-      <link>https://www.plamolinux.org/posts/2022-03-25-thunderbird-91.7.0/</link>
+      <title>thunderbird 102.7.1</title>
+      <link>https://www.plamolinux.org/posts/2023-02-02-thunderbird/</link>
       <pubDate>Fri, 25 Mar 2022 19:00:00 +0900</pubDate>
       
-      <guid>https://www.plamolinux.org/posts/2022-03-25-thunderbird-91.7.0/</guid>
-      <description>セキュリティホールの修正を含む Thunderbird 91.7.0 がリリースされています。詳しくは以下をご覧ください。
- Thunderbird 91.7.0 リリースノート Thunderbird セキュリティアドバイザリ  パッケージをリリースしました。
- thunderbird-91.7.0-x86_64-B1.txz  </description>
+      <guid>https://www.plamolinux.org/posts/2023-02-02-thunderbird/</guid>
+      <description>セキュリティホールの修正を含む Thunderbird 102.7.1 がリリースされています。詳しくは以下をご覧ください。
+ Thunderbird 102.7.1 リリースノート Thunderbird セキュリティアドバイザリ  パッケージをリリースしました。
+ thunderbird-102.7.1-x86_64-B1.tzst  </description>
     </item>
     
     <item>
