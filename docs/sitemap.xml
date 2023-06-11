@@ -3,19 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.plamolinux.org/</loc>
-    <lastmod>2023-02-09T19:00:00+09:00</lastmod>
+    <lastmod>2023-06-10T09:30:00+09:00</lastmod>
     <priority>0</priority>
+  </url><url>
+    <loc>https://www.plamolinux.org/posts/2023-06-10-plamo8.0-released/</loc>
+    <lastmod>2023-06-10T09:30:00+09:00</lastmod>
+  </url><url>
+    <loc>https://www.plamolinux.org/tags/plamo-8.x-%E6%83%85%E5%A0%B1/</loc>
+    <lastmod>2023-06-10T09:30:00+09:00</lastmod>
+  </url><url>
+    <loc>https://www.plamolinux.org/posts/</loc>
+    <lastmod>2023-06-10T09:30:00+09:00</lastmod>
+  </url><url>
+    <loc>https://www.plamolinux.org/tags/</loc>
+    <lastmod>2023-06-10T09:30:00+09:00</lastmod>
+  </url><url>
+    <loc>https://www.plamolinux.org/tags/%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E6%83%85%E5%A0%B1/</loc>
+    <lastmod>2023-06-10T09:30:00+09:00</lastmod>
   </url><url>
     <loc>https://www.plamolinux.org/posts/2023-02-09-imagemagick/</loc>
     <lastmod>2023-02-09T19:00:00+09:00</lastmod>
   </url><url>
     <loc>https://www.plamolinux.org/tags/plamo-7.x-%E6%83%85%E5%A0%B1/</loc>
-    <lastmod>2023-02-09T19:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://www.plamolinux.org/posts/</loc>
-    <lastmod>2023-02-09T19:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://www.plamolinux.org/tags/</loc>
     <lastmod>2023-02-09T19:00:00+09:00</lastmod>
   </url><url>
     <loc>https://www.plamolinux.org/tags/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E6%83%85%E5%A0%B1/</loc>
@@ -52,9 +61,6 @@
     <lastmod>2022-05-10T15:42:57+09:00</lastmod>
   </url><url>
     <loc>https://www.plamolinux.org/posts/2022-04-30-plamo-7.4-release/</loc>
-    <lastmod>2022-04-30T21:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://www.plamolinux.org/tags/%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E6%83%85%E5%A0%B1/</loc>
     <lastmod>2022-04-30T21:00:00+09:00</lastmod>
   </url><url>
     <loc>https://www.plamolinux.org/posts/2022-04-29-curl-7.83.0/</loc>

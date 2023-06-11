@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Plamo 8.x 情報 on Plamo Linux</title>
+    <link>https://www.plamolinux.org/tags/plamo-8.x-%E6%83%85%E5%A0%B1/</link>
+    <description>Recent content in Plamo 8.x 情報 on Plamo Linux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 10 Jun 2023 09:30:00 +0900</lastBuildDate><atom:link href="https://www.plamolinux.org/tags/plamo-8.x-%E6%83%85%E5%A0%B1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Plamo 8.0 リリース</title>
+      <link>https://www.plamolinux.org/posts/2023-06-10-plamo8.0-released/</link>
+      <pubDate>Sat, 10 Jun 2023 09:30:00 +0900</pubDate>
+      
+      <guid>https://www.plamolinux.org/posts/2023-06-10-plamo8.0-released/</guid>
+      <description>&lt;p&gt;Plamo Linux 8.0 をリリースしました。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

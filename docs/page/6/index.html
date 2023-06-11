@@ -50,7 +50,7 @@
   <meta name="twitter:image" content="https://www.plamolinux.org/images/garland_logo.jpg" />
   <meta name="twitter:card" content="summary" />
   <link href='https://www.plamolinux.org/images/garland_logo.jpg' rel='icon' type='image/x-icon'/>
-  <meta name="generator" content="Hugo 0.98.0" />
+  <meta name="generator" content="Hugo 0.111.3">
   <link rel="alternate" href="https://www.plamolinux.org/index.xml" type="application/rss+xml" title="Plamo Linux"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css" integrity="sha384-9eLZqc9ds8eNjO3TmqPeYcDj8n+Qfa4nuSiGYa6DjLNcv9BtN69ZIulL9+8CqC9Y" crossorigin="anonymous">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"><link rel="stylesheet" href="https://www.plamolinux.org/css/main.css" /><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
@@ -241,6 +241,53 @@
 
         <div class="posts-list">
           
+          
+            <article class="post-preview">
+    <a href="https://www.plamolinux.org/posts/2016-02-29-ganshiki-soush/">
+        <h2 class="post-title">玩式草子─ソフトウェアとたわむれる日々　第79回　Plamo LinuxのGPT/UEFI対応［その3］</h2>
+        
+        
+        
+    </a>
+
+    <p class="post-meta">
+        <span class="post-meta">
+  
+  
+  <i class="fas fa-calendar"></i>&nbsp;2016-02-29に投稿
+  
+  
+  
+  
+    
+      &nbsp;|&nbsp;<i class="fas fa-user"></i>&nbsp;Plamo Linux Maintainer Group
+    
+  
+  
+</span>
+
+
+    </p>
+    <div class="post-entry">
+        
+        <p><a href="http://gihyo.jp/">gihyo.jp</a>でこじまみつひろさんが連載されている[「玩式草子」](<a href="http://gihyo.jp/lifes">http://gihyo.jp/lifes</a>
+tyle/serial/01/ganshiki-soushi)に新しい記事が追加されています。</p>
+<ul>
+<li><a href="http://gihyo.jp/lifestyle/serial/01/ganshiki-soushi/0079">第79回　Plamo LinuxのGPT/UEFI対応［その3］</a></li>
+</ul>
+
+        
+    </div>
+
+    
+    <div class="blog-tags">
+        
+        <a href="https://www.plamolinux.org/tags/%E7%8E%A9%E5%BC%8F%E8%8D%89%E5%AD%90/">玩式草子</a>&nbsp;
+        
+    </div>
+    
+
+</article>
           
             <article class="post-preview">
     <a href="https://www.plamolinux.org/posts/2016-02-27-plamo-6-dot-1/">
@@ -518,12 +565,13 @@ tyle/serial/01/ganshiki-soushi)に新しい記事が追加されています。<
         
         Plamo 6.0 をリリースしました。
 以下はメーリングリストに投稿されたリリースアナウンスです。
- 2015年10月24,25日に明星大学で開催されるOSC 2015 Tokyo/Fallに出展するのに合わせて，Plamo-6.0をリリースしました．
--r--r--r-- 104 1004 3703570432 10月 21 09:17 plamo-6.0_x86_64_dvd.iso -r--r--r-- 104 1004 59 10月 21 09:17 plamo-6.0_x86_64_dvd.iso.md5sum -r--r--r-- 104 1004 3694133248 10月 21 09:18 plamo-6.0_x86_dvd.iso -r--r--r-- 104 1004 56 10月 21 09:18 plamo-6.0_x86_dvd.iso.md5sum  すでに ring.yamanashi.ac.jp にはミラーいただいているようなので適宜広まっていくかと思いますが，上記 OSC 2015 Tokyo/Fall の「Plamo Linux メンテナグループ」のブースでDVDやUSBメディアで配布する予定ですので，OSC に参加される方は，ぜひお立ち寄りください (_ _)
+2015年10月24,25日に明星大学で開催されるOSC 2015 Tokyo/Fallに出展するのに合わせて，Plamo-6.0をリリースしました．
+-r--r--r-- 104 1004 3703570432 10月 21 09:17 plamo-6.0_x86_64_dvd.iso -r--r--r-- 104 1004 59 10月 21 09:17 plamo-6.0_x86_64_dvd.iso.md5sum -r--r--r-- 104 1004 3694133248 10月 21 09:18 plamo-6.0_x86_dvd.iso -r--r--r-- 104 1004 56 10月 21 09:18 plamo-6.0_x86_dvd.iso.md5sum すでに ring.yamanashi.ac.jp にはミラーいただいているようなので適宜広まっていくかと思いますが，上記 OSC 2015 Tokyo/Fall の「Plamo Linux メンテナグループ」のブースでDVDやUSBメディアで配布する予定ですので，OSC に参加される方は，ぜひお立ち寄りください (_ _)
 # 枚数限定です :-)
 今回のウリは kernel-4.2.3 採用と GPT/UEFI 対応かな．以下はREADMEの抜粋．
- Plamo-6.0について(2015-10-18) メンテナの松木さんの旗振りで2015 OSC Tokyo/Fall に出展することになった のに合わせて，Plamo-6.0をリリースすることにしました．
-バージョン番号的には久しぶりのメジャーバージョンの更新なものの， Linux-4.x同様，機能的に大きな変更があった故のバージョンアップではなく， イベントで配布するなら「6.
+Plamo-6.0について(2015-10-18) メンテナの松木さんの旗振りで2015 OSC Tokyo/Fall に出展することになった のに合わせて，Plamo-6.0をリリースすることにしました．
+バージョン番号的には久しぶりのメジャーバージョンの更新なものの， Linux-4.x同様，機能的に大きな変更があった故のバージョンアップではなく， イベントで配布するなら「6.0」というキリのいいバージョンの方がいいだろう， 程度の動機での更新です(苦笑
+そのため，システムの基本構成は従来のPlamo-5.xと同様なものの， 以下のような新しい機能も組み込んでいます．
         <a href="https://www.plamolinux.org/posts/2015-10-22-plamo-6-dot-0/" class="post-read-more">[続きを読む]</a>
         
     </div>
@@ -673,58 +721,10 @@ tyle/serial/01/ganshiki-soushi)に新しい記事が追加されています。<
     <div class="post-entry">
         
         Plamo Linux 5.3.1 をリリースしました。
- リリースアナウンス  gihyo.jp の連載「玩式草子─ソフトウェアとたわむれる日々」で Plamo 5.3.1 の詳細がまとめられています。
- 玩式草子─ソフトウェアとたわむれる日々　第66回　Plamo-5.3.1とget_pkginfoスクリプト  メーリングリストへの投稿です。
+リリースアナウンス gihyo.jp の連載「玩式草子─ソフトウェアとたわむれる日々」で Plamo 5.3.1 の詳細がまとめられています。
+玩式草子─ソフトウェアとたわむれる日々　第66回　Plamo-5.3.1とget_pkginfoスクリプト メーリングリストへの投稿です。
 昨年末にリリースしたPlamo-5.3の改訂版となる，Plamo-5.3.1を1月末にリリー スしました． $ ls -lh plamo-5.3.1* -rw-r--r-- 1 kojima plamo 3.5G 1月 30 22:49 plamo-5.3.1_x86_64_dvd.iso -rw-r--r-- 1 kojima plamo 61 1月 30 22:49 plamo-5.3.1_x86_64_dvd.iso.md5sum -rw-r--r-- 1 kojima plamo 3.7G 1月 30 22:50 plamo-5.3.1_x86_dvd.iso -rw-r--r-- 1 kojima plamo 58 1月 30 22:50 plamo-5.3.1_x86_dvd.iso.md5sum すでに ring.yamanashi.ac.jp にはミラーいただいているものの，ringサーバ全 体に届くにはもう少し時間がかかるようです． このリリースの詳細については，gihyo.jpのサイトで公開している連載記事に まとめているので，そちらでご確認くださいませ． http://gihyo.jp/lifestyle/serial/01/ganshiki-soushi/0066 あわせて，Plamo-5.2から5.3.1への更新集(アップデータ)を， Update/5.2_5.3.1/ 以下に公開したので，Plamo-5.2をご利用の方はこちらを ご利用ください． $ ls -F Update/5.
         <a href="https://www.plamolinux.org/posts/2015-02-02-plamo-5-dot-3-1-release/" class="post-read-more">[続きを読む]</a>
-        
-    </div>
-
-    
-    <div class="blog-tags">
-        
-        <a href="https://www.plamolinux.org/tags/%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E6%83%85%E5%A0%B1/">リリース情報</a>&nbsp;
-        
-        <a href="https://www.plamolinux.org/tags/plamo-5.x-%E6%83%85%E5%A0%B1/">Plamo 5.x 情報</a>&nbsp;
-        
-    </div>
-    
-
-</article>
-          
-            <article class="post-preview">
-    <a href="https://www.plamolinux.org/posts/2014-12-31-plamo-5-dot-3-released/">
-        <h2 class="post-title">Plamo 5.3 リリース</h2>
-        
-        
-        
-    </a>
-
-    <p class="post-meta">
-        <span class="post-meta">
-  
-  
-  <i class="fas fa-calendar"></i>&nbsp;2014-12-31に投稿
-  
-  
-  
-  
-    
-      &nbsp;|&nbsp;<i class="fas fa-user"></i>&nbsp;Plamo Linux Maintainer Group
-    
-  
-  
-</span>
-
-
-    </p>
-    <div class="post-entry">
-        
-        Plamo Linux 5.3 をリリースしました。
- リリースアナウンス  gihyo.jp の連載「玩式草子─ソフトウェアとたわむれる日々」で Plamo 5.3 の特徴がまとめられています。
- 玩式草子─ソフトウェアとたわむれる日々　第65回　やっと出ましたPlamo-5.3  メーリングリストへの投稿の抜粋です。
-最低でも年に一度はリリースを，，と進めていた作業がだいたい片づいたので， 昨晩までの更新をまとめて Plamo Linux 5.3 としてリリースすることにしました． $ ls -lh plamo-5.3* -rw-r--r-- 1 kojima users 3.5G 12月 31日 01:28 plamo-5.3_x86_64_dvd.iso -rw-r--r-- 1 kojima users 59 12月 31日 01:28 plamo-5.3_x86_64_dvd.iso.md5sum -rw-r--r-- 1 kojima users 3.7G 12月 31日 01:28 plamo-5.3_x86_dvd.iso -rw-r--r-- 1 kojima users 56 12月 31日 01:28 plamo-5.3_x86_dvd.iso.md5sum DVDイメージは plamo.linet.gr.jp で公開しているものの，ここはお家サーバ で回線が細いため，すでにミラーしていただいている山梨大学の ring サーバ あたりから入手されることをお勧めします． ftp://ring.
-        <a href="https://www.plamolinux.org/posts/2014-12-31-plamo-5-dot-3-released/" class="post-read-more">[続きを読む]</a>
         
     </div>
 
@@ -813,7 +813,7 @@ tyle/serial/01/ganshiki-soushi)に新しい記事が追加されています。<
         </p>
         
         <p class="credits theme-by text-muted">
-          起動力に<a href="https://gohugo.io">Hugo v0.98.0</a> &nbsp;&bull;&nbsp; テーマに<a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a>に基づいている<a href="https://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a>
+          起動力に<a href="https://gohugo.io">Hugo v0.111.3</a> &nbsp;&bull;&nbsp; テーマに<a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a>に基づいている<a href="https://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a>
           
         </p>
       </div>
