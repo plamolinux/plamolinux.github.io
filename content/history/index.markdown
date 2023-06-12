@@ -9,6 +9,7 @@ footer: true
 
 Plamo のリリースバージョン毎に時系列で，開発の歩み及び使用している kernel のバージョンを記録しています．
 
+* [Plamo Linux 8.x シリーズ](#plamo8)
 * [Plamo Linux 7.x シリーズ](#plamo7)
 * [Plamo Linux 6.x シリーズ](#plamo6)
 * [Plamo Linux 5.x シリーズ](#plamo5)
@@ -18,6 +19,10 @@ Plamo のリリースバージョン毎に時系列で，開発の歩み及び�
 * [Plamo Linux 2.x シリーズ](#plamo2)
 * [Plamo Linux 1.x シリーズ](#plamo1)
 * [Plagia 時代](#plagia)
+
+### <a name="plamo8">Plamo Linux 8.x シリーズ</a>
+
+* 2023-06-10 : Plamo 8.0 リリース
 
 ### <a name="plamo7">Plamo Linux 7.x シリーズ</a>
 
