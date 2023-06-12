@@ -14,7 +14,10 @@
       <guid>https://www.plamolinux.org/posts/2023-06-10-plamo8.0-released/</guid>
       <description>&lt;p&gt;Plamo Linux 8.0 をリリースしました。&lt;/p&gt;
 &lt;p&gt;約 5 年ぶりのメジャーバージョンアップです。今回は、互換性維持のため先送りしていた glibc2 を 2.37に、Python も 3.11.3 に更新しました。&lt;/p&gt;
-&lt;p&gt;glibc2 の更新の結果、Plamo-8.x でビルドしたバイナリの多くは glibc-2.33 ベースの Plamo-7.x では動かなくなりますのでご注意ください。&lt;/p&gt;</description>
+&lt;p&gt;glibc2 の更新の結果、Plamo-8.x でビルドしたバイナリの多くは glibc-2.33 ベースの Plamo-7.x では動かなくなりますのでご注意ください。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.linet.gr.jp/~kojima/PlamoWeb/ML/htdocs/202306/msg00004.html&#34;&gt;[plamo:34122] Plamo-8.0 released&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     
     <item>
