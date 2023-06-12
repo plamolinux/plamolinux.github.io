@@ -20,11 +20,11 @@ Plamo のリリースバージョン毎に時系列で，開発の歩み及び�
 * [Plamo Linux 1.x シリーズ](#plamo1)
 * [Plagia 時代](#plagia)
 
-### <a name="plamo8">Plamo Linux 8.x シリーズ</a>
+### Plamo Linux 8.x シリーズ {#plamo8}
 
 * 2023-06-10 : Plamo 8.0 リリース
 
-### <a name="plamo7">Plamo Linux 7.x シリーズ</a>
+### Plamo Linux 7.x シリーズ {#plamo7}
 
 * 2018-05-19 : Plamo 7.0 beta1 リリース
 * 2018-05-31 : Plamo 7.0 beta2 リリース
@@ -34,7 +34,7 @@ Plamo のリリースバージョン毎に時系列で，開発の歩み及び�
 * 2021-05-05 : Plamo 7.3 リリース
 * 2022-04-30 : Plamo 7.4 リリース
 
-### <a name="plamo6">Plamo Linux 6.x シリーズ</a>
+### Plamo Linux 6.x シリーズ {#plamo6}
 
 * 2015-10-18 : Plamo 6.0 リリース
   * Plamo 6.0 の主な内容
@@ -58,7 +58,7 @@ Plamo のリリースバージョン毎に時系列で，開発の歩み及び�
 * 2017-02-17 : Plamo 6.2 リリース
   * Plamo 6.1 以降に更新されたパッケージに追随するためのリリース
 
-### <a name="plamo5">Plamo Linux 5.x シリーズ</a>
+### Plamo Linux 5.x シリーズ {#plamo5}
 
 Plamo64-1.0 のパッケージを更新するとともに，32bit 環境をそれに合わせる形で構築し Plamo-5.x シリーズとしてリリース．
 
@@ -98,7 +98,7 @@ Plamo64-1.0 のパッケージを更新するとともに，32bit 環境をそ�
     * kernel 3.17.6
 * 2015-05-31 : P-Plamo 5.3.1 リリース
 
-### <a name="plamo64">Plamo Linux 64 シリーズ</a>
+### Plamo Linux 64 シリーズ {#plamo64}
 
 まずは 64bit 環境で Plamo64-1.0 としてリリースし，その後 32bit 環境を更新し Plamo-5.x へ．
 
@@ -120,7 +120,7 @@ Plamo64-1.0 のパッケージを更新するとともに，32bit 環境をそ�
 * 2011-12-26 : Plamo64-RC2 リリース
 * 2011-12-31 : Plamo64-1.0 リリース ( 64 bits版のみ )
 
-### <a name="plamo4">Plamo Linux 4.x シリーズ</a>
+### Plamo Linux 4.x シリーズ {#plamo4}
 
 * 2004-01-16 : 開発バージョンタグを plamo-4.0-a1 に変更．( kernel 2.4.24 )
 * 2004-04-07 : plamo 4.0-beta1 を ftp で公開．( kernel-2.4.25-i386-P1 )
@@ -222,7 +222,7 @@ Plamo64-1.0 のパッケージを更新するとともに，32bit 環境をそ�
 * 2011-01-06 : kernel-2.6.36.2 に更新．
 * 2011-05-04 : kernel-2.6.37.4 そして kernel-2.6.38.4 に更新．
 
-### <a name="plamo3">Plamo Linux 3.x シリーズ</a>
+### Plamo Linux 3.x シリーズ {#plamo3}
 
 * 2002/03/24 : 開発は Plamo 3.0 へ branch．
 * 2002/03/26 : Plamo Linux 3.0-alpha1 ( kernel 2.4.18 ) に更新．
@@ -260,7 +260,7 @@ Plamo64-1.0 のパッケージを更新するとともに，32bit 環境をそ�
 * 2003/10/07 : Linux magazine 誌 2003 年 11 月号付録 CD-ROM に 3.3 収録．
 * Plamo Linux 4.0 に向けた開発に入る．
 
-### <a name="plamo2">Plamo Linux 2.x シリーズ</a>
+### Plamo Linux 2.x シリーズ {#plamo2}
 
 * 1999-09-19 : Plamo Linux 2.0 α ( kernel 2.2.12 ) release.
 * 1999-10-13 : Plamo Linux 2.0 α1 ( kernel 2.2.13 ) release.
@@ -286,7 +286,7 @@ Plamo64-1.0 のパッケージを更新するとともに，32bit 環境をそ�
 * 2002-03-23 : 2.2 系は Plamo 2.2.5 で Bug fix 以外開発終了．
 * 2002-05-30 : こっそりと Plamo 2.2.6 ftp release．
 
-### <a name="plamo1">Plamo Linux 1.x シリーズ</a>
+### Plamo Linux 1.x シリーズ {#plamo1}
 
 * 1998-06-11 : pre-release CD-ROM を作成.
 * 1998-06-20 : Plamo Linux 1.0 公開.
@@ -314,7 +314,7 @@ Plamo64-1.0 のパッケージを更新するとともに，32bit 環境をそ�
 * 日経WinPC 誌 1999 年 8 月号付録 CD-ROM に 1.4.4 収録．
 * 1999-11 技術評論社発行「改訂版 PC UNIX ユーザのための PostgreSQL 完全攻略ガイド」に 1.4.5 CD-ROM 収録．
 
-### <a name="plagia">Plagia 時代</a>
+### Plagia 時代 {#plagia}
 
 * 1997 夏 : インストーラの日本語化，PCMCIA 対応の作業開始
 * 1997-11-05 : plagia-alpha4 1st print ( kernel 2.0.31 ) 配布．
