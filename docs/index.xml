@@ -739,7 +739,7 @@ confirm 84682771 Anne Shirley を含む『このメーリングリストに登�
       
       <guid>https://www.plamolinux.org/download/</guid>
       <description>Plamo Linux は以下のサイトからダウンロード可能です。
-plamo.linet.gr.jp ftp （plamo.linet.gr.jp はおうちサーバで回線が遅いので以下の repository.plamolinux.org をおすすめします） repository.plamolinux.org（6.x、7.x、8.x ツリーと 8.x 最新の iso イメージが取得できます） パッケージツリー : https://repository.plamolinux.org/pub/linux/Plamo/ ISOイメージ : https://repository.plamolinux.org/isos/ Ring Server Project ftp / http （サーバーによってはミラーに失敗しているケースがあるかもしれません） ftp.ne.jp ftp / http </description>
+plamo.linet.gr.jp ftp （plamo.linet.gr.jp はおうちサーバで回線が遅いので以下の repository.plamolinux.org をおすすめします） repository.plamolinux.org（6.x、7.x、8.x ツリーと 8.x 最新の iso イメージが取得できます。6.x ツリーは x86_64 のみ） パッケージツリー : https://repository.plamolinux.org/pub/linux/Plamo/ ISOイメージ : https://repository.plamolinux.org/isos/ Ring Server Project ftp / http （サーバーによってはミラーに失敗しているケースがあるかもしれません） ftp.ne.jp ftp / http </description>
     </item>
     
     <item>
