@@ -22,6 +22,7 @@ Plamo のリリースバージョン毎に時系列で，開発の歩み及び�
 
 ### Plamo Linux 8.x シリーズ {#plamo8}
 
+* 2023-06-15 : Plamo 8.1 リリース
 * 2023-06-10 : Plamo 8.0 リリース
 
 ### Plamo Linux 7.x シリーズ {#plamo7}

@@ -5,7 +5,17 @@
     <link>https://www.plamolinux.org/posts/</link>
     <description>Recent content in Posts on Plamo Linux</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 10 Jun 2023 09:30:00 +0900</lastBuildDate><atom:link href="https://www.plamolinux.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Jun 2023 16:00:00 +0900</lastBuildDate><atom:link href="https://www.plamolinux.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Plamo 8.1 リリース</title>
+      <link>https://www.plamolinux.org/posts/2023-06-15-plamo8.1-released/</link>
+      <pubDate>Thu, 15 Jun 2023 16:00:00 +0900</pubDate>
+      
+      <guid>https://www.plamolinux.org/posts/2023-06-15-plamo8.1-released/</guid>
+      <description>Plamo 8.1 をリリースしました。8.0 リリース直後ですが、新しいハードウェアでインストーラから起動しない問題に対応しました。
+8.0 との差は、インストーラのfirmwareとlinux_firmwareパッケージの更新、その他 8.1 リリースまでに更新されたパッケージが更新されただけです。8.0 でインストールが済んでいる方は get_pkginfo コマンドでパッケージ更新するだけで 8.1 相当になりますので、再インストールは不要です。</description>
+    </item>
+    
     <item>
       <title>Plamo 8.0 リリース</title>
       <link>https://www.plamolinux.org/posts/2023-06-10-plamo8.0-released/</link>
@@ -27,8 +37,8 @@
       
       <guid>https://www.plamolinux.org/posts/2023-02-09-imagemagick/</guid>
       <description>ImageMagick にセキュリティホールが見つかっています。
-ImageMagick: The hidden vulnerability behind your online images 対策パッケージをリリースしました。
-imagemagick6-6.9.12_76-x86_64-B1.txz imagemagick7-7.1.0_61-x86_64-B1.tzst </description>
+ ImageMagick: The hidden vulnerability behind your online images  対策パッケージをリリースしました。
+ imagemagick6-6.9.12_76-x86_64-B1.txz imagemagick7-7.1.0_61-x86_64-B1.tzst  </description>
     </item>
     
     <item>
@@ -38,8 +48,8 @@ imagemagick6-6.9.12_76-x86_64-B1.txz imagemagick7-7.1.0_61-x86_64-B1.tzst </desc
       
       <guid>https://www.plamolinux.org/posts/2023-02-08-openssl-1.1.1t/</guid>
       <description>OpenSSL 1.1.1t がリリースされています。セキュリティホールのの修正を含みます。
-https://www.openssl.org/news/secadv/20230207.txt パッケージをリリースしました。
-openssl-1.1.1t-x86_64-B1.tzst </description>
+ https://www.openssl.org/news/secadv/20230207.txt  パッケージをリリースしました。
+ openssl-1.1.1t-x86_64-B1.tzst  </description>
     </item>
     
     <item>
@@ -49,8 +59,8 @@ openssl-1.1.1t-x86_64-B1.tzst </description>
       
       <guid>https://www.plamolinux.org/posts/2023-02-06-apr/</guid>
       <description>apr, apr-util に脆弱性が見つかっています。詳しくは次をご覧ください。
-https://downloads.apache.org/apr/CHANGES-APR-1.7 https://downloads.apache.org/apr/CHANGES-APR-UTIL-1.6 パッケージをリリースしました。
-apr-1.7.2-x86_64-B1.tzst apr_util-1.6.3-x86_64-B1.tzst </description>
+ https://downloads.apache.org/apr/CHANGES-APR-1.7 https://downloads.apache.org/apr/CHANGES-APR-UTIL-1.6  パッケージをリリースしました。
+ apr-1.7.2-x86_64-B1.tzst apr_util-1.6.3-x86_64-B1.tzst  </description>
     </item>
     
     <item>
@@ -60,8 +70,8 @@ apr-1.7.2-x86_64-B1.tzst apr_util-1.6.3-x86_64-B1.tzst </description>
       
       <guid>https://www.plamolinux.org/posts/2023-02-02-thunderbird/</guid>
       <description>セキュリティホールの修正を含む Thunderbird 102.7.1 がリリースされています。詳しくは以下をご覧ください。
-Thunderbird 102.7.1 リリースノート Thunderbird セキュリティアドバイザリ パッケージをリリースしました。
-thunderbird-102.7.1-x86_64-B1.tzst </description>
+ Thunderbird 102.7.1 リリースノート Thunderbird セキュリティアドバイザリ  パッケージをリリースしました。
+ thunderbird-102.7.1-x86_64-B1.tzst  </description>
     </item>
     
     <item>
@@ -71,8 +81,8 @@ thunderbird-102.7.1-x86_64-B1.tzst </description>
       
       <guid>https://www.plamolinux.org/posts/2023-01-18-firefox/</guid>
       <description>firefox 109.0 がリリースされています。
-Firefox 109.0 リリースノート Firefox セキュリティアドバイザリ パッケージをリリースしました。nss, nspr も更新していますので同時に更新してください。
-firefox-109.0-x86_64-B1.tzst nss-3.87-x86_64-B1.tzst </description>
+ Firefox 109.0 リリースノート Firefox セキュリティアドバイザリ  パッケージをリリースしました。nss, nspr も更新していますので同時に更新してください。
+ firefox-109.0-x86_64-B1.tzst nss-3.87-x86_64-B1.tzst  </description>
     </item>
     
     <item>
@@ -82,8 +92,8 @@ firefox-109.0-x86_64-B1.tzst nss-3.87-x86_64-B1.tzst </description>
       
       <guid>https://www.plamolinux.org/posts/2022-07-28-samba-4.16.4/</guid>
       <description>Samba に脆弱性が発見されています。
-Release Notes for Samba 4.16.4 パッケージをリリースしました。
-samba-4.16.4-x86_64-B1.tzst </description>
+ Release Notes for Samba 4.16.4  パッケージをリリースしました。
+ samba-4.16.4-x86_64-B1.tzst  </description>
     </item>
     
     <item>
@@ -93,8 +103,8 @@ samba-4.16.4-x86_64-B1.tzst </description>
       
       <guid>https://www.plamolinux.org/posts/2022-07-26-dovecot-2.3.19.1/</guid>
       <description>dovecot 2.3.19.1 がリリースされています。詳しくは次をご覧ください。前のパッケージ以降のセキュリティホールの修正を含みます。
-v2.3.19.1 released [Dovecot-news] CVE-2022-30550: Privilege escalation possible in dovecot when similar master and non-master passdbs are used パッケージをリリースしました。
-dovecot-2.3.19.1-x86_64-B1.txz </description>
+ v2.3.19.1 released [Dovecot-news] CVE-2022-30550: Privilege escalation possible in dovecot when similar master and non-master passdbs are used  パッケージをリリースしました。
+ dovecot-2.3.19.1-x86_64-B1.txz  </description>
     </item>
     
     <item>
@@ -104,8 +114,8 @@ dovecot-2.3.19.1-x86_64-B1.txz </description>
       
       <guid>https://www.plamolinux.org/posts/2022-07-19-git-2-dot-37-1/</guid>
       <description>git のセキュリティホールが発見されています。詳しくは以下をご覧ください。
-[ANNOUNCE] Git v2.37.1 and others パッケージをリリースしました．
-git-2.37.1-x86_64-B1.tzst </description>
+ [ANNOUNCE] Git v2.37.1 and others  パッケージをリリースしました．
+ git-2.37.1-x86_64-B1.tzst  </description>
     </item>
     
     <item>
@@ -116,7 +126,7 @@ git-2.37.1-x86_64-B1.tzst </description>
       <guid>https://www.plamolinux.org/posts/2023-02-08-xorg-server-21.1.7/</guid>
       <description>xorg-server, Xwayland にセキュリティホールが発見されています。
 対策パッケージをリリースしました。
-xorg_server-21.1.7-x86_64-B1.tzst xwayland-22.1.8-x86_64-B1.tzst </description>
+ xorg_server-21.1.7-x86_64-B1.tzst xwayland-22.1.8-x86_64-B1.tzst  </description>
     </item>
     
     <item>
@@ -126,8 +136,8 @@ xorg_server-21.1.7-x86_64-B1.tzst xwayland-22.1.8-x86_64-B1.tzst </description>
       
       <guid>https://www.plamolinux.org/posts/2022-05-30-nghttp2-1-dot-47-dot-0/</guid>
       <description>セキュリティホールの修正を含む nghttp2 1.47.0 パッケージをリリースしました。
-nghttp2 v1.47.0 パッケージをリリースしました。
-nghttp2-1.47.0-x86_64-B1.txz </description>
+ nghttp2 v1.47.0  パッケージをリリースしました。
+ nghttp2-1.47.0-x86_64-B1.txz  </description>
     </item>
     
     <item>
@@ -137,8 +147,8 @@ nghttp2-1.47.0-x86_64-B1.txz </description>
       
       <guid>https://www.plamolinux.org/posts/2022-05-10-vim-8.2.4929/</guid>
       <description>vim に脆弱性が発見されています。
-CVE-2022-1154 CVE-2022-1160 CVE-2022-1381 上記修正を含むパッケージをリリースしました。
-vim-8.2.4929-x86_64-B1.tzst </description>
+ CVE-2022-1154 CVE-2022-1160 CVE-2022-1381  上記修正を含むパッケージをリリースしました。
+ vim-8.2.4929-x86_64-B1.tzst  </description>
     </item>
     
     <item>
@@ -160,8 +170,8 @@ vim-8.2.4929-x86_64-B1.tzst </description>
       
       <guid>https://www.plamolinux.org/posts/2022-04-29-curl-7.83.0/</guid>
       <description>curl 7.83.0 がリリースされています．詳しくは以下をご覧ください．
-Changelog curl Security パッケージをリリースしました．
-curl-7.83.0-x86_64-B1.tzst </description>
+ Changelog curl Security  パッケージをリリースしました．
+ curl-7.83.0-x86_64-B1.tzst  </description>
     </item>
     
     <item>
@@ -170,8 +180,8 @@ curl-7.83.0-x86_64-B1.tzst </description>
       <pubDate>Wed, 06 Apr 2022 18:00:00 +0900</pubDate>
       
       <guid>https://www.plamolinux.org/posts/2022-04-06-ghostscript-9.56.1/</guid>
-      <description> 9.56.1 パッケージをリリースしました。
-ghostscript-9.56.1-x86_64-B1.txz </description>
+      <description>9.56.1 パッケージをリリースしました。
+ ghostscript-9.56.1-x86_64-B1.txz  </description>
     </item>
     
     <item>
@@ -181,8 +191,8 @@ ghostscript-9.56.1-x86_64-B1.txz </description>
       
       <guid>https://www.plamolinux.org/posts/2022-03-16-httpd-2.4.53/</guid>
       <description>セキュリティホールの修正を含む Apache httpd 2.4.53 がリリースされています．詳しくは以下をご覧ください．
-Apache HTTP Server 2.4.53 Released Changes with Apache 2.4.53 パッケージをリリースしました．
-httpd-2.4.53-x86_64-B1.txz </description>
+ Apache HTTP Server 2.4.53 Released Changes with Apache 2.4.53  パッケージをリリースしました．
+ httpd-2.4.53-x86_64-B1.txz  </description>
     </item>
     
     <item>
@@ -193,7 +203,7 @@ httpd-2.4.53-x86_64-B1.txz </description>
       <guid>https://www.plamolinux.org/posts/2022-03-16-libxslt-1.1.35/</guid>
       <description>セキュリティホールの修正を含む libxslt 1.1.35 がリリースされています。
 パッケージをリリースしました。
-libxslt-1.1.35-x86_64-B1.tzst </description>
+ libxslt-1.1.35-x86_64-B1.tzst  </description>
     </item>
     
     <item>
@@ -203,8 +213,8 @@ libxslt-1.1.35-x86_64-B1.tzst </description>
       
       <guid>https://www.plamolinux.org/posts/2022-01-31-polkit-0-dot-120/</guid>
       <description>polkitに脆弱性 &amp;ldquo;PwnKit&amp;rdquo; （CVE-2021-4034）が発見されています。例えば、次のような関連情報を参照ください。
-2022年2月1日　Qualys，主要Linuxディストリビューションに「Polkit」の脆弱性を警告 （gihyo.jp） 対応パッケージをリリースしました。CVE-2021-4034 に対するパッチを適用しています。
-polkit-0.120-x86_64-B1.txz </description>
+ 2022年2月1日　Qualys，主要Linuxディストリビューションに「Polkit」の脆弱性を警告 （gihyo.jp）  対応パッケージをリリースしました。CVE-2021-4034 に対するパッチを適用しています。
+ polkit-0.120-x86_64-B1.txz  </description>
     </item>
     
     <item>
@@ -230,8 +240,8 @@ polkit-0.120-x86_64-B1.txz </description>
       
       <guid>https://www.plamolinux.org/posts/2021-08-04-node-14-dot-17-4/</guid>
       <description>セキュリティホールの修正を含む node.js 14.17.4 がリリースされています。
-2021-07-29, Version 14.17.4 &amp;lsquo;Fermium&amp;rsquo; (LTS), @richardlau パッケージをリリースしました。
-node-14.17.4-x86_64-B1.txz </description>
+ 2021-07-29, Version 14.17.4 &amp;lsquo;Fermium&amp;rsquo; (LTS), @richardlau  パッケージをリリースしました。
+ node-14.17.4-x86_64-B1.txz  </description>
     </item>
     
     <item>
@@ -253,8 +263,8 @@ node-14.17.4-x86_64-B1.txz </description>
       
       <guid>https://www.plamolinux.org/posts/2020-10-23-freetype-2-dot-10-4/</guid>
       <description>セキュリティホールの修正を含む freetype 2.10.4 がリリースされています．詳しくは以下をご覧ください．
-https://www.openwall.com/lists/oss-security/2020/10/20/7 パッケージをリリースしました．
-freetype-2.10.4-x86_64-B4.txz </description>
+ https://www.openwall.com/lists/oss-security/2020/10/20/7  パッケージをリリースしました．
+ freetype-2.10.4-x86_64-B4.txz  </description>
     </item>
     
     <item>
@@ -264,8 +274,8 @@ freetype-2.10.4-x86_64-B4.txz </description>
       
       <guid>https://www.plamolinux.org/posts/2020-08-06-libx11-1-dot-6-10/</guid>
       <description>セキュリティホールの修正を含む libX11 1.6.10 がリリースされています。詳しくは以下をご覧ください。
-CVE-2020-14344 (NVD) パッケージをリリースしました。
-libX11-1.6.10-x86_64-B1.txz </description>
+ CVE-2020-14344 (NVD)  パッケージをリリースしました。
+ libX11-1.6.10-x86_64-B1.txz  </description>
     </item>
     
     <item>
@@ -275,8 +285,8 @@ libX11-1.6.10-x86_64-B1.txz </description>
       
       <guid>https://www.plamolinux.org/posts/2020-05-20-unbound-1-dot-10-dot-1/</guid>
       <description>unbound に脆弱性が見つかっています。詳しくは次のURIをご覧ください。
-CVE-2020-12662,12663 対策パッケージをリリースしました。
-unbound-1.10.1-x86_64-B1.txz </description>
+ CVE-2020-12662,12663  対策パッケージをリリースしました。
+ unbound-1.10.1-x86_64-B1.txz  </description>
     </item>
     
     <item>
@@ -298,8 +308,8 @@ unbound-1.10.1-x86_64-B1.txz </description>
       
       <guid>https://www.plamolinux.org/posts/2020-02-20-sudo-1-dot-8-31/</guid>
       <description>セキュリティホールの修正を含む sudo 1.8.31 がリリースされています。詳しくは以下をご覧ください。
-Buffer overflow when pwfeedback is set in sudoers パッケージをリリースしました。
-sudo-1.8.31-x86_64-B1.txz </description>
+ Buffer overflow when pwfeedback is set in sudoers  パッケージをリリースしました。
+ sudo-1.8.31-x86_64-B1.txz  </description>
     </item>
     
     <item>
@@ -309,8 +319,8 @@ sudo-1.8.31-x86_64-B1.txz </description>
       
       <guid>https://www.plamolinux.org/posts/2019-10-23-proftpd-1-dot-3-6b/</guid>
       <description>proftpd にセキュリティホールが発見されています。詳しくは以下をご覧ください。
-1.3.6b Release Notes パッケージをリリースしました．
-proftpd-1.3.6b-x86_64-B1.txz </description>
+ 1.3.6b Release Notes  パッケージをリリースしました．
+ proftpd-1.3.6b-x86_64-B1.txz  </description>
     </item>
     
     <item>
@@ -332,8 +342,8 @@ proftpd-1.3.6b-x86_64-B1.txz </description>
       
       <guid>https://www.plamolinux.org/posts/2019-04-12-wget-1-dot-20-3/</guid>
       <description>wget にセキュリティホールが発見されています。詳しくは以下をご覧ください。
-CVE-2019-5953 （SIOS Security Blog） パッケージをリリースしました。
-wget-1.20.3-x86_64-B1.txz （Plamo-7.x） wget-1.20.3-x86_64-P1.txz （Plamo-6.x 64bit） wget-1.20.3-i686-P1.txz （Plamo-6.x 32bit） </description>
+ CVE-2019-5953 （SIOS Security Blog）  パッケージをリリースしました。
+ wget-1.20.3-x86_64-B1.txz （Plamo-7.x） wget-1.20.3-x86_64-P1.txz （Plamo-6.x 64bit） wget-1.20.3-i686-P1.txz （Plamo-6.x 32bit）  </description>
     </item>
     
     <item>
@@ -343,8 +353,8 @@ wget-1.20.3-x86_64-B1.txz （Plamo-7.x） wget-1.20.3-x86_64-P1.txz （Plamo-6.x
       
       <guid>https://www.plamolinux.org/posts/2019-02-22-bind-9-dot-12-3-p4/</guid>
       <description>bind にセキュリティホールが発見されています．詳しくは以下をご覧ください．
-BIND 9.xの脆弱性（DNSサービスの停止）について（CVE-2018-5745） BIND 9.xの脆弱性（アクセス制限の不具合によるゾーンデータの流出）について（CVE-2019-6465） パッケージをリリースしました。なお、Plamo 6.x でリリースしていた 9.9.x は EOL ですので、現在の stable である 9.12.3-P4 でパッケージを作成しています。
-bind-9.12.3_P4-i686-P1.txz (32bit) bind-9.12.3_P4-x86_64-P1.txz (64bit) Plamo 7.0 には bind パッケージはありませんので影響ありません（一部ユーティリティコマンドのみを含む bind_tools パッケージのみ存在）</description>
+ BIND 9.xの脆弱性（DNSサービスの停止）について（CVE-2018-5745） BIND 9.xの脆弱性（アクセス制限の不具合によるゾーンデータの流出）について（CVE-2019-6465）  パッケージをリリースしました。なお、Plamo 6.x でリリースしていた 9.9.x は EOL ですので、現在の stable である 9.12.3-P4 でパッケージを作成しています。
+ bind-9.12.3_P4-i686-P1.txz (32bit) bind-9.12.3_P4-x86_64-P1.txz (64bit)  Plamo 7.0 には bind パッケージはありませんので影響ありません（一部ユーティリティコマンドのみを含む bind_tools パッケージのみ存在）</description>
     </item>
     
     <item>
@@ -354,8 +364,8 @@ bind-9.12.3_P4-i686-P1.txz (32bit) bind-9.12.3_P4-x86_64-P1.txz (64bit) Plamo 7.
       
       <guid>https://www.plamolinux.org/posts/2019-02-21-openssh-7-dot-9p1/</guid>
       <description>OpenSSH 7.9p1 がリリースされていたのでアップデートを行い、さらに CVE-2018-20685 対策のパッチを適用しました。
-release-7.9 OpenSSH(scp)の脆弱性情報(Important: CVE-2018-20685) (SIOS SECURITY BLOG) パッケージをリリースしました。
-openssh-7.9p1-x86_64-B2.txz </description>
+ release-7.9 OpenSSH(scp)の脆弱性情報(Important: CVE-2018-20685) (SIOS SECURITY BLOG)  パッケージをリリースしました。
+ openssh-7.9p1-x86_64-B2.txz  </description>
     </item>
     
     <item>
@@ -365,7 +375,7 @@ openssh-7.9p1-x86_64-B2.txz </description>
       
       <guid>https://www.plamolinux.org/posts/2018-11-09-icu-63-dot-1/</guid>
       <description>icu パッケージを更新しました。
-icu-63.1-x86_64-B1.txz 他に boost, libical, harfbuzz, js52, node, qt, thunderbird, dovecot, postfix, texlive, php パッケージを同時に更新する必要があります。</description>
+ icu-63.1-x86_64-B1.txz  他に boost, libical, harfbuzz, js52, node, qt, thunderbird, dovecot, postfix, texlive, php パッケージを同時に更新する必要があります。</description>
     </item>
     
     <item>
@@ -375,8 +385,8 @@ icu-63.1-x86_64-B1.txz 他に boost, libical, harfbuzz, js52, node, qt, thunderb
       
       <guid>https://www.plamolinux.org/posts/2018-09-06-wpa-supplicant-2-dot-6/</guid>
       <description>wpa_supplicant にセキュリティホールが見つかっています。詳しくは次をご覧ください。
-Unauthenticated EAPOL-Key decryption in wpa_supplicant (w1.fi) パッケージをリリースしました。
-wpa_supplicant-2.6-x86_64-B2.txz </description>
+ Unauthenticated EAPOL-Key decryption in wpa_supplicant (w1.fi)  パッケージをリリースしました。
+ wpa_supplicant-2.6-x86_64-B2.txz  </description>
     </item>
     
     <item>
@@ -386,8 +396,8 @@ wpa_supplicant-2.6-x86_64-B2.txz </description>
       
       <guid>https://www.plamolinux.org/posts/2018-09-03-gnutls-3-dot-6-3/</guid>
       <description>GnuTLS パッケージを 3.6.3 に更新しました。
-gnutls 3.6.3 同時に nettle の更新が必要です。
-nettle-3.4-x86_64-B1.txz gnutls-3.6.3-x86_64-B1.txz </description>
+ gnutls 3.6.3  同時に nettle の更新が必要です。
+ nettle-3.4-x86_64-B1.txz gnutls-3.6.3-x86_64-B1.txz  </description>
     </item>
     
     <item>
@@ -397,8 +407,8 @@ nettle-3.4-x86_64-B1.txz gnutls-3.6.3-x86_64-B1.txz </description>
       
       <guid>https://www.plamolinux.org/posts/2018-06-14-gnupg-2-dot-2-8/</guid>
       <description>GnuPG にセキュリティホールが発見されています。詳しくは以下をご覧ください。
-[Announce] [security fix] GnuPG 2.2.8 released (CVE-2018-12020) パッケージをリリースしました。libgpg_error パッケージも同時に更新してください。
-libgpg_error-1.31-x86_64-B1.txz gnupg-2.2.8-x86_64-B1.txz </description>
+ [Announce] [security fix] GnuPG 2.2.8 released (CVE-2018-12020)  パッケージをリリースしました。libgpg_error パッケージも同時に更新してください。
+ libgpg_error-1.31-x86_64-B1.txz gnupg-2.2.8-x86_64-B1.txz  </description>
     </item>
     
     <item>
@@ -408,7 +418,7 @@ libgpg_error-1.31-x86_64-B1.txz gnupg-2.2.8-x86_64-B1.txz </description>
       
       <guid>https://www.plamolinux.org/posts/2018-06-14-libvpx-1-dot-7-0/</guid>
       <description>libvpx パッケージを 1.7.0 に更新しました。それに伴い他のパッケージも更新しています。
-libvpx-1.7.0-x86_64-B1.txz babl-0.1.46-x86_64-B1.txz ffmpeg-3.4.2-x86_64-B4.txz gst_plugins_good-1.12.5-x86_64-B2.txz gegl-0.3.34-x86_64-B1.txz libquicktime-1.2.4-x86_64-B2.txz mplayer-20180514-x86_64-B1.txz vlc-3.0.2-x86_64-B1.txz 更新の場合は同時に更新してください。</description>
+ libvpx-1.7.0-x86_64-B1.txz babl-0.1.46-x86_64-B1.txz ffmpeg-3.4.2-x86_64-B4.txz gst_plugins_good-1.12.5-x86_64-B2.txz gegl-0.3.34-x86_64-B1.txz libquicktime-1.2.4-x86_64-B2.txz mplayer-20180514-x86_64-B1.txz vlc-3.0.2-x86_64-B1.txz  更新の場合は同時に更新してください。</description>
     </item>
     
     <item>
@@ -421,8 +431,8 @@ libvpx-1.7.0-x86_64-B1.txz babl-0.1.46-x86_64-B1.txz ffmpeg-3.4.2-x86_64-B4.txz 
 Plamo 7.0 は DVD イメージ 2 枚組です。2 枚目は texlive と contrib のみ収録ですので、使用しない方は不要です。
 -rw-rw-r-- 1 kojima plamo 2277244928 Jun 12 23:29 plamo-7.0_x86_64_01.iso -rw-rw-r-- 1 kojima plamo 58 Jun 12 23:35 plamo-7.0_x86_64_01.iso.md5sum -rw-rw-r-- 1 kojima plamo 2532751360 Jun 12 23:29 plamo-7.0_x86_64_02.iso -rw-rw-r-- 1 kojima plamo 58 Jun 12 23:35 plamo-7.0_x86_64_02.iso.md5sum ダウンロードは ダウンロード ページ記載のサイトからどうぞ。
 Plamo 7.0 に関しての詳細はこじまさんが gihyo.jp で連載中の「玩式草子─ソフトウェアとたわむれる日々」の記事をご覧ください。
-第97回　そろそろ出しますPlamo-7.0 第98回　Plamo-7.0とUTF-8 またメンテナによるメモもご参考にどうぞ。
-Plamo Linux 7.0 パッケージ作成メモ </description>
+ 第97回　そろそろ出しますPlamo-7.0 第98回　Plamo-7.0とUTF-8  またメンテナによるメモもご参考にどうぞ。
+ Plamo Linux 7.0 パッケージ作成メモ  </description>
     </item>
     
     <item>
@@ -432,7 +442,7 @@ Plamo Linux 7.0 パッケージ作成メモ </description>
       
       <guid>https://www.plamolinux.org/posts/2018-05-21-ganshiki-soushi-97/</guid>
       <description>gihyo.jpでこじまみつひろさんが連載されている「玩式草子」にリリースが近いPlamo-7.0の話題が掲載されています。
-第97回　そろそろ出しますPlamo-7.0 </description>
+ 第97回　そろそろ出しますPlamo-7.0  </description>
     </item>
     
     <item>
@@ -442,8 +452,8 @@ Plamo Linux 7.0 パッケージ作成メモ </description>
       
       <guid>https://www.plamolinux.org/posts/2019-12-12-ruby-2-dot-5-7/</guid>
       <description>セキュリティホールの修正を含む ruby 2.5.7 がリリースされています。詳しくは以下をご覧ください。
-Ruby 2.5.7 リリース パッケージをリリースしました。
-ruby-2.5.7-x86_64-B1.txz </description>
+ Ruby 2.5.7 リリース  パッケージをリリースしました。
+ ruby-2.5.7-x86_64-B1.txz  </description>
     </item>
     
     <item>
@@ -453,8 +463,8 @@ ruby-2.5.7-x86_64-B1.txz </description>
       
       <guid>https://www.plamolinux.org/posts/2017-04-13-ntp-4-dot-2-8p10/</guid>
       <description>ntp にセキュリティホールが発見されています。詳しくは以下をご覧ください。
-March 2017 ntp-4.2.8p10 NTP Security Vulnerability Announcement 対策パッケージをリリースしました。
-ntp-4.2.8p10-i686-P1.txz (32bit) ntp-4.2.8p10-x86_64-P1.txz (64bit) ntp-4.2.8p9-*-P2 パッケージより、動作に ntp ユーザ・グループが必要になりました。詳しくは Change.Log をご覧ください。</description>
+ March 2017 ntp-4.2.8p10 NTP Security Vulnerability Announcement  対策パッケージをリリースしました。
+ ntp-4.2.8p10-i686-P1.txz (32bit) ntp-4.2.8p10-x86_64-P1.txz (64bit)  ntp-4.2.8p9-*-P2 パッケージより、動作に ntp ユーザ・グループが必要になりました。詳しくは Change.Log をご覧ください。</description>
     </item>
     
     <item>
@@ -475,8 +485,8 @@ ntp-4.2.8p10-i686-P1.txz (32bit) ntp-4.2.8p10-x86_64-P1.txz (64bit) ntp-4.2.8p9-
       
       <guid>https://www.plamolinux.org/posts/2017-01-12-libpng-1-dot-6-21/</guid>
       <description>セキュリティホール修正を含む libpng 1.6.28, libpng 1.4.20 がリリースされています．詳しくは以下をご覧ください．
-libpng Home Page パッケージをリリースしました．
-libpng-1.6.28-i686-P1.txz (32bit) libpng14-1.4.20-i686-P1.txz (32bit) libpng-1.6.28-x86_64-P1.txz (64bit) libpng14-1.4.20-x86_64-P1.txz (64bit) </description>
+ libpng Home Page  パッケージをリリースしました．
+ libpng-1.6.28-i686-P1.txz (32bit) libpng14-1.4.20-i686-P1.txz (32bit) libpng-1.6.28-x86_64-P1.txz (64bit) libpng14-1.4.20-x86_64-P1.txz (64bit)  </description>
     </item>
     
     <item>
@@ -486,7 +496,7 @@ libpng-1.6.28-i686-P1.txz (32bit) libpng14-1.4.20-i686-P1.txz (32bit) libpng-1.6
       
       <guid>https://www.plamolinux.org/posts/2016-11-02-ganshiki-soush-86/</guid>
       <description>gihyo.jpでこじまみつひろさんが連載されている「玩式草子」に新しい記事が追加されてます。
-第86回　Plamo Linuxのビルドスクリプト再び 最新のビルドスクリプト作成環境についてです。</description>
+ 第86回　Plamo Linuxのビルドスクリプト再び  最新のビルドスクリプト作成環境についてです。</description>
     </item>
     
     <item>
@@ -496,8 +506,8 @@ libpng-1.6.28-i686-P1.txz (32bit) libpng14-1.4.20-i686-P1.txz (32bit) libpng-1.6
       
       <guid>https://www.plamolinux.org/posts/2016-09-12-graphicsmagick-1-dot-3-25/</guid>
       <description>GraphicsMagick パッケージを 1.3.25 に更新しました。
-[GM-announce] GraphicsMagick 1.3.25 is available パッケージは以下です。
-GraphicsMagick-1.3.25-i686-P1.txz (32bit) GraphicsMagick-1.3.25-x86_64-P1.txz (64bit) </description>
+ [GM-announce] GraphicsMagick 1.3.25 is available  パッケージは以下です。
+ GraphicsMagick-1.3.25-i686-P1.txz (32bit) GraphicsMagick-1.3.25-x86_64-P1.txz (64bit)  </description>
     </item>
     
     <item>
@@ -507,8 +517,8 @@ GraphicsMagick-1.3.25-i686-P1.txz (32bit) GraphicsMagick-1.3.25-x86_64-P1.txz (6
       
       <guid>https://www.plamolinux.org/posts/2016-08-01-libgd-2-dot-2-3/</guid>
       <description>セキュリティホールの修正を含む libgd がリリースされています。詳しくは以下をご覧ください。
-gd-2.2.3 対策パッケージをリリースしました。
-libgd2-2.2.3-i686-P1.txz (32bit) libgd2-2.2.3-x86_64-P1.txz (64bit) </description>
+ gd-2.2.3  対策パッケージをリリースしました。
+ libgd2-2.2.3-i686-P1.txz (32bit) libgd2-2.2.3-x86_64-P1.txz (64bit)  </description>
     </item>
     
     <item>
@@ -518,7 +528,7 @@ libgd2-2.2.3-i686-P1.txz (32bit) libgd2-2.2.3-x86_64-P1.txz (64bit) </descriptio
       
       <guid>https://www.plamolinux.org/posts/2016-06-27-librsvg-2-dot-40-dot-16/</guid>
       <description>セキュリティホールの修正を含む librsvg 2.40.16 のパッケージをリリースしました。
-librsvg-2.40.16-i686-P1.txz (32bit) librsvg-2.40.16-x86_64-P1.txz (64bit) </description>
+ librsvg-2.40.16-i686-P1.txz (32bit) librsvg-2.40.16-x86_64-P1.txz (64bit)  </description>
     </item>
     
     <item>
@@ -528,7 +538,7 @@ librsvg-2.40.16-i686-P1.txz (32bit) librsvg-2.40.16-x86_64-P1.txz (64bit) </desc
       
       <guid>https://www.plamolinux.org/posts/2016-06-24-libarchive-3-dot-2-1/</guid>
       <description>セキュリティホールの修正を含む libarchive 3.2.1 パッケージをリリースしました。
-libarchive-3.2.1-i686-P1.txz (32bit) libarchive-3.2.1-x86_64-P1.txz (64bit) </description>
+ libarchive-3.2.1-i686-P1.txz (32bit) libarchive-3.2.1-x86_64-P1.txz (64bit)  </description>
     </item>
     
     <item>
@@ -538,8 +548,8 @@ libarchive-3.2.1-i686-P1.txz (32bit) libarchive-3.2.1-x86_64-P1.txz (64bit) </de
       
       <guid>https://www.plamolinux.org/posts/2016-06-21-expat-2-dot-1-1/</guid>
       <description>expat にセキュリティホールが見つかっています。詳しくは以下をご覧ください。
-JVNDB-2015-003917 Google Chrome などの製品で使用される Expat の XML_GetBuffer 関数における整数オーバーフローの脆弱性 JVNDB-2016-003284 Expat の XML パーサにおけるサービス運用妨害 (DoS) の脆弱性 パッチを適用したパッケージをリリースしました。
-expat-2.1.1-i686-P2.txz (32bit) expat-2.1.1-x86_64-P2.txz (64bit) </description>
+ JVNDB-2015-003917 Google Chrome などの製品で使用される Expat の XML_GetBuffer 関数における整数オーバーフローの脆弱性 JVNDB-2016-003284 Expat の XML パーサにおけるサービス運用妨害 (DoS) の脆弱性  パッチを適用したパッケージをリリースしました。
+ expat-2.1.1-i686-P2.txz (32bit) expat-2.1.1-x86_64-P2.txz (64bit)  </description>
     </item>
     
     <item>
@@ -549,8 +559,8 @@ expat-2.1.1-i686-P2.txz (32bit) expat-2.1.1-x86_64-P2.txz (64bit) </description>
       
       <guid>https://www.plamolinux.org/posts/2016-06-24-jansson-2-dot-7/</guid>
       <description>jansson にセキュリティホールが発見されています。詳しくは以下をご覧ください。
-JVNDB-2016-002782 Jansson におけるサービス運用妨害 (DoS) の脆弱性 パッチを適用したパッケージをリリースしました。
-jansson-2.7-i686-P2.txz (32bit) jansson-2.7-x86_64-P2.txz (64bit) </description>
+ JVNDB-2016-002782 Jansson におけるサービス運用妨害 (DoS) の脆弱性  パッチを適用したパッケージをリリースしました。
+ jansson-2.7-i686-P2.txz (32bit) jansson-2.7-x86_64-P2.txz (64bit)  </description>
     </item>
     
     <item>
@@ -560,7 +570,7 @@ jansson-2.7-i686-P2.txz (32bit) jansson-2.7-x86_64-P2.txz (64bit) </description>
       
       <guid>https://www.plamolinux.org/posts/2016-04-11-ganshiki-soush-80/</guid>
       <description>gihyo.jpでこじまみつひろさんが連載されている「玩式草子」に新しい記事が追加されてます。
-第80回　Plamo-6.1 released </description>
+ 第80回　Plamo-6.1 released  </description>
     </item>
     
     <item>
@@ -570,7 +580,7 @@ jansson-2.7-i686-P2.txz (32bit) jansson-2.7-x86_64-P2.txz (64bit) </description>
       
       <guid>https://www.plamolinux.org/posts/2016-02-29-ganshiki-soush/</guid>
       <description>gihyo.jpでこじまみつひろさんが連載されている[「玩式草子」](http://gihyo.jp/lifes tyle/serial/01/ganshiki-soushi)に新しい記事が追加されています。
-第79回　Plamo LinuxのGPT/UEFI対応［その3］ </description>
+ 第79回　Plamo LinuxのGPT/UEFI対応［その3］  </description>
     </item>
     
     <item>
@@ -581,8 +591,8 @@ jansson-2.7-i686-P2.txz (32bit) jansson-2.7-x86_64-P2.txz (64bit) </description>
       <guid>https://www.plamolinux.org/posts/2016-02-27-plamo-6-dot-1/</guid>
       <description>Plamo 6.1 をリリースしました。
 以下はメーリングリストに投稿されたリリースアナウンス（抜粋）です。
-OSC 2016 Tokyo/Spring これに合わせてPlamo-6.1をリリースしました．
-$ ls -l plamo-6.1* -rw-rw-r-- 1 kojima plamo 3468689408 2月 22 09:56 plamo-6.1_x86_64_dvd.iso -rw-rw-r-- 1 kojima plamo 59 2月 24 22:23 plamo-6.1_x86_64_dvd.iso.md5sum -rw-rw-r-- 1 kojima plamo 3454009344 2月 22 09:55 plamo-6.1_x86_dvd.iso -rw-rw-r-- 1 kojima plamo 56 2月 24 22:23 plamo-6.1_x86_dvd.iso.md5sum リリースアナウンス ISO イメージのダウンロードは こちら からどうぞ。</description>
+ OSC 2016 Tokyo/Spring これに合わせてPlamo-6.1をリリースしました．
+$ ls -l plamo-6.1* -rw-rw-r-- 1 kojima plamo 3468689408 2月 22 09:56 plamo-6.1_x86_64_dvd.iso -rw-rw-r-- 1 kojima plamo 59 2月 24 22:23 plamo-6.1_x86_64_dvd.iso.md5sum -rw-rw-r-- 1 kojima plamo 3454009344 2月 22 09:55 plamo-6.1_x86_dvd.iso -rw-rw-r-- 1 kojima plamo 56 2月 24 22:23 plamo-6.1_x86_dvd.iso.md5sum    リリースアナウンス  ISO イメージのダウンロードは こちら からどうぞ。</description>
     </item>
     
     <item>
@@ -592,7 +602,7 @@ $ ls -l plamo-6.1* -rw-rw-r-- 1 kojima plamo 3468689408 2月 22 09:56 plamo-6.1_
       
       <guid>https://www.plamolinux.org/posts/2016-02-01-ganshiki-soush/</guid>
       <description>gihyo.jpでこじまみつひろさんが連載されている[「玩式草子」](http://gihyo.jp/lifes tyle/serial/01/ganshiki-soushi)に新しい記事が追加されています。
-第78回　Plamo LinuxのGPT/UEFI対応［その2］ </description>
+ 第78回　Plamo LinuxのGPT/UEFI対応［その2］  </description>
     </item>
     
     <item>
@@ -602,7 +612,7 @@ $ ls -l plamo-6.1* -rw-rw-r-- 1 kojima plamo 3468689408 2月 22 09:56 plamo-6.1_
       
       <guid>https://www.plamolinux.org/posts/2015-12-25-ganshiki-soush/</guid>
       <description>gihyo.jpでこじまみつひろさんが連載されている[「玩式草子」](http://gihyo.jp/lifes tyle/serial/01/ganshiki-soushi)に新しい記事が追加されています。
-第77回　Plamo LinuxのGPT/UEFI対応［その1］ </description>
+ 第77回　Plamo LinuxのGPT/UEFI対応［その1］  </description>
     </item>
     
     <item>
@@ -612,7 +622,7 @@ $ ls -l plamo-6.1* -rw-rw-r-- 1 kojima plamo 3468689408 2月 22 09:56 plamo-6.1_
       
       <guid>https://www.plamolinux.org/posts/2015-12-01-ganshiki-soushi/</guid>
       <description>gihyo.jpでこじまみつひろさんが連載されている「玩式草子」に、松木俊寿さんが「オープンソースカンファレンス2015 Tokyo/Fall（以下OSC）」の出展レポートを書かれています。
-第76回　Plamo Linux，OSCへ─「オープンソースカンファレンス2015 Tokyo/Fall」出展レポート </description>
+ 第76回　Plamo Linux，OSCへ─「オープンソースカンファレンス2015 Tokyo/Fall」出展レポート  </description>
     </item>
     
     <item>
@@ -622,7 +632,7 @@ $ ls -l plamo-6.1* -rw-rw-r-- 1 kojima plamo 3468689408 2月 22 09:56 plamo-6.1_
       
       <guid>https://www.plamolinux.org/posts/2015-11-04-ganshiki-soushi/</guid>
       <description>gihyo.jpでこじまみつひろさんが連載されている「玩式草子」でPlamo-6.0に関する記事が公開されています。
-玩式草子─ソフトウェアとたわむれる日々　第75回　急に出ましたPlamo-6.0 </description>
+ 玩式草子─ソフトウェアとたわむれる日々　第75回　急に出ましたPlamo-6.0  </description>
     </item>
     
     <item>
@@ -633,13 +643,12 @@ $ ls -l plamo-6.1* -rw-rw-r-- 1 kojima plamo 3468689408 2月 22 09:56 plamo-6.1_
       <guid>https://www.plamolinux.org/posts/2015-10-22-plamo-6-dot-0/</guid>
       <description>Plamo 6.0 をリリースしました。
 以下はメーリングリストに投稿されたリリースアナウンスです。
-2015年10月24,25日に明星大学で開催されるOSC 2015 Tokyo/Fallに出展するのに合わせて，Plamo-6.0をリリースしました．
--r--r--r-- 104 1004 3703570432 10月 21 09:17 plamo-6.0_x86_64_dvd.iso -r--r--r-- 104 1004 59 10月 21 09:17 plamo-6.0_x86_64_dvd.iso.md5sum -r--r--r-- 104 1004 3694133248 10月 21 09:18 plamo-6.0_x86_dvd.iso -r--r--r-- 104 1004 56 10月 21 09:18 plamo-6.0_x86_dvd.iso.md5sum すでに ring.yamanashi.ac.jp にはミラーいただいているようなので適宜広まっていくかと思いますが，上記 OSC 2015 Tokyo/Fall の「Plamo Linux メンテナグループ」のブースでDVDやUSBメディアで配布する予定ですので，OSC に参加される方は，ぜひお立ち寄りください (_ _)
+ 2015年10月24,25日に明星大学で開催されるOSC 2015 Tokyo/Fallに出展するのに合わせて，Plamo-6.0をリリースしました．
+-r--r--r-- 104 1004 3703570432 10月 21 09:17 plamo-6.0_x86_64_dvd.iso -r--r--r-- 104 1004 59 10月 21 09:17 plamo-6.0_x86_64_dvd.iso.md5sum -r--r--r-- 104 1004 3694133248 10月 21 09:18 plamo-6.0_x86_dvd.iso -r--r--r-- 104 1004 56 10月 21 09:18 plamo-6.0_x86_dvd.iso.md5sum  すでに ring.yamanashi.ac.jp にはミラーいただいているようなので適宜広まっていくかと思いますが，上記 OSC 2015 Tokyo/Fall の「Plamo Linux メンテナグループ」のブースでDVDやUSBメディアで配布する予定ですので，OSC に参加される方は，ぜひお立ち寄りください (_ _)
 # 枚数限定です :-)
 今回のウリは kernel-4.2.3 採用と GPT/UEFI 対応かな．以下はREADMEの抜粋．
-Plamo-6.0について(2015-10-18) メンテナの松木さんの旗振りで2015 OSC Tokyo/Fall に出展することになった のに合わせて，Plamo-6.0をリリースすることにしました．
-バージョン番号的には久しぶりのメジャーバージョンの更新なものの， Linux-4.x同様，機能的に大きな変更があった故のバージョンアップではなく， イベントで配布するなら「6.0」というキリのいいバージョンの方がいいだろう， 程度の動機での更新です(苦笑
-そのため，システムの基本構成は従来のPlamo-5.xと同様なものの， 以下のような新しい機能も組み込んでいます．</description>
+ Plamo-6.0について(2015-10-18) メンテナの松木さんの旗振りで2015 OSC Tokyo/Fall に出展することになった のに合わせて，Plamo-6.0をリリースすることにしました．
+バージョン番号的には久しぶりのメジャーバージョンの更新なものの， Linux-4.x同様，機能的に大きな変更があった故のバージョンアップではなく， イベントで配布するなら「6.</description>
     </item>
     
     <item>
@@ -649,7 +658,7 @@ Plamo-6.0について(2015-10-18) メンテナの松木さんの旗振りで2015
       
       <guid>https://www.plamolinux.org/posts/2015-09-02-ganshiki-soushi/</guid>
       <description>gihyo.jpでこじまみつひろさんが連載されている「玩式草子」に新しい記事が追加されています。
-第73回　「お講」文書をディジタル化する［その1］ </description>
+ 第73回　「お講」文書をディジタル化する［その1］  </description>
     </item>
     
     <item>
@@ -659,7 +668,7 @@ Plamo-6.0について(2015-10-18) メンテナの松木さんの旗振りで2015
       
       <guid>https://www.plamolinux.org/posts/2015-06-01-p-plamo-5-dot-3-1/</guid>
       <description>P-Plamo 5.3.1 をリリースしました。以下から入手可能です。
-http://www.ring.gr.jp/pub/linux/Plamo/ P-Plamo-5.3.1_x86_dvd.iso P-Plamo-5.3.1_x86_dvd.iso.md5sum P-Plamo-5.3.1_x86_64_dvd.iso P-Plamo-5.3.1_x86_64_dvd.iso.md5sum P-Plamo-5.3.1_mini_cd.iso P-Plamo-5.3.1_mini_cd.iso.md5sum メーリングリストに告知と簡単な使い方が投稿されていますのでご覧ください。 </description>
+ http://www.ring.gr.jp/pub/linux/Plamo/  P-Plamo-5.3.1_x86_dvd.iso P-Plamo-5.3.1_x86_dvd.iso.md5sum P-Plamo-5.3.1_x86_64_dvd.iso P-Plamo-5.3.1_x86_64_dvd.iso.md5sum P-Plamo-5.3.1_mini_cd.iso P-Plamo-5.3.1_mini_cd.iso.md5sum   メーリングリストに告知と簡単な使い方が投稿されていますのでご覧ください。  </description>
     </item>
     
     <item>
@@ -669,8 +678,8 @@ http://www.ring.gr.jp/pub/linux/Plamo/ P-Plamo-5.3.1_x86_dvd.iso P-Plamo-5.3.1_x
       
       <guid>https://www.plamolinux.org/posts/2015-02-02-plamo-5-dot-3-1-release/</guid>
       <description>Plamo Linux 5.3.1 をリリースしました。
-リリースアナウンス gihyo.jp の連載「玩式草子─ソフトウェアとたわむれる日々」で Plamo 5.3.1 の詳細がまとめられています。
-玩式草子─ソフトウェアとたわむれる日々　第66回　Plamo-5.3.1とget_pkginfoスクリプト メーリングリストへの投稿です。
+ リリースアナウンス  gihyo.jp の連載「玩式草子─ソフトウェアとたわむれる日々」で Plamo 5.3.1 の詳細がまとめられています。
+ 玩式草子─ソフトウェアとたわむれる日々　第66回　Plamo-5.3.1とget_pkginfoスクリプト  メーリングリストへの投稿です。
 昨年末にリリースしたPlamo-5.3の改訂版となる，Plamo-5.3.1を1月末にリリー スしました． $ ls -lh plamo-5.3.1* -rw-r--r-- 1 kojima plamo 3.5G 1月 30 22:49 plamo-5.3.1_x86_64_dvd.iso -rw-r--r-- 1 kojima plamo 61 1月 30 22:49 plamo-5.3.1_x86_64_dvd.iso.md5sum -rw-r--r-- 1 kojima plamo 3.7G 1月 30 22:50 plamo-5.3.1_x86_dvd.iso -rw-r--r-- 1 kojima plamo 58 1月 30 22:50 plamo-5.3.1_x86_dvd.iso.md5sum すでに ring.yamanashi.ac.jp にはミラーいただいているものの，ringサーバ全 体に届くにはもう少し時間がかかるようです． このリリースの詳細については，gihyo.jpのサイトで公開している連載記事に まとめているので，そちらでご確認くださいませ． http://gihyo.jp/lifestyle/serial/01/ganshiki-soushi/0066 あわせて，Plamo-5.2から5.3.1への更新集(アップデータ)を， Update/5.2_5.3.1/ 以下に公開したので，Plamo-5.2をご利用の方はこちらを ご利用ください． $ ls -F Update/5.</description>
     </item>
     
@@ -681,9 +690,9 @@ http://www.ring.gr.jp/pub/linux/Plamo/ P-Plamo-5.3.1_x86_dvd.iso P-Plamo-5.3.1_x
       
       <guid>https://www.plamolinux.org/posts/2014-12-31-plamo-5-dot-3-released/</guid>
       <description>Plamo Linux 5.3 をリリースしました。
-リリースアナウンス gihyo.jp の連載「玩式草子─ソフトウェアとたわむれる日々」で Plamo 5.3 の特徴がまとめられています。
-玩式草子─ソフトウェアとたわむれる日々　第65回　やっと出ましたPlamo-5.3 メーリングリストへの投稿の抜粋です。
-最低でも年に一度はリリースを，，と進めていた作業がだいたい片づいたので， 昨晩までの更新をまとめて Plamo Linux 5.3 としてリリースすることにしました． $ ls -lh plamo-5.3* -rw-r--r-- 1 kojima users 3.5G 12月 31日 01:28 plamo-5.3_x86_64_dvd.iso -rw-r--r-- 1 kojima users 59 12月 31日 01:28 plamo-5.3_x86_64_dvd.iso.md5sum -rw-r--r-- 1 kojima users 3.7G 12月 31日 01:28 plamo-5.3_x86_dvd.iso -rw-r--r-- 1 kojima users 56 12月 31日 01:28 plamo-5.3_x86_dvd.iso.md5sum DVDイメージは plamo.linet.gr.jp で公開しているものの，ここはお家サーバ で回線が細いため，すでにミラーしていただいている山梨大学の ring サーバ あたりから入手されることをお勧めします． ftp://ring.yamanashi.ac.jp/pub/linux/Plamo/ 以下，DVDに置いたREADME.EUCからの抜粋 ---------------------------------------- ○Plamo-5.</description>
+ リリースアナウンス  gihyo.jp の連載「玩式草子─ソフトウェアとたわむれる日々」で Plamo 5.3 の特徴がまとめられています。
+ 玩式草子─ソフトウェアとたわむれる日々　第65回　やっと出ましたPlamo-5.3  メーリングリストへの投稿の抜粋です。
+最低でも年に一度はリリースを，，と進めていた作業がだいたい片づいたので， 昨晩までの更新をまとめて Plamo Linux 5.3 としてリリースすることにしました． $ ls -lh plamo-5.3* -rw-r--r-- 1 kojima users 3.5G 12月 31日 01:28 plamo-5.3_x86_64_dvd.iso -rw-r--r-- 1 kojima users 59 12月 31日 01:28 plamo-5.3_x86_64_dvd.iso.md5sum -rw-r--r-- 1 kojima users 3.7G 12月 31日 01:28 plamo-5.3_x86_dvd.iso -rw-r--r-- 1 kojima users 56 12月 31日 01:28 plamo-5.3_x86_dvd.iso.md5sum DVDイメージは plamo.linet.gr.jp で公開しているものの，ここはお家サーバ で回線が細いため，すでにミラーしていただいている山梨大学の ring サーバ あたりから入手されることをお勧めします． ftp://ring.</description>
     </item>
     
     <item>
@@ -693,7 +702,7 @@ http://www.ring.gr.jp/pub/linux/Plamo/ P-Plamo-5.3.1_x86_dvd.iso P-Plamo-5.3.1_x
       
       <guid>https://www.plamolinux.org/posts/2014-01-18-p-plamo-5-dot-2/</guid>
       <description>P-Plamo 5.2 をリリースしました．以下から入手可能です．
-ftp://ftp.ne.jp/pub/Linux/distributions/plamolinux P-Plamo-5.2_x86_dvd.iso P-Plamo-5.2_x86_dvd.iso.md5sum P-Plamo-5.2_x86_64_dvd.iso P-Plamo-5.2_x86_64_dvd.iso.md5sum P-Plamo-5.2_mini_cd.iso P-Plamo-5.2_mini_cd.iso.md5sum メーリングリストでの告知 </description>
+ ftp://ftp.ne.jp/pub/Linux/distributions/plamolinux  P-Plamo-5.2_x86_dvd.iso P-Plamo-5.2_x86_dvd.iso.md5sum P-Plamo-5.2_x86_64_dvd.iso P-Plamo-5.2_x86_64_dvd.iso.md5sum P-Plamo-5.2_mini_cd.iso P-Plamo-5.2_mini_cd.iso.md5sum   メーリングリストでの告知  </description>
     </item>
     
     <item>
@@ -704,11 +713,12 @@ ftp://ftp.ne.jp/pub/Linux/distributions/plamolinux P-Plamo-5.2_x86_dvd.iso P-Pla
       <guid>https://www.plamolinux.org/posts/2013-12-29-plamo5-dot-2released/</guid>
       <description>Plamo-5.2 をリリースしました．
 Plamo-5.2 の特徴は以下の技術評論社の連載記事にまとまっていますのでご覧ください．
-玩式草子─ソフトウェアとたわむれる日々 第53回　近日公開 Plamo-5.2 他に，メンテナであるこじまさんのブログの 12 月あたりに色々と関連するメモがあります．
-http://plamo.linet.gr.jp/wiki/index.php?diary%2FKojima DVD イメージは以下からダウンロードできます．
-ftp://ftp.ne.jp/pub/Linux/distributions/plamolinux/plamo-5.2_x86_64_dvd.iso (64bit)
-ftp://ftp.ne.jp/pub/Linux/distributions/plamolinux/plamo-5.2_x86_dvd.iso (32bit)
-アナウンスへのリンク</description>
+ 玩式草子─ソフトウェアとたわむれる日々 第53回　近日公開 Plamo-5.2  他に，メンテナであるこじまさんのブログの 12 月あたりに色々と関連するメモがあります．
+ http://plamo.linet.gr.jp/wiki/index.php?diary%2FKojima  DVD イメージは以下からダウンロードできます．
+  ftp://ftp.ne.jp/pub/Linux/distributions/plamolinux/plamo-5.2_x86_64_dvd.iso (64bit)
+  ftp://ftp.ne.jp/pub/Linux/distributions/plamolinux/plamo-5.2_x86_dvd.iso (32bit)
+  アナウンスへのリンク
+  </description>
     </item>
     
   </channel>
