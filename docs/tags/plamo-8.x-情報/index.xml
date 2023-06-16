@@ -5,7 +5,17 @@
     <link>https://www.plamolinux.org/tags/plamo-8.x-%E6%83%85%E5%A0%B1/</link>
     <description>Recent content in Plamo 8.x 情報 on Plamo Linux</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 10 Jun 2023 09:30:00 +0900</lastBuildDate><atom:link href="https://www.plamolinux.org/tags/plamo-8.x-%E6%83%85%E5%A0%B1/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Jun 2023 16:00:00 +0900</lastBuildDate><atom:link href="https://www.plamolinux.org/tags/plamo-8.x-%E6%83%85%E5%A0%B1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Plamo 8.1 リリース</title>
+      <link>https://www.plamolinux.org/posts/2023-06-15-plamo8.1-released/</link>
+      <pubDate>Thu, 15 Jun 2023 16:00:00 +0900</pubDate>
+      
+      <guid>https://www.plamolinux.org/posts/2023-06-15-plamo8.1-released/</guid>
+      <description>Plamo 8.1 をリリースしました。8.0 リリース直後ですが、新しいハードウェアでインストーラから起動しない問題に対応しました。
+8.0 との差は、インストーラのfirmwareとlinux_firmwareパッケージの更新、その他 8.1 リリースまでに更新されたパッケージが更新されただけです。8.0 でインストールが済んでいる方は get_pkginfo コマンドでパッケージ更新するだけで 8.1 相当になりますので、再インストールは不要です。</description>
+    </item>
+    
     <item>
       <title>Plamo 8.0 リリース</title>
       <link>https://www.plamolinux.org/posts/2023-06-10-plamo8.0-released/</link>
