@@ -2,49 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Plamo 5.x 情報 on Plamo Linux</title>
-    <link>https://www.plamolinux.org/tags/plamo-5.x-%E6%83%85%E5%A0%B1/</link>
+    <link>http://localhost:1313/tags/plamo-5.x-%E6%83%85%E5%A0%B1/</link>
     <description>Recent content in Plamo 5.x 情報 on Plamo Linux</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 02 Feb 2015 15:42:31 +0900</lastBuildDate><atom:link href="https://www.plamolinux.org/tags/plamo-5.x-%E6%83%85%E5%A0%B1/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <lastBuildDate>Mon, 02 Feb 2015 15:42:31 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/plamo-5.x-%E6%83%85%E5%A0%B1/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Plamo 5.3.1 リリース</title>
-      <link>https://www.plamolinux.org/posts/2015-02-02-plamo-5-dot-3-1-release/</link>
+      <link>http://localhost:1313/posts/2015-02-02-plamo-5-dot-3-1-release/</link>
       <pubDate>Mon, 02 Feb 2015 15:42:31 +0900</pubDate>
-      
-      <guid>https://www.plamolinux.org/posts/2015-02-02-plamo-5-dot-3-1-release/</guid>
-      <description>Plamo Linux 5.3.1 をリリースしました。
- リリースアナウンス  gihyo.jp の連載「玩式草子─ソフトウェアとたわむれる日々」で Plamo 5.3.1 の詳細がまとめられています。
- 玩式草子─ソフトウェアとたわむれる日々　第66回　Plamo-5.3.1とget_pkginfoスクリプト  メーリングリストへの投稿です。
-昨年末にリリースしたPlamo-5.3の改訂版となる，Plamo-5.3.1を1月末にリリー スしました． $ ls -lh plamo-5.3.1* -rw-r--r-- 1 kojima plamo 3.5G 1月 30 22:49 plamo-5.3.1_x86_64_dvd.iso -rw-r--r-- 1 kojima plamo 61 1月 30 22:49 plamo-5.3.1_x86_64_dvd.iso.md5sum -rw-r--r-- 1 kojima plamo 3.7G 1月 30 22:50 plamo-5.3.1_x86_dvd.iso -rw-r--r-- 1 kojima plamo 58 1月 30 22:50 plamo-5.3.1_x86_dvd.iso.md5sum すでに ring.yamanashi.ac.jp にはミラーいただいているものの，ringサーバ全 体に届くにはもう少し時間がかかるようです． このリリースの詳細については，gihyo.jpのサイトで公開している連載記事に まとめているので，そちらでご確認くださいませ． http://gihyo.jp/lifestyle/serial/01/ganshiki-soushi/0066 あわせて，Plamo-5.2から5.3.1への更新集(アップデータ)を， Update/5.2_5.3.1/ 以下に公開したので，Plamo-5.2をご利用の方はこちらを ご利用ください． $ ls -F Update/5.</description>
+      <guid>http://localhost:1313/posts/2015-02-02-plamo-5-dot-3-1-release/</guid>
+      <description>Plamo Linux 5.3.1 をリリースしました。&#xA;リリースアナウンス gihyo.jp の連載「玩式草子─ソフトウェアとたわむれる日々」で Plamo 5.3.1 の詳細がまとめられています。&#xA;玩式草子─ソフトウェアとたわむれる日々　第66回　Plamo-5.3.1とget_pkginfoスクリプト メーリングリストへの投稿です。&#xA;昨年末にリリースしたPlamo-5.3の改訂版となる，Plamo-5.3.1を1月末にリリー スしました． $ ls -lh plamo-5.3.1* -rw-r--r-- 1 kojima plamo 3.5G 1月 30 22:49 plamo-5.3.1_x86_64_dvd.iso -rw-r--r-- 1 kojima plamo 61 1月 30 22:49 plamo-5.3.1_x86_64_dvd.iso.md5sum -rw-r--r-- 1 kojima plamo 3.7G 1月 30 22:50 plamo-5.3.1_x86_dvd.iso -rw-r--r-- 1 kojima plamo 58 1月 30 22:50 plamo-5.3.1_x86_dvd.iso.md5sum すでに ring.yamanashi.ac.jp にはミラーいただいているものの，ringサーバ全 体に届くにはもう少し時間がかかるようです． このリリースの詳細については，gihyo.jpのサイトで公開している連載記事に まとめているので，そちらでご確認くださいませ． http://gihyo.jp/lifestyle/serial/01/ganshiki-soushi/0066 あわせて，Plamo-5.2から5.3.1への更新集(アップデータ)を， Update/5.2_5.3.1/ 以下に公開したので，Plamo-5.2をご利用の方はこちらを ご利用ください． $ ls -F Update/5.</description>
     </item>
-    
     <item>
       <title>Plamo 5.3 リリース</title>
-      <link>https://www.plamolinux.org/posts/2014-12-31-plamo-5-dot-3-released/</link>
+      <link>http://localhost:1313/posts/2014-12-31-plamo-5-dot-3-released/</link>
       <pubDate>Wed, 31 Dec 2014 21:36:33 +0900</pubDate>
-      
-      <guid>https://www.plamolinux.org/posts/2014-12-31-plamo-5-dot-3-released/</guid>
-      <description>Plamo Linux 5.3 をリリースしました。
- リリースアナウンス  gihyo.jp の連載「玩式草子─ソフトウェアとたわむれる日々」で Plamo 5.3 の特徴がまとめられています。
- 玩式草子─ソフトウェアとたわむれる日々　第65回　やっと出ましたPlamo-5.3  メーリングリストへの投稿の抜粋です。
-最低でも年に一度はリリースを，，と進めていた作業がだいたい片づいたので， 昨晩までの更新をまとめて Plamo Linux 5.3 としてリリースすることにしました． $ ls -lh plamo-5.3* -rw-r--r-- 1 kojima users 3.5G 12月 31日 01:28 plamo-5.3_x86_64_dvd.iso -rw-r--r-- 1 kojima users 59 12月 31日 01:28 plamo-5.3_x86_64_dvd.iso.md5sum -rw-r--r-- 1 kojima users 3.7G 12月 31日 01:28 plamo-5.3_x86_dvd.iso -rw-r--r-- 1 kojima users 56 12月 31日 01:28 plamo-5.3_x86_dvd.iso.md5sum DVDイメージは plamo.linet.gr.jp で公開しているものの，ここはお家サーバ で回線が細いため，すでにミラーしていただいている山梨大学の ring サーバ あたりから入手されることをお勧めします． ftp://ring.</description>
+      <guid>http://localhost:1313/posts/2014-12-31-plamo-5-dot-3-released/</guid>
+      <description>Plamo Linux 5.3 をリリースしました。&#xA;リリースアナウンス gihyo.jp の連載「玩式草子─ソフトウェアとたわむれる日々」で Plamo 5.3 の特徴がまとめられています。&#xA;玩式草子─ソフトウェアとたわむれる日々　第65回　やっと出ましたPlamo-5.3 メーリングリストへの投稿の抜粋です。&#xA;最低でも年に一度はリリースを，，と進めていた作業がだいたい片づいたので， 昨晩までの更新をまとめて Plamo Linux 5.3 としてリリースすることにしました． $ ls -lh plamo-5.3* -rw-r--r-- 1 kojima users 3.5G 12月 31日 01:28 plamo-5.3_x86_64_dvd.iso -rw-r--r-- 1 kojima users 59 12月 31日 01:28 plamo-5.3_x86_64_dvd.iso.md5sum -rw-r--r-- 1 kojima users 3.7G 12月 31日 01:28 plamo-5.3_x86_dvd.iso -rw-r--r-- 1 kojima users 56 12月 31日 01:28 plamo-5.3_x86_dvd.iso.md5sum DVDイメージは plamo.linet.gr.jp で公開しているものの，ここはお家サーバ で回線が細いため，すでにミラーしていただいている山梨大学の ring サーバ あたりから入手されることをお勧めします． ftp://ring.yamanashi.ac.jp/pub/linux/Plamo/ 以下，DVDに置いたREADME.EUCからの抜粋 ---------------------------------------- ○Plamo-5.</description>
     </item>
-    
     <item>
       <title>Plamo 5.2 リリース</title>
-      <link>https://www.plamolinux.org/posts/2013-12-29-plamo5-dot-2released/</link>
+      <link>http://localhost:1313/posts/2013-12-29-plamo5-dot-2released/</link>
       <pubDate>Sun, 29 Dec 2013 12:36:02 +0900</pubDate>
-      
-      <guid>https://www.plamolinux.org/posts/2013-12-29-plamo5-dot-2released/</guid>
-      <description>Plamo-5.2 をリリースしました．
-Plamo-5.2 の特徴は以下の技術評論社の連載記事にまとまっていますのでご覧ください．
- 玩式草子─ソフトウェアとたわむれる日々 第53回　近日公開 Plamo-5.2  他に，メンテナであるこじまさんのブログの 12 月あたりに色々と関連するメモがあります．
- http://plamo.linet.gr.jp/wiki/index.php?diary%2FKojima  DVD イメージは以下からダウンロードできます．
-  ftp://ftp.ne.jp/pub/Linux/distributions/plamolinux/plamo-5.2_x86_64_dvd.iso (64bit)
-  ftp://ftp.ne.jp/pub/Linux/distributions/plamolinux/plamo-5.2_x86_dvd.iso (32bit)
-  アナウンスへのリンク
-  </description>
+      <guid>http://localhost:1313/posts/2013-12-29-plamo5-dot-2released/</guid>
+      <description>Plamo-5.2 をリリースしました．&#xA;Plamo-5.2 の特徴は以下の技術評論社の連載記事にまとまっていますのでご覧ください．&#xA;玩式草子─ソフトウェアとたわむれる日々 第53回　近日公開 Plamo-5.2 他に，メンテナであるこじまさんのブログの 12 月あたりに色々と関連するメモがあります．&#xA;http://plamo.linet.gr.jp/wiki/index.php?diary%2FKojima DVD イメージは以下からダウンロードできます．&#xA;ftp://ftp.ne.jp/pub/Linux/distributions/plamolinux/plamo-5.2_x86_64_dvd.iso (64bit)&#xA;ftp://ftp.ne.jp/pub/Linux/distributions/plamolinux/plamo-5.2_x86_dvd.iso (32bit)&#xA;アナウンスへのリンク</description>
     </item>
-    
   </channel>
 </rss>
