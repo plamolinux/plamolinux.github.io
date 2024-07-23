@@ -4,6 +4,8 @@
     <title>Categories on Plamo Linux</title>
     <link>https://www.plamolinux.org/categories/</link>
     <description>Recent content in Categories on Plamo Linux</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://www.plamolinux.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <atom:link href="https://www.plamolinux.org/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
