@@ -5,14 +5,15 @@
     <link>https://www.plamolinux.org/</link>
     <description>Recent content on Plamo Linux</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 24 Jul 2024 00:58:55 +0900</lastBuildDate><atom:link href="https://www.plamolinux.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 26 Jul 2024 18:00:00 +0900</lastBuildDate><atom:link href="https://www.plamolinux.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>メインリポジトリとメーリングリストサーバー障害のお知らせ（7/25更新）</title>
+      <title>メインリポジトリとメーリングリストサーバー復旧のお知らせ（7/26更新）</title>
       <link>https://www.plamolinux.org/posts/2024-07-24-ml-trouble/</link>
-      <pubDate>Wed, 24 Jul 2024 00:58:55 +0900</pubDate>
+      <pubDate>Fri, 26 Jul 2024 18:00:00 +0900</pubDate>
       
       <guid>https://www.plamolinux.org/posts/2024-07-24-ml-trouble/</guid>
-      <description>（2024-07-25更新）
+      <description>（2024-07-26更新） メーリングリストサーバー、リポジトリサーバーともに復旧しました。パッケージ更新も再開しています。
+ （2024-07-25更新）
 メーリングリストサーバーは復旧しました。メインのリポジトリサーバーについては、引き続き名前解決ができませんので、パッケージの更新には影響が出ている状態です。
  （2024-07-24更新）
 現在、plamoメーリングリストのサーバーと、Plamo Linux関係の名前解決を請け負っているサーバーに障害が発生しており、メーリングリストの配送と、メインのリポジトリサーバーの名前解決に問題が発生しており、パッケージ更新にも影響が出ています。
