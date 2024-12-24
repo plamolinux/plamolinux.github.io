@@ -4,4 +4,4 @@ Plamo Linux は [Slackware](http://www.slackware.com/) と [LFS](https://www.lin
 
 不具合報告やユーザからの情報のまとめなど、公式ページを補足し、Plamoを「作る人」と「使う人」の橋渡しをする場を提供する [PlamoLinux Wiki](http://plamo.linet.gr.jp/) もあわせてご覧ください。
 
-このページはセキュリティホール対応のパッケージ更新など、一部の更新情報のみが掲載されます。すべての更新は[ChangeLog](https://repository.plamolinux.org/pub/linux/Plamo/Plamo-7.x/x86_64/ChangeLog)をご覧ください。また更新情報は`get_pkginfo`コマンドで確認できます。
+このページはセキュリティホール対応のパッケージ更新など、一部の更新情報のみが掲載されます。すべての更新は[ChangeLog](https://repository.plamolinux.org/pub/linux/Plamo/Plamo-8.x/x86_64/ChangeLog)をご覧ください。また更新情報は`get_pkginfo`コマンドで確認できます。
