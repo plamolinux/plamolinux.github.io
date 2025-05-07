@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Plamo Linux</title>
+    <link>https://www.plamolinux.org/tags/</link>
+    <description>Recent content in Tags on Plamo Linux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 07 May 2025 14:44:00 +0900</lastBuildDate><atom:link href="https://www.plamolinux.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Plamo 8.x 情報</title>
+      <link>https://www.plamolinux.org/tags/plamo-8.x-%E6%83%85%E5%A0%B1/</link>
+      <pubDate>Wed, 07 May 2025 14:44:00 +0900</pubDate>
+      
+      <guid>https://www.plamolinux.org/tags/plamo-8.x-%E6%83%85%E5%A0%B1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>リリース情報</title>
+      <link>https://www.plamolinux.org/tags/%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E6%83%85%E5%A0%B1/</link>
+      <pubDate>Wed, 07 May 2025 14:44:00 +0900</pubDate>
+      
+      <guid>https://www.plamolinux.org/tags/%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E6%83%85%E5%A0%B1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>トラブル情報</title>
+      <link>https://www.plamolinux.org/tags/%E3%83%88%E3%83%A9%E3%83%96%E3%83%AB%E6%83%85%E5%A0%B1/</link>
+      <pubDate>Fri, 26 Jul 2024 18:00:00 +0900</pubDate>
+      
+      <guid>https://www.plamolinux.org/tags/%E3%83%88%E3%83%A9%E3%83%96%E3%83%AB%E6%83%85%E5%A0%B1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plamo 7.x 情報</title>
+      <link>https://www.plamolinux.org/tags/plamo-7.x-%E6%83%85%E5%A0%B1/</link>
+      <pubDate>Thu, 09 Feb 2023 19:00:00 +0900</pubDate>
+      
+      <guid>https://www.plamolinux.org/tags/plamo-7.x-%E6%83%85%E5%A0%B1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>セキュリティ情報</title>
+      <link>https://www.plamolinux.org/tags/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E6%83%85%E5%A0%B1/</link>
+      <pubDate>Thu, 09 Feb 2023 19:00:00 +0900</pubDate>
+      
+      <guid>https://www.plamolinux.org/tags/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E6%83%85%E5%A0%B1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plamo 6.x 情報</title>
+      <link>https://www.plamolinux.org/tags/plamo-6.x-%E6%83%85%E5%A0%B1/</link>
+      <pubDate>Mon, 15 Apr 2019 12:00:00 +0900</pubDate>
+      
+      <guid>https://www.plamolinux.org/tags/plamo-6.x-%E6%83%85%E5%A0%B1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>玩式草子</title>
+      <link>https://www.plamolinux.org/tags/%E7%8E%A9%E5%BC%8F%E8%8D%89%E5%AD%90/</link>
+      <pubDate>Mon, 21 May 2018 18:45:24 +0900</pubDate>
+      
+      <guid>https://www.plamolinux.org/tags/%E7%8E%A9%E5%BC%8F%E8%8D%89%E5%AD%90/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P-Plamo</title>
+      <link>https://www.plamolinux.org/tags/p-plamo/</link>
+      <pubDate>Mon, 01 Jun 2015 16:16:41 +0900</pubDate>
+      
+      <guid>https://www.plamolinux.org/tags/p-plamo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plamo 5.x 情報</title>
+      <link>https://www.plamolinux.org/tags/plamo-5.x-%E6%83%85%E5%A0%B1/</link>
+      <pubDate>Mon, 02 Feb 2015 15:42:31 +0900</pubDate>
+      
+      <guid>https://www.plamolinux.org/tags/plamo-5.x-%E6%83%85%E5%A0%B1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
