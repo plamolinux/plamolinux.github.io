@@ -13,6 +13,9 @@
       
       <guid>https://www.plamolinux.org/posts/2025-05-07-plamo-8.2-released/</guid>
       <description>&lt;p&gt;Plamo 8.2 をリリースしました。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.linet.gr.jp/~kojima/PlamoWeb/ML/htdocs/202505/msg00000.html&#34;&gt;[plamo:34427] Plamo-8.2 released&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;本来は去年のこの時期に出すべきバージョンだったものの，
 諸般の事情でタイミングが合わず，約 2 年ぶりの公式リリースとなります．&lt;/p&gt;
 &lt;p&gt;もっとも，最近では get_pkginfo で随時最新パッケージを入手できるため，「公式リリース」といってもローリングリリースの一区切り，くらいの意味しかなく，特に目新しい変更があるわけではないことはご承知ください．&lt;/p&gt;</description>
